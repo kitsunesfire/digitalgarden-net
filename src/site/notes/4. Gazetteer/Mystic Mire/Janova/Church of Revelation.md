@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/church-of-revelation/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/church-of-revelation/","noteIcon":""}
 ---
 
 
