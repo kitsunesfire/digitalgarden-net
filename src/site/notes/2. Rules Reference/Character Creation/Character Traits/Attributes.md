@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/character-traits/attributes/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/character-traits/attributes/","noteIcon":""}
 ---
 
 # Attributes
