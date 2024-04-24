@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/other-related-terms/seidr/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/other-related-terms/seidr/","noteIcon":""}
 ---
 
 # Seidr
