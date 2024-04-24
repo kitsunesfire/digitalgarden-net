@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/arrest-a-fall/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/arrest-a-fall/","noteIcon":""}
 ---
 
 # Arrest a Fall
