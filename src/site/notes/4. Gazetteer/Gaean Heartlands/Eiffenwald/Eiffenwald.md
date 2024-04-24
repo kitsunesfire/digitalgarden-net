@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/eiffenwald/eiffenwald/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/eiffenwald/eiffenwald/","noteIcon":""}
 ---
 
 
