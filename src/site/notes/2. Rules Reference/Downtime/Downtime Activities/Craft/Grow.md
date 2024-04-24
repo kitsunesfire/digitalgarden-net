@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/craft/grow/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/craft/grow/","noteIcon":""}
 ---
 
 # Grow
