@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/vernug-macht/vernug-macht/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/vernug-macht/vernug-macht/","noteIcon":""}
 ---
 
 
