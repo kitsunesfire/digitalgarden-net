@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/attribute-modifiers/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/attribute-modifiers/","noteIcon":""}
 ---
 
 # Attribute Modifiers
