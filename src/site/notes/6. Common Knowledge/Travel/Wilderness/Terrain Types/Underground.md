@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/terrain-types/underground/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/terrain-types/underground/","noteIcon":""}
 ---
 
 # Underground
