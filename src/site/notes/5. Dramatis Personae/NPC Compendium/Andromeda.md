@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/andromeda/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/andromeda/","noteIcon":""}
 ---
 
 
