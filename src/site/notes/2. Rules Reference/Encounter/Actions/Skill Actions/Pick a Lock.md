@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/pick-a-lock/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/pick-a-lock/","noteIcon":""}
 ---
 
 # Pick a Lock
