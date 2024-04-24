@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/cover-tracks/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/cover-tracks/","noteIcon":""}
 ---
 
 # Cover Tracks
