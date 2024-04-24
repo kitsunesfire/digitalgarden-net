@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-overview/new-player-information/new-player-survey/"}
+{"dg-publish":true,"permalink":"/1-overview/new-player-information/new-player-survey/","noteIcon":""}
 ---
 
 # New Player Survey
