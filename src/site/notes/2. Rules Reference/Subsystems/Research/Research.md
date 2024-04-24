@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/research/research/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/research/research/","noteIcon":""}
 ---
 
 # Research
