@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/administer-first-aid/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/administer-first-aid/","noteIcon":""}
 ---
 
 # Administer First Aid
