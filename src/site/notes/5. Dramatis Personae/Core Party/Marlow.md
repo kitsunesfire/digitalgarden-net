@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/core-party/marlow/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/core-party/marlow/","noteIcon":""}
 ---
 
 
