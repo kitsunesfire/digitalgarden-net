@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/fine-print/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/fine-print/","noteIcon":""}
 ---
 
 
