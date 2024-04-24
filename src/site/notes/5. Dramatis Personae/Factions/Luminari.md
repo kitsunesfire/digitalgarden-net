@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/luminari/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/luminari/","noteIcon":""}
 ---
 
 # The Luminari
