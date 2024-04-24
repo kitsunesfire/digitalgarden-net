@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/times-of-day/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/times-of-day/","noteIcon":""}
 ---
 
 # Times of Day
