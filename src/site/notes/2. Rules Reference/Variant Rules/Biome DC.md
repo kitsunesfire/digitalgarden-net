@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/biome-dc/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/biome-dc/","noteIcon":""}
 ---
 
 # Biome DC
