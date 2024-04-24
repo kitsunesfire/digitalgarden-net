@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/months/months/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/months/months/","noteIcon":""}
 ---
 
 # Months
