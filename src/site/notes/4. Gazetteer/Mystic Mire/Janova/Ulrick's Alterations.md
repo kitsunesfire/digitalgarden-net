@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/ulrick-s-alterations/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/ulrick-s-alterations/","noteIcon":""}
 ---
 
 
