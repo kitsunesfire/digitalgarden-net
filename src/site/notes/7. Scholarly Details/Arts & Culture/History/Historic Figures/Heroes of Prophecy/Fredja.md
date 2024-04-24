@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/history/historic-figures/heroes-of-prophecy/fredja/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/history/historic-figures/heroes-of-prophecy/fredja/","noteIcon":""}
 ---
 
