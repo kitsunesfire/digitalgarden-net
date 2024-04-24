@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/merchants/staffcrafters-guild/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/merchants/staffcrafters-guild/","noteIcon":""}
 ---
 
 # The Staffcrafters Guild 
