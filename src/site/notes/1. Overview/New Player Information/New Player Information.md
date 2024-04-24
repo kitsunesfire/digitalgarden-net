@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-overview/new-player-information/new-player-information/"}
+{"dg-publish":true,"permalink":"/1-overview/new-player-information/new-player-information/","noteIcon":""}
 ---
 
 # General Expectations
