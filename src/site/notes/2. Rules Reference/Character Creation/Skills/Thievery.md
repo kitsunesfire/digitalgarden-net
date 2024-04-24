@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/thievery/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/thievery/","noteIcon":""}
 ---
 
 # Thievery
