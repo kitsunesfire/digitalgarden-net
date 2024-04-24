@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/maeve/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/maeve/","noteIcon":""}
 ---
 
 
