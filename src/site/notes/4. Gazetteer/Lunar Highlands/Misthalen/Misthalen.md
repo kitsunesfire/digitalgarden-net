@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/misthalen/misthalen/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/misthalen/misthalen/","noteIcon":""}
 ---
 
 
