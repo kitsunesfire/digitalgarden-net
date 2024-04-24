@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/chosen/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/chosen/","noteIcon":""}
 ---
 
 # Chosen
