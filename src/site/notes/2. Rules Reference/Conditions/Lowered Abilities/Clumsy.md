@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/lowered-abilities/clumsy/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/lowered-abilities/clumsy/","noteIcon":""}
 ---
 
 # Clumsy
