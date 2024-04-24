@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/vale-of-twilight/tower-of-astraeus/tower-of-astraeus/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/vale-of-twilight/tower-of-astraeus/tower-of-astraeus/","noteIcon":""}
 ---
 
 
