@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/apparition/fey/fey/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/apparition/fey/fey/","noteIcon":""}
 ---
 
 # Fey
