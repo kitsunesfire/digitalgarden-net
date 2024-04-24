@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/foreign-pantheons/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/foreign-pantheons/","noteIcon":""}
 ---
 
 # Foreign Pantheons 
