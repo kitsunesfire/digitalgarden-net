@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/ithavell/ithavell/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/ithavell/ithavell/","noteIcon":""}
 ---
 
 
