@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/drakengard/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/drakengard/","noteIcon":""}
 ---
 
 # The Drakengard
