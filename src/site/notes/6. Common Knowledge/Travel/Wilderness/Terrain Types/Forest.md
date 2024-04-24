@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/terrain-types/forest/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/terrain-types/forest/","noteIcon":""}
 ---
 
 # Forest
