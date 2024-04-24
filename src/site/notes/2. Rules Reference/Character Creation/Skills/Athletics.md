@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/athletics/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/athletics/","noteIcon":""}
 ---
 
 # Athletics
