@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-archive/sharum-mal-kari/"}
+{"dg-publish":true,"permalink":"/0-archive/sharum-mal-kari/","noteIcon":""}
 ---
 
 # Sharum Mal'Kari
