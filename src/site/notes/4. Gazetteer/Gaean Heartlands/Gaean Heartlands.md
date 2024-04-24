@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/gaean-heartlands/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/gaean-heartlands/","noteIcon":""}
 ---
 
 # Gaean Heartlands
