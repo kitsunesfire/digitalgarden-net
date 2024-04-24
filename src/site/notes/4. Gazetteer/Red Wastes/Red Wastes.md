@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/red-wastes/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/red-wastes/","noteIcon":""}
 ---
 
 # Red Wastes
