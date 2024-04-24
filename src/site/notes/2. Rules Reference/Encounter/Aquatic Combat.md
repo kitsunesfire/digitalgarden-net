@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/aquatic-combat/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/aquatic-combat/","noteIcon":""}
 ---
 
 # Aquatic Combat
