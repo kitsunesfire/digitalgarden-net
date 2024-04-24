@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/yal-belanore/yal-belanore/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/yal-belanore/yal-belanore/","noteIcon":""}
 ---
 
 
