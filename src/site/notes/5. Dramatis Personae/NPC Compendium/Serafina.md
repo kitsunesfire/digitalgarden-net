@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/serafina/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/serafina/","noteIcon":""}
 ---
 
 
