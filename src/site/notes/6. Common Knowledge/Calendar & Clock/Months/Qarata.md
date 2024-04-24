@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/months/qarata/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/months/qarata/","noteIcon":""}
 ---
 
 # Qarata
