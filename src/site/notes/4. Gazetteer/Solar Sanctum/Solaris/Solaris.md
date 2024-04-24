@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/solar-sanctum/solaris/solaris/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/solar-sanctum/solaris/solaris/","noteIcon":""}
 ---
 
 
