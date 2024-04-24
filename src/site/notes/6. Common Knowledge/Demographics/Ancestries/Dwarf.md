@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/dwarf/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/dwarf/","noteIcon":""}
 ---
 
 # Dwarf
