@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/morg-trigal/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/morg-trigal/","noteIcon":""}
 ---
 
 # Morg Trigal
