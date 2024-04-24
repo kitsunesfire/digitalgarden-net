@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/evenfall-isles/raenbarad/raenbarad/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/evenfall-isles/raenbarad/raenbarad/","noteIcon":""}
 ---
 
 
