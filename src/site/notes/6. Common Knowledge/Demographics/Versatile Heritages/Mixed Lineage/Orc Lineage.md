@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/mixed-lineage/orc-lineage/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/mixed-lineage/orc-lineage/","noteIcon":""}
 ---
 
 # Orc Lineage
