@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-archive/old-world-atlas/camboragh/"}
+{"dg-publish":true,"permalink":"/0-archive/old-world-atlas/camboragh/","noteIcon":""}
 ---
 
 
