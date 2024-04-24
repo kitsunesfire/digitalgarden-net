@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/evenfall-isles/castelyr/castelyr/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/evenfall-isles/castelyr/castelyr/","noteIcon":""}
 ---
 
 
