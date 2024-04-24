@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/free-archetype/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/free-archetype/","noteIcon":""}
 ---
 
 # Free Archetype
