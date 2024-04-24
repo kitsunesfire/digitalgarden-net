@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/ghoul/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/ghoul/","noteIcon":""}
 ---
 
 # Ghoul
