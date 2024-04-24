@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/months/ak-tharif/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/months/ak-tharif/","noteIcon":""}
 ---
 
 # Ak'tharif
