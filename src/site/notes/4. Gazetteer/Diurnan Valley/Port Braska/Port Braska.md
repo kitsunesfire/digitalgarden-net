@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/port-braska/port-braska/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/port-braska/port-braska/","noteIcon":""}
 ---
 
 
