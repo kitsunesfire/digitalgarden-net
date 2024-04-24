@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/evenfall-isles/stavros/stavros/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/evenfall-isles/stavros/stavros/","noteIcon":""}
 ---
 
 
