@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/command-an-animal/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/command-an-animal/","noteIcon":""}
 ---
 
 # Command an Animal
