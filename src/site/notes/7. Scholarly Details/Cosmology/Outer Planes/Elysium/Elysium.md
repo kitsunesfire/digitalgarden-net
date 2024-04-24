@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/elysium/elysium/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/elysium/elysium/","noteIcon":""}
 ---
 
 # Elysium
