@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/senses/concealed/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/senses/concealed/","noteIcon":""}
 ---
 
 # Concealed
