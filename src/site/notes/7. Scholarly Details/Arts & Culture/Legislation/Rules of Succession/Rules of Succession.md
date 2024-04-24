@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/legislation/rules-of-succession/rules-of-succession/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/legislation/rules-of-succession/rules-of-succession/","noteIcon":""}
 ---
 
 # Rules of Succession
