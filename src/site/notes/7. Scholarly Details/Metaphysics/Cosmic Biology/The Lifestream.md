@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/7-scholarly-details/metaphysics/cosmic-biology/the-lifestream/","noteIcon":""}
+---
+
+# The Lifestream
+
+>[!grid]
+>![Pasted image 20230316024631.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230316024631.png)
+>![Pasted image 20230316022244.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230316022244.png)
+>![Pasted image 20230316022534.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230316022534.png)
+>![Pasted image 20230316022552.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230316022552.png)
+>![Pasted image 20230122162651.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230122162651.png)
+
+[[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]] is a river of spiritual energy coursing through [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]] and beyond. It exists alongside the physical world but is normally invisible to the naked eye; it becomes visible the deeper one ventures into metaphysically charged spaces. 
+
+[[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]] contains the [[7. Scholarly Details/Metaphysics/Essences/Essences\|essence]] of [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], as well as the memories, emotions, and knowledge of all who have lived on it. Portions of the lifestream are believed to be used to create new life on the [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], which will eventually return to the planet after they die. In ancient times, it was common practice to bury the dead, as it was believed that this was the best way to expediently return one's [[7. Scholarly Details/Metaphysics/Essences/Tesseri/Tesseri\|Tesseri]] to [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]]. Nowadays, fears of necromancy have put an end to this practice, with the public opting to cremate the dead instead-- though there are those who worry that some of the energy meant for [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]] is lost in this way. 
+
+[[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]] also acts as an afterlife of sorts for the conscious spirits of Sharum Mal'Kari, where they reside until they are eventually judged and sorted either into or out of the [[7. Scholarly Details/Metaphysics/Mortality & Death/Cycle of Regeneration\|Cycle of Regeneration]]. Certain souls with a particularly powerful will may remain here long after they have been judged, resisting the call to their intended destination. It is generally assumed that any spells that contact the deceased are only successful with souls that are still within [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]]; once they have left [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]], it is too late. However, if a soul resides in [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]] for too long, they risk becoming a [[6. Common Knowledge/Demographics/Versatile Heritages/Wraith\|wraith]]. 
+
+[[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]] is protected by an assortment of supernatural beings-- particularly psychopomps. In fact, one of the only things that nearly all supernatural entities can agree upon is the sanctity of [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]] and the necessity of its protection, as most souls are destined to empower them or benefit them in some way at some point. As a result, a soul's journey along [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]] is generally a safe one... though [[6. Common Knowledge/Demographics/Ancestries/Darkspawn/Darkspawn\|Darkspawn]] have become a greater and greater threat to that system as time has gone on.
