@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/dead-magic-zone/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/dead-magic-zone/","noteIcon":""}
 ---
 
 # Dead Magic Zone
