@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/versatile-heritages/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/versatile-heritages/","noteIcon":""}
 ---
 
 # Versatile Heritages
