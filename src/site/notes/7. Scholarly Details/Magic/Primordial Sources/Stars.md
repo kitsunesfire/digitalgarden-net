@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/primordial-sources/stars/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/primordial-sources/stars/","noteIcon":""}
 ---
 
 # Stars
