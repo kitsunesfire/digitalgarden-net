@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-overview/new-player-information/using-this-wiki/"}
+{"dg-publish":true,"permalink":"/1-overview/new-player-information/using-this-wiki/","noteIcon":""}
 ---
 
 # Using this Wiki
