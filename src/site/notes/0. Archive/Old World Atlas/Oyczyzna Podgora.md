@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-archive/old-world-atlas/oyczyzna-podgora/"}
+{"dg-publish":true,"permalink":"/0-archive/old-world-atlas/oyczyzna-podgora/","noteIcon":""}
 ---
 
 
