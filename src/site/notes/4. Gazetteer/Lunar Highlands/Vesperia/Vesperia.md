@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/vesperia/vesperia/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/vesperia/vesperia/","noteIcon":""}
 ---
 
 
