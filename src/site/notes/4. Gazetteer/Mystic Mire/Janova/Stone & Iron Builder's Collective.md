@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/stone-and-iron-builder-s-collective/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/stone-and-iron-builder-s-collective/","noteIcon":""}
 ---
 
 
