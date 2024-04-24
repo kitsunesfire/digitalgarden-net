@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/socialize/gain-renown/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/socialize/gain-renown/","noteIcon":""}
 ---
 
 # Gain Renown
