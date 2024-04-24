@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/character-traits/rumors/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/character-traits/rumors/","noteIcon":""}
 ---
 
 # Rumors
