@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/core-party/hideaki/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/core-party/hideaki/","noteIcon":""}
 ---
 
 
