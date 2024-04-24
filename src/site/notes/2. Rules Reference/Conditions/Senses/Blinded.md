@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/senses/blinded/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/senses/blinded/","noteIcon":""}
 ---
 
 # Blinded
