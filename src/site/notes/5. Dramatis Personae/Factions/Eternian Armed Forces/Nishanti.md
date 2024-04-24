@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-armed-forces/nishanti/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-armed-forces/nishanti/","noteIcon":""}
 ---
 
 # Nishanti
