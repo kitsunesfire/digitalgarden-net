@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/trip/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/trip/","noteIcon":""}
 ---
 
 # Trip
