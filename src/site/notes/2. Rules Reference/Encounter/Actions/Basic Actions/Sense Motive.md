@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/sense-motive/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/sense-motive/","noteIcon":""}
 ---
 
 # Sense Motive
