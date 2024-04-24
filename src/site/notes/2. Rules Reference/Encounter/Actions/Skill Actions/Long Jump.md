@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/long-jump/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/long-jump/","noteIcon":""}
 ---
 
 # Long Jump
