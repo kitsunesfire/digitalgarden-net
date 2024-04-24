@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/vale-of-twilight/vela-sombra/vela-sombra/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/vale-of-twilight/vela-sombra/vela-sombra/","noteIcon":""}
 ---
 
 
