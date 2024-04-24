@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/metal/nobility/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/metal/nobility/","noteIcon":""}
 ---
 
 # Nobility
