@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/arcadia/wyldlands/wyldlands/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/arcadia/wyldlands/wyldlands/","noteIcon":""}
 ---
 
 # Wyldlands
