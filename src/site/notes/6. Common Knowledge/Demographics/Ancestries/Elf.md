@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/elf/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/elf/","noteIcon":""}
 ---
 
 # Elves
