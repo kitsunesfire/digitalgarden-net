@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/cost-of-living/squalid/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/cost-of-living/squalid/","noteIcon":""}
 ---
 
 # Squalid
