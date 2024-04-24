@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/daily-life/cuisine/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/daily-life/cuisine/","noteIcon":""}
 ---
 
 # Cuisine
