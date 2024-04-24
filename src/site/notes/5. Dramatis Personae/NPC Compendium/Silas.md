@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/silas/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/silas/","noteIcon":""}
 ---
 
 
