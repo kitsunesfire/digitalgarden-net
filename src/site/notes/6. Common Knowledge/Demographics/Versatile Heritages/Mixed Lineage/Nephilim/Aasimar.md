@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/mixed-lineage/nephilim/aasimar/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/mixed-lineage/nephilim/aasimar/","noteIcon":""}
 ---
 
 # Aasimar
