@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/terrain-types/aerial/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/terrain-types/aerial/","noteIcon":""}
 ---
 
 # Aerial
