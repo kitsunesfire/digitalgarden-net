@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/daily-life/social-life/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/daily-life/social-life/","noteIcon":""}
 ---
 
 # Social Life
