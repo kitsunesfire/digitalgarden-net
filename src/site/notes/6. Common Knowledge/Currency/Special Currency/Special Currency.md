@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/currency/special-currency/special-currency/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/currency/special-currency/special-currency/","noteIcon":""}
 ---
 
 # Special Currency
