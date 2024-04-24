@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/travel/resting/resting/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/travel/resting/resting/","noteIcon":""}
 ---
 
 # Resting
