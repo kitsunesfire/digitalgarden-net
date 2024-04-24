@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/sylvan/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/sylvan/","noteIcon":""}
 ---
 
 # Sylvan
