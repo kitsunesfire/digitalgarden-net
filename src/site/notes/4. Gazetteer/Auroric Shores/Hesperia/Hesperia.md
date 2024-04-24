@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/auroric-shores/hesperia/hesperia/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/auroric-shores/hesperia/hesperia/","noteIcon":""}
 ---
 
 
