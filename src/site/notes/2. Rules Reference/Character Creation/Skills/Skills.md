@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/skills/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/skills/","noteIcon":""}
 ---
 
 # Skills
