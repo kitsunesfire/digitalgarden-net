@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/sandro-s-leather-supply/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/sandro-s-leather-supply/","noteIcon":""}
 ---
 
 
