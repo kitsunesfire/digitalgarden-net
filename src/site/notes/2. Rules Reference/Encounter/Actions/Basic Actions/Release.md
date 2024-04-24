@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/release/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/release/","noteIcon":""}
 ---
 
 # Release
