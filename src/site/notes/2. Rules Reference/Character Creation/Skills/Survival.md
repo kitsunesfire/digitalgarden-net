@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/survival/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/survival/","noteIcon":""}
 ---
 
 # Survival
