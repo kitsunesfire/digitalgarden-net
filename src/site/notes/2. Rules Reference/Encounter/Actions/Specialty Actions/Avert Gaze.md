@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/avert-gaze/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/avert-gaze/","noteIcon":""}
 ---
 
 # Avert Gaze
