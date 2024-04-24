@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/crafting/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/crafting/","noteIcon":""}
 ---
 
 # Crafting
