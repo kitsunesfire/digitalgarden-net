@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/titles/spiritualist/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/titles/spiritualist/","noteIcon":""}
 ---
 
 # Spiritualist
