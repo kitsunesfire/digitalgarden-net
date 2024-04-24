@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/vesperia/vespertine-gardens/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/vesperia/vespertine-gardens/","noteIcon":""}
 ---
 
 # The Vespertine Gardens
