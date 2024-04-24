@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-overview/new-player-information/community-standards/"}
+{"dg-publish":true,"permalink":"/1-overview/new-player-information/community-standards/","noteIcon":""}
 ---
 
 # Community Standards
