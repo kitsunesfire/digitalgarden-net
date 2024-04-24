@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/drop-prone/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/drop-prone/","noteIcon":""}
 ---
 
 # Drop Prone
