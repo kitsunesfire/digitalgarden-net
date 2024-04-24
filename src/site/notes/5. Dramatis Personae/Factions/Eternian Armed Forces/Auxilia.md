@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-armed-forces/auxilia/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-armed-forces/auxilia/","noteIcon":""}
 ---
 
 # Auxilia
