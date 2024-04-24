@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/vale-of-twilight/ravensgate/ravensgate/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/vale-of-twilight/ravensgate/ravensgate/","noteIcon":""}
 ---
 
 
