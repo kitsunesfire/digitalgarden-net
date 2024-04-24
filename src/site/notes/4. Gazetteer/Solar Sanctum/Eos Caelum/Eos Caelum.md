@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/solar-sanctum/eos-caelum/eos-caelum/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/solar-sanctum/eos-caelum/eos-caelum/","noteIcon":""}
 ---
 
 
