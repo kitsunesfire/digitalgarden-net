@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/spellcasting-adjustments/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/spellcasting-adjustments/","noteIcon":""}
 ---
 
 # Spellcasting Adjustments
