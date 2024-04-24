@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/mystic-mire/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/mystic-mire/","noteIcon":""}
 ---
 
 # The Mystic Mire
