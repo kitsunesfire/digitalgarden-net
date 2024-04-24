@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/rosewood-carpentry-co/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/rosewood-carpentry-co/","noteIcon":""}
 ---
 
 
