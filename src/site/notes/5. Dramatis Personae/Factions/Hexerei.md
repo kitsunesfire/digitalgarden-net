@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/hexerei/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/hexerei/","noteIcon":""}
 ---
 
 # The Hexerei
