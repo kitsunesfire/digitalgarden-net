@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/claudette-s-kitchen/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/claudette-s-kitchen/","noteIcon":""}
 ---
 
 
