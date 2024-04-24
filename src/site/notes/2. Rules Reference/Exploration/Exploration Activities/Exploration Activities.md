@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/exploration-activities/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/exploration-activities/","noteIcon":""}
 ---
 
 # Exploration Activities
