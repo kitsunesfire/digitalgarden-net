@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/immermehr/immermehr/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/immermehr/immermehr/","noteIcon":""}
 ---
 
 
