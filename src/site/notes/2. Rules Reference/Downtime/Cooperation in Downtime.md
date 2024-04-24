@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/cooperation-in-downtime/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/cooperation-in-downtime/","noteIcon":""}
 ---
 
 # Cooperation in Downtime
