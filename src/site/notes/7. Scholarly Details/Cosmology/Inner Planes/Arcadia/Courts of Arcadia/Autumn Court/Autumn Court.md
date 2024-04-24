@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/arcadia/courts-of-arcadia/autumn-court/autumn-court/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/arcadia/courts-of-arcadia/autumn-court/autumn-court/","noteIcon":""}
 ---
 
 # Autumn Court
