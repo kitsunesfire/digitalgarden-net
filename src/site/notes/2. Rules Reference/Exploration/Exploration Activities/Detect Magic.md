@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/detect-magic/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/detect-magic/","noteIcon":""}
 ---
 
 # Detect Magic
