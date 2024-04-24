@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/terra-sigillata/terra-sigillata/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/terra-sigillata/terra-sigillata/","noteIcon":""}
 ---
 
 
