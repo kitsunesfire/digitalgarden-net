@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/holidays/midwinter/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/holidays/midwinter/","noteIcon":""}
 ---
 
 # Midwinter
