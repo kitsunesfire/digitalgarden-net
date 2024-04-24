@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/noble-houses/noble-houses/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/noble-houses/noble-houses/","noteIcon":""}
 ---
 
 # Noble Houses
