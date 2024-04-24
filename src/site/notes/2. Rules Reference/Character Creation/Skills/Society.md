@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/society/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/society/","noteIcon":""}
 ---
 
 # Society
