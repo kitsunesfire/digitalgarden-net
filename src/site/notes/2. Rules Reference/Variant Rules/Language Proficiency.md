@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/language-proficiency/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/language-proficiency/","noteIcon":""}
 ---
 
 # Language Proficiency
