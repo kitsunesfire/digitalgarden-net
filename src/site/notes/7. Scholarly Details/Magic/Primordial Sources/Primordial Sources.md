@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/primordial-sources/primordial-sources/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/primordial-sources/primordial-sources/","noteIcon":""}
 ---
 
 # Primordial Sources
