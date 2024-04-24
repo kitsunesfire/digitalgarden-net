@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/perform-sacred-rites/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/perform-sacred-rites/","noteIcon":""}
 ---
 
 # Perform Sacred Rites
