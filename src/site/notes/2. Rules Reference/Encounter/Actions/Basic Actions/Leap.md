@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/leap/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/leap/","noteIcon":""}
 ---
 
 # Leap
