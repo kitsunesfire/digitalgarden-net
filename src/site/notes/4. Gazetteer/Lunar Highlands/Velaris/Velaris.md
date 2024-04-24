@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/velaris/velaris/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/velaris/velaris/","noteIcon":""}
 ---
 
 
