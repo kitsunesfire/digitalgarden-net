@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/attack-of-opportunity/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/attack-of-opportunity/","noteIcon":""}
 ---
 
 # Attack of Opportunity
