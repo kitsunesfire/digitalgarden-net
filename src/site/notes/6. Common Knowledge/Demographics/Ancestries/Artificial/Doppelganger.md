@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/artificial/doppelganger/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/artificial/doppelganger/","noteIcon":""}
 ---
 
 # Doppelganger 
