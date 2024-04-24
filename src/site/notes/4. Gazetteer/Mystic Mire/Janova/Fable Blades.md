@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/fable-blades/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/fable-blades/","noteIcon":""}
 ---
 
 
