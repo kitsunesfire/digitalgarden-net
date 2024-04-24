@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/stone/stone/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/stone/stone/","noteIcon":""}
 ---
 
 # Stone
