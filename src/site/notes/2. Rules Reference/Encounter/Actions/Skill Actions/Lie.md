@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/lie/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/lie/","noteIcon":""}
 ---
 
 # Lie
