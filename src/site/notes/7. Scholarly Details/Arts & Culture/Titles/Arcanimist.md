@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/titles/arcanimist/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/titles/arcanimist/","noteIcon":""}
 ---
 
 # Arcanimist
