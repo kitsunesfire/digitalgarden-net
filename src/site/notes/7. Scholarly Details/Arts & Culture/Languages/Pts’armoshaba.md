@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/pts-armoshaba/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/pts-armoshaba/","noteIcon":""}
 ---
 
 # Pts’armoshaba
