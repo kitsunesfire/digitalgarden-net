@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/attitude/unfriendly/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/attitude/unfriendly/","noteIcon":""}
 ---
 
 # Unfriendly
