@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-archive/old-world-atlas/sokoku/"}
+{"dg-publish":true,"permalink":"/0-archive/old-world-atlas/sokoku/","noteIcon":""}
 ---
 
 
