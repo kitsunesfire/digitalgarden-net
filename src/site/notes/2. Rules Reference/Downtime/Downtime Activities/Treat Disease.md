@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/treat-disease/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/treat-disease/","noteIcon":""}
 ---
 
 # Treat Disease
