@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/identify-magic/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/identify-magic/","noteIcon":""}
 ---
 
 # Identify Magic
