@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-government/ministry-of-secrets/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-government/ministry-of-secrets/","noteIcon":""}
 ---
 
 # Ministry of Secrets
