@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-armed-forces/praetorian-guard/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-armed-forces/praetorian-guard/","noteIcon":""}
 ---
 
 # Praetorian Guard 
