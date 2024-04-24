@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/learn-a-spell/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/learn-a-spell/","noteIcon":""}
 ---
 
 # Learn a Spell
