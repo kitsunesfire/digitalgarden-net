@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/lore/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/lore/","noteIcon":""}
 ---
 
 # Lore
