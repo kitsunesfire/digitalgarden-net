@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/the-parting-glass-janova/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/the-parting-glass-janova/","noteIcon":""}
 ---
 
 
