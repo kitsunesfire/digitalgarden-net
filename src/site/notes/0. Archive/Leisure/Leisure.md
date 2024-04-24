@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-archive/leisure/leisure/"}
+{"dg-publish":true,"permalink":"/0-archive/leisure/leisure/","noteIcon":""}
 ---
 
 # Leisure
