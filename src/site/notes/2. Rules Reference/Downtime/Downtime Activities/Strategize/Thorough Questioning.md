@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/strategize/thorough-questioning/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/strategize/thorough-questioning/","noteIcon":""}
 ---
 
 # Thorough Questioning
