@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/castellum-chryse/castellum-chryse/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/castellum-chryse/castellum-chryse/","noteIcon":""}
 ---
 
 
