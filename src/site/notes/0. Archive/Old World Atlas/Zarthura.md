@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-archive/old-world-atlas/zarthura/"}
+{"dg-publish":true,"permalink":"/0-archive/old-world-atlas/zarthura/","noteIcon":""}
 ---
 
 # Zarthura - The Land of Fate
