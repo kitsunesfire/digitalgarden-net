@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/sustain-an-activation/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/sustain-an-activation/","noteIcon":""}
 ---
 
 # Sustain an Activation
