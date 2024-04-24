@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-government/ministry-of-riches/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-government/ministry-of-riches/","noteIcon":""}
 ---
 
 # The Ministry of Riches
