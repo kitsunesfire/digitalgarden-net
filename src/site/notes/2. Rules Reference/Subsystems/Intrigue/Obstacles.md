@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/obstacles/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/obstacles/","noteIcon":""}
 ---
 
 # Obstacles
