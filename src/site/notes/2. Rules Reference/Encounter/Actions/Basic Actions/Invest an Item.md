@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/invest-an-item/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/invest-an-item/","noteIcon":""}
 ---
 
 # Invest an Item
