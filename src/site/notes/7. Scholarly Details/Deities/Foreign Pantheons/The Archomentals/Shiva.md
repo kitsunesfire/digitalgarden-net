@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-archomentals/shiva/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-archomentals/shiva/","noteIcon":""}
 ---
 
 # Shiva, Archon of Ice
