@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/awareness/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/awareness/","noteIcon":""}
 ---
 
 # Awareness
