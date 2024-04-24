@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-government/ennead/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-government/ennead/","noteIcon":""}
 ---
 
 # The Ennead
