@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/gaelira/gaelira/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/gaelira/gaelira/","noteIcon":""}
 ---
 
 
