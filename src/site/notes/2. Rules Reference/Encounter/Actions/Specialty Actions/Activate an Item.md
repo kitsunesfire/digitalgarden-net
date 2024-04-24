@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/activate-an-item/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/activate-an-item/","noteIcon":""}
 ---
 
 # Activate an Item
