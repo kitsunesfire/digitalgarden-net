@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/apparition/fey/wyldling/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/apparition/fey/wyldling/","noteIcon":""}
 ---
 
 # Wyldling
