@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/core-party/iain/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/core-party/iain/","noteIcon":""}
 ---
 
 
