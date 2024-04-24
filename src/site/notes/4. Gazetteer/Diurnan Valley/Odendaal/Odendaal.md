@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/odendaal/odendaal/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/odendaal/odendaal/","noteIcon":""}
 ---
 
 
