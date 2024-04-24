@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/stone/teleportation/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/stone/teleportation/","noteIcon":""}
 ---
 
 # Teleportation
