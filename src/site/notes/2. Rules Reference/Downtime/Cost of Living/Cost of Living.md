@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/cost-of-living/cost-of-living/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/cost-of-living/cost-of-living/","noteIcon":""}
 ---
 
 # Cost of Living
