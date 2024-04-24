@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/currency/currency/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/currency/currency/","noteIcon":""}
 ---
 
 # Currency
