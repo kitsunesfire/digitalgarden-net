@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/noble-houses/mazzaroth/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/noble-houses/mazzaroth/","noteIcon":""}
 ---
 
 # Mazzaroth
