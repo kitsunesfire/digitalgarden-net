@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/intuition-points/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/intuition-points/","noteIcon":""}
 ---
 
 # Intuition Points
