@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/holidays/solar-sankranti/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/holidays/solar-sankranti/","noteIcon":""}
 ---
 
 # Solar Sankranti
