@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/fahlwind/fahlwind/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/fahlwind/fahlwind/","noteIcon":""}
 ---
 
 
