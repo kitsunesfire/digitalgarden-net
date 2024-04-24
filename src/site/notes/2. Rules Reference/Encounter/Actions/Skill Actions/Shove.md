@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/shove/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/shove/","noteIcon":""}
 ---
 
 # Shove
