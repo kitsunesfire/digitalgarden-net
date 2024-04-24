@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/follow-the-expert/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/follow-the-expert/","noteIcon":""}
 ---
 
 # Follow the Expert
