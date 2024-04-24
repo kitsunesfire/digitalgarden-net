@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/months/firqal/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/months/firqal/","noteIcon":""}
 ---
 
 # Firqal
