@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/festivals-and-ceremonies/festival-of-blades/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/festivals-and-ceremonies/festival-of-blades/","noteIcon":""}
 ---
 
 # Festival of Blades
