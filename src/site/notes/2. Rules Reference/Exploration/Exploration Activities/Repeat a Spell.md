@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/repeat-a-spell/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/repeat-a-spell/","noteIcon":""}
 ---
 
 # Repeat a Spell
