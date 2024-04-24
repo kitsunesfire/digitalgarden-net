@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/3-campaign-journal/the-story-thus-far/"}
+{"dg-publish":true,"permalink":"/3-campaign-journal/the-story-thus-far/","noteIcon":""}
 ---
 
