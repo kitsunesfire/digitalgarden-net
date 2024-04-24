@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/arcadia/wyldlands/unassigned-wyldlands-locations/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/arcadia/wyldlands/unassigned-wyldlands-locations/","noteIcon":""}
 ---
 
 
