@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/compose-missive/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/compose-missive/","noteIcon":""}
 ---
 
 # Compose Missive
