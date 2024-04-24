@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/elysium/the-temple-of-sacred-ashes/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/elysium/the-temple-of-sacred-ashes/","noteIcon":""}
 ---
 
 # The Temple of Sacred Ashes
