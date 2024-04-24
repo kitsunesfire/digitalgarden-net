@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/void-effects/dark-sun/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/void-effects/dark-sun/","noteIcon":""}
 ---
 
 # Dark Sun
