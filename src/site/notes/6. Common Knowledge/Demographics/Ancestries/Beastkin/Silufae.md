@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/beastkin/silufae/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/beastkin/silufae/","noteIcon":""}
 ---
 
 # Silufae
