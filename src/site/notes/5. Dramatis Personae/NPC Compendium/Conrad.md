@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/conrad/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/conrad/","noteIcon":""}
 ---
 
 
