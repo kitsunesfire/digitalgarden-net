@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/languages/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/languages/","noteIcon":""}
 ---
 
 # Languages
