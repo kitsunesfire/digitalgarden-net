@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/petran/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/petran/","noteIcon":""}
 ---
 
 # Petran
