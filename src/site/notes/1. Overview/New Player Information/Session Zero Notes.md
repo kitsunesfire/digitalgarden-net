@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-overview/new-player-information/session-zero-notes/"}
+{"dg-publish":true,"permalink":"/1-overview/new-player-information/session-zero-notes/","noteIcon":""}
 ---
 
 # Session Zero Notes
