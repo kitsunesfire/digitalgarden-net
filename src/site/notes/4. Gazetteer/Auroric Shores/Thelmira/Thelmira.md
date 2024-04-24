@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/auroric-shores/thelmira/thelmira/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/auroric-shores/thelmira/thelmira/","noteIcon":""}
 ---
 
 
