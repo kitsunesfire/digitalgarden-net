@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/daily-life/fashion/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/daily-life/fashion/","noteIcon":""}
 ---
 
 # Fashion
