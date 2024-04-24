@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/commerce/buy-an-uncommon-magic-item/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/commerce/buy-an-uncommon-magic-item/","noteIcon":""}
 ---
 
 # Buy an Uncommon Magic Item
