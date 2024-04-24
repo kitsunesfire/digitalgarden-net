@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/borrow-an-arcane-spell/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/borrow-an-arcane-spell/","noteIcon":""}
 ---
 
 # Borrow an Arcane Spell
