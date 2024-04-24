@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/wellspring-magic-zone/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/wellspring-magic-zone/","noteIcon":""}
 ---
 
 # Wellspring Magic Zone
