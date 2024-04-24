@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/provinces/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/provinces/","noteIcon":""}
 ---
 
 # Provinces
