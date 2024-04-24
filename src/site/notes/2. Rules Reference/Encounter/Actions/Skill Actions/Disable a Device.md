@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/disable-a-device/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/disable-a-device/","noteIcon":""}
 ---
 
 # Disable a Device
