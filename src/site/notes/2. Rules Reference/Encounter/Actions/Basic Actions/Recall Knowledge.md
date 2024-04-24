@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/recall-knowledge/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/recall-knowledge/","noteIcon":""}
 ---
 
 # Recall Knowledge
