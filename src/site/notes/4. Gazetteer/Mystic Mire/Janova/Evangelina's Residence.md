@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/evangelina-s-residence/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/evangelina-s-residence/","noteIcon":""}
 ---
 
 
