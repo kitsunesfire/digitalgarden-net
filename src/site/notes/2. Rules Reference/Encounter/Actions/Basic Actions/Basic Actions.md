@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/basic-actions/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/basic-actions/","noteIcon":""}
 ---
 
 # Basic Actions
