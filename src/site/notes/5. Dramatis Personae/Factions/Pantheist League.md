@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/pantheist-league/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/pantheist-league/","noteIcon":""}
 ---
 
 # The Pantheist League
