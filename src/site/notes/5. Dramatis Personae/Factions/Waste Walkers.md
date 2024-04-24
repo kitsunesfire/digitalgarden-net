@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/waste-walkers/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/waste-walkers/","noteIcon":""}
 ---
 
 # The Waste Walkers
