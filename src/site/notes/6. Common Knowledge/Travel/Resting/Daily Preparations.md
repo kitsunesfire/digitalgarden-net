@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/travel/resting/daily-preparations/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/travel/resting/daily-preparations/","noteIcon":""}
 ---
 
 # Daily Preparations
