@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/off-guard/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/off-guard/","noteIcon":""}
 ---
 
 # Off-Guard
