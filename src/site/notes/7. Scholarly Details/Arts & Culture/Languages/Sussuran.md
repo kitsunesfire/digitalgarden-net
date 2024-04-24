@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/sussuran/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/sussuran/","noteIcon":""}
 ---
 
 # Sussuran
