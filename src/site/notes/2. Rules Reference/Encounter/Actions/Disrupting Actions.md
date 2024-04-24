@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/disrupting-actions/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/disrupting-actions/","noteIcon":""}
 ---
 
 # Disrupting Actions
