@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/beastkin/vishkanya/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/beastkin/vishkanya/","noteIcon":""}
 ---
 
 # Vishkanya
