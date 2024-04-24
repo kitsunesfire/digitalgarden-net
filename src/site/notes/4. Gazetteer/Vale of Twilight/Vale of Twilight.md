@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/vale-of-twilight/vale-of-twilight/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/vale-of-twilight/vale-of-twilight/","noteIcon":""}
 ---
 
 # Vale of Twilight
