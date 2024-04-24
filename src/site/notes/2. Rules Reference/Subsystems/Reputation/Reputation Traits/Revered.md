@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/reputation/reputation-traits/revered/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/reputation/reputation-traits/revered/","noteIcon":""}
 ---
 
 # Revered
