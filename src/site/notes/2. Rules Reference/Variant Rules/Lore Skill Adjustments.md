@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/lore-skill-adjustments/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/lore-skill-adjustments/","noteIcon":""}
 ---
 
 # Lore Skill Adjustments
