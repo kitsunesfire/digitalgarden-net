@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/variant-rules/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/variant-rules/","noteIcon":""}
 ---
 
 # Variant Rules
