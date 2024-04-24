@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/maneuver-in-flight/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/maneuver-in-flight/","noteIcon":""}
 ---
 
 # Maneuver in Flight ![1-1action.png](/img/user/x.%20Assets/Formatting/Pf2e%20Icons/1-1action.png)
