@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/festivals-and-ceremonies/kinsmass/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/festivals-and-ceremonies/kinsmass/","noteIcon":""}
 ---
 
 # Kinsmass
