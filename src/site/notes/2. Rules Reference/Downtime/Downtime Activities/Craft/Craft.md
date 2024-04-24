@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/craft/craft/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/craft/craft/","noteIcon":""}
 ---
 
 # Craft
