@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/drachenfel/the-hoard/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/drachenfel/the-hoard/","noteIcon":""}
 ---
 
