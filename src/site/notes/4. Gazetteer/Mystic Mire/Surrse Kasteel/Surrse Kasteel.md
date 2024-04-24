@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/surrse-kasteel/surrse-kasteel/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/surrse-kasteel/surrse-kasteel/","noteIcon":""}
 ---
 
 
