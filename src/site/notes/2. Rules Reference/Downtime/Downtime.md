@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime/","noteIcon":""}
 ---
 
 # Downtime
