@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/temenhain/temenhain/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/temenhain/temenhain/","noteIcon":""}
 ---
 
 
