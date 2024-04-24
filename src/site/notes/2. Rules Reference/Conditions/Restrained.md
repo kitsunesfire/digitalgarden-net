@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/restrained/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/restrained/","noteIcon":""}
 ---
 
 # Restrained
