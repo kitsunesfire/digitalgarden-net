@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/holidays/midsummer/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/holidays/midsummer/","noteIcon":""}
 ---
 
 # Midsummer
