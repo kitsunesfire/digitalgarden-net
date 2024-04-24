@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/performance/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/performance/","noteIcon":""}
 ---
 
 # Performance
