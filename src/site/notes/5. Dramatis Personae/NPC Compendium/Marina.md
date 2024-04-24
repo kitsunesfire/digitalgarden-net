@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/marina/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/marina/","noteIcon":""}
 ---
 
 
