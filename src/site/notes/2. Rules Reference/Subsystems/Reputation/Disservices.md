@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/reputation/disservices/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/reputation/disservices/","noteIcon":""}
 ---
 
 # Disservices
