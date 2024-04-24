@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/commerce/earn-income/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/commerce/earn-income/","noteIcon":""}
 ---
 
 # Earn Income
