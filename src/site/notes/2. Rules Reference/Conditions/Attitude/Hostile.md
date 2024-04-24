@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/attitude/hostile/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/attitude/hostile/","noteIcon":""}
 ---
 
 # Hostile
