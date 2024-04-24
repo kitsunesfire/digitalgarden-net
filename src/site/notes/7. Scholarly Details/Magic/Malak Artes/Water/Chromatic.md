@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/water/chromatic/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/water/chromatic/","noteIcon":""}
 ---
 
 # Chromatic
