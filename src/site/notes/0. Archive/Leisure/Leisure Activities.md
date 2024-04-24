@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-archive/leisure/leisure-activities/"}
+{"dg-publish":true,"permalink":"/0-archive/leisure/leisure-activities/","noteIcon":""}
 ---
 
 # Leisure Activities
