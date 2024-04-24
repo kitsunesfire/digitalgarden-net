@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/rituals/sending/"}
+---
+
+# Sending
+
+Sending is an act that psychopomps may perform to help guide spirits of the dead to [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]]. Sending may be done in a number of ways, though the most common method is a dance ritual that has draconic roots and is traditionally practiced and taught in [[0. Archive/Old World Atlas/Sokoku\|Sokoku]]. Dragons refer to this act of sending as "asobi".
+
+Sending only effects the [[7. Scholarly Details/Magic/Magical Traditions/Ether\|Ether]] of perished sentient lifeforms; as far as anyone can tell, lifeforms without sentience such as plants and animals do not require sending, as they cannot resist the call of [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]] upon their demise. On the other hand, sentient beings who die without accepting their death, or otherwise resist the call of [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]], result in their [[7. Scholarly Details/Magic/Magical Traditions/Ether\|Ether]] lingering on Sharum Mal'kari and thus must be Sent to find their way back into the [[7. Scholarly Details/Metaphysics/Mortality & Death/Cycle of Regeneration\|Cycle of Regeneration]]. If the person has a strong enough conviction to remain in the world of the living, they may even take the form of an [[7. Scholarly Details/Metaphysics/Mortality & Death/Unsent\|Unsent]]. [[7. Scholarly Details/Metaphysics/Mortality & Death/Unsent\|Unsent]] or not, any spirit that remains in the world beyond their death is likely to end up envying the living, with that envy turning to hate and resentment, which eventually turns them into a [[6. Common Knowledge/Demographics/Ancestries/Darkspawn/Darkspawn\|Darkspawn]]. 
+
+A spirit doesn't necessarily need to be Sent to find its way to [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]]; in fact, it is likely that *most* people do not need a [[7. Scholarly Details/Magic/Rituals/Sending\|Sending]]. [[7. Scholarly Details/Magic/Rituals/Sending\|Sending]] is usually only required when a person dies in a violent or otherwise unusual circumstances, as their spirit still has "unfinished business" back in the world of the living. Once an individual has accepted death, they will return to [[7. Scholarly Details/Metaphysics/Cosmic Biology/The Lifestream\|The Lifestream]] without the need of sending; even individuals who go on to become [[7. Scholarly Details/Metaphysics/Mortality & Death/Unsent\|Unsent]] possess this capacity. 
+
+
