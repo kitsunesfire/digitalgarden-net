@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/primordial-sources/sky/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/primordial-sources/sky/","noteIcon":""}
 ---
 
 # Sky
