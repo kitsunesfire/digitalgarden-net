@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-overview/readme/"}
+{"dg-publish":true,"permalink":"/1-overview/readme/","noteIcon":""}
 ---
 
 # Sharum Mal'Kari Wiki
