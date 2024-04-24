@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/automatic-bonus-progression/automatic-bonus-progression/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/automatic-bonus-progression/automatic-bonus-progression/","noteIcon":""}
 ---
 
 # Automatic Bonus Progression
