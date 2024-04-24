@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/weltenquell/weltenquell/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/weltenquell/weltenquell/","noteIcon":""}
 ---
 
 
