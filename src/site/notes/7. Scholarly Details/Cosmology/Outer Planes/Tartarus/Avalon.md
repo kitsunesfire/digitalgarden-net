@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/tartarus/avalon/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/tartarus/avalon/","noteIcon":""}
 ---
 
 # Avalon
