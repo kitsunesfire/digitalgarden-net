@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/character-traits/goals/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/character-traits/goals/","noteIcon":""}
 ---
 
 # Goals
