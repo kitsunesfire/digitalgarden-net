@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/diurnan-valley/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/diurnan-valley/","noteIcon":""}
 ---
 
 # Diurnan Valley
