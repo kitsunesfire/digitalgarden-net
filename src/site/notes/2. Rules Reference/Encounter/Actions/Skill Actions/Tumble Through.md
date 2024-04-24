@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/tumble-through/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/tumble-through/","noteIcon":""}
 ---
 
 # Tumble Through ![1-1action.png](/img/user/x.%20Assets/Formatting/Pf2e%20Icons/1-1action.png)
