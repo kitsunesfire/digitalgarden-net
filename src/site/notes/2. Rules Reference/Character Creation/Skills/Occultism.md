@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/occultism/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/occultism/","noteIcon":""}
 ---
 
 # Occultism
