@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/evenfall-isles/dierna/dierna/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/evenfall-isles/dierna/dierna/","noteIcon":""}
 ---
 
 
