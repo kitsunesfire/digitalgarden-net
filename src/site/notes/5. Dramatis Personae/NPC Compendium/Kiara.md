@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/kiara/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/kiara/","noteIcon":""}
 ---
 
 
