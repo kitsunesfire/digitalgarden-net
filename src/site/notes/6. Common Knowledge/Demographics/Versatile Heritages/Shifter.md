@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/shifter/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/shifter/","noteIcon":""}
 ---
 
 # Shifter
