@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/detect-magic-adjustments/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/detect-magic-adjustments/","noteIcon":""}
 ---
 
 # Detect Magic Adjustments
