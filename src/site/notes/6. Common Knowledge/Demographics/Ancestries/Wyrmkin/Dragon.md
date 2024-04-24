@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/wyrmkin/dragon/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/wyrmkin/dragon/","noteIcon":""}
 ---
 
 # Dragon
