@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/noordhawke/noordhawke/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/noordhawke/noordhawke/","noteIcon":""}
 ---
 
 
