@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-armed-forces/lunar-mages/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-armed-forces/lunar-mages/","noteIcon":""}
 ---
 
 # Lunar Mages
