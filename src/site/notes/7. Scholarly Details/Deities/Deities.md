@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/deities/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/deities/","noteIcon":""}
 ---
 
 # Deities
