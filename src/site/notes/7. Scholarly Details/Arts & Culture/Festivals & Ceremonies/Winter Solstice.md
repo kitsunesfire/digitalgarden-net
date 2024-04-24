@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/festivals-and-ceremonies/winter-solstice/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/festivals-and-ceremonies/winter-solstice/","noteIcon":""}
 ---
 
 # Winter Solstice
