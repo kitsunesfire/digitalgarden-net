@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/aeon-mechanics/aeon-faq/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/aeon-mechanics/aeon-faq/","noteIcon":""}
 ---
 
 # Aeon FAQ
