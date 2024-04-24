@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/core-party/sophia/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/core-party/sophia/","noteIcon":""}
 ---
 
 
