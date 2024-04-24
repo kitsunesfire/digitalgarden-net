@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/conceal-an-object/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/conceal-an-object/","noteIcon":""}
 ---
 
 # Conceal an Object
