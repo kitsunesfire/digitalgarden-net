@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/solar-sanctum/noricum/noricum/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/solar-sanctum/noricum/noricum/","noteIcon":""}
 ---
 
 
