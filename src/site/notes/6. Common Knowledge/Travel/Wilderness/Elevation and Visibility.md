@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/elevation-and-visibility/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/elevation-and-visibility/","noteIcon":""}
 ---
 
 # Elevation and Visibility
