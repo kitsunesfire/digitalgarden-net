@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/rituals/astral-binding/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/rituals/astral-binding/","noteIcon":""}
 ---
 
 
