@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/mariren/mariren/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/mariren/mariren/","noteIcon":""}
 ---
 
 
