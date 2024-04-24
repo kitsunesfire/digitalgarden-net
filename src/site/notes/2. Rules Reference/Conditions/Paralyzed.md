@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/paralyzed/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/paralyzed/","noteIcon":""}
 ---
 
 # Paralyzed
