@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/myers-and-whitney-general-goods-store/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/myers-and-whitney-general-goods-store/","noteIcon":""}
 ---
 
 
