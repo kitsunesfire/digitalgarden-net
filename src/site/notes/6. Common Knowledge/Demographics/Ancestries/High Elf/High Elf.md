@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/high-elf/high-elf/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/high-elf/high-elf/","noteIcon":""}
 ---
 
 # High Elf
