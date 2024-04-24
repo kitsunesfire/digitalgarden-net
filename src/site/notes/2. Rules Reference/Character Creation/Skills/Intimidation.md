@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/intimidation/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/intimidation/","noteIcon":""}
 ---
 
 # Intimidation
