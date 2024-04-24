@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/rarity-adjustments/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/rarity-adjustments/","noteIcon":""}
 ---
 
 # Rarity Adjustments
