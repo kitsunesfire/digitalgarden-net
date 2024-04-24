@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/echo-reef/echo-reef/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/echo-reef/echo-reef/","noteIcon":""}
 ---
 
 
