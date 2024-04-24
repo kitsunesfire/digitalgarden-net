@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/daily-life/luxury-goods/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/daily-life/luxury-goods/","noteIcon":""}
 ---
 
 # Luxury Goods
