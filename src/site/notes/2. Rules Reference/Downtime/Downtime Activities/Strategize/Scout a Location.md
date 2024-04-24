@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/strategize/scout-a-location/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/strategize/scout-a-location/","noteIcon":""}
 ---
 
 # Scout a Location
