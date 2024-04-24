@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/travel/settlement-levels/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/travel/settlement-levels/","noteIcon":""}
 ---
 
 # Settlement Levels
