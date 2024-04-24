@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/death-and-dying-conditions/unconscious/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/death-and-dying-conditions/unconscious/","noteIcon":""}
 ---
 
 # Unconscious
