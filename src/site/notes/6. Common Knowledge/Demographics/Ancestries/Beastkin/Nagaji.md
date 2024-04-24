@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/beastkin/nagaji/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/beastkin/nagaji/","noteIcon":""}
 ---
 
 # Nagaji
