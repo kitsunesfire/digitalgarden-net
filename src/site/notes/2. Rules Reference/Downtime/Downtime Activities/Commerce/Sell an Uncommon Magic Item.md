@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/commerce/sell-an-uncommon-magic-item/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/commerce/sell-an-uncommon-magic-item/","noteIcon":""}
 ---
 
 # Sell an Uncommon Magic Item
