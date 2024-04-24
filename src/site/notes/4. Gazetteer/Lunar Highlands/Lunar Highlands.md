@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/lunar-highlands/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/lunar-highlands/","noteIcon":""}
 ---
 
 # Lunar Highlands
