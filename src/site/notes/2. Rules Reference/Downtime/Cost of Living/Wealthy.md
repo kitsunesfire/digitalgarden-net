@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/cost-of-living/wealthy/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/cost-of-living/wealthy/","noteIcon":""}
 ---
 
 # Wealthy
