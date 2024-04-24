@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/dominik/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/dominik/","noteIcon":""}
 ---
 
 
