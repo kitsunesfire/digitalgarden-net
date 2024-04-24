@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/lohengrin/lohengrin/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/lohengrin/lohengrin/","noteIcon":""}
 ---
 
 
