@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/noble-houses/suria/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/noble-houses/suria/","noteIcon":""}
 ---
 
 # Suria
