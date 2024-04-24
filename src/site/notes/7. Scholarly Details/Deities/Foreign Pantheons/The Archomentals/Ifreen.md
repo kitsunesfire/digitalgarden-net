@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-archomentals/ifreen/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-archomentals/ifreen/","noteIcon":""}
 ---
 
 # Ifreen, Archon of Fire
