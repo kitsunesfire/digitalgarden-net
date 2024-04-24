@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/treat-wounds/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/treat-wounds/","noteIcon":""}
 ---
 
 # Treat Wounds
