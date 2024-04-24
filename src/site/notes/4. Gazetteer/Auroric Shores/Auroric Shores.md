@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/auroric-shores/auroric-shores/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/auroric-shores/auroric-shores/","noteIcon":""}
 ---
 
 # Auroric Shores
