@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/extraplanar/seraph/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/extraplanar/seraph/","noteIcon":""}
 ---
 
 # Seraph
