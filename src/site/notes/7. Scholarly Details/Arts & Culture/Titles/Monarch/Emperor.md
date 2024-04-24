@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/titles/monarch/emperor/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/titles/monarch/emperor/","noteIcon":""}
 ---
 
 # Emperor
