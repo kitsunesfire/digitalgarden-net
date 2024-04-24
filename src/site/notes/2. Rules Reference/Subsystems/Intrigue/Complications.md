@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/complications/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/complications/","noteIcon":""}
 ---
 
 # Complications
