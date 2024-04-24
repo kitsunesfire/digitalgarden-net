@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/solar-sanctum/ari-serin/ari-serin/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/solar-sanctum/ari-serin/ari-serin/","noteIcon":""}
 ---
 
 
