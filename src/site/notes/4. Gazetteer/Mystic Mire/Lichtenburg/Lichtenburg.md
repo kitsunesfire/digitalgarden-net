@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/lichtenburg/lichtenburg/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/lichtenburg/lichtenburg/","noteIcon":""}
 ---
 
 
