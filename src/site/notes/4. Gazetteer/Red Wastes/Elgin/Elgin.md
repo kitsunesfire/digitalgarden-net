@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/elgin/elgin/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/elgin/elgin/","noteIcon":""}
 ---
 
 
