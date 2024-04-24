@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/ailments-and-injuries/blossoming-curse/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/ailments-and-injuries/blossoming-curse/","noteIcon":""}
 ---
 
 # Blossoming Curse (7)
