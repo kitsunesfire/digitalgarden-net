@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/auroric-shores/villa-narvenia/villa-narvenia/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/auroric-shores/villa-narvenia/villa-narvenia/","noteIcon":""}
 ---
 
 
