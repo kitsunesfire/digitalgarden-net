@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/mixed-lineage/goblin-lineage/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/mixed-lineage/goblin-lineage/","noteIcon":""}
 ---
 
 # Goblin Lineage
