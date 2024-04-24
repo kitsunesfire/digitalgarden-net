@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/holidays/lunar-harvest/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/holidays/lunar-harvest/","noteIcon":""}
 ---
 
 # Lunar Harvest
