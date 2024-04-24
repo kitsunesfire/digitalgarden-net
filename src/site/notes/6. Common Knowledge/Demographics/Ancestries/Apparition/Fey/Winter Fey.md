@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/apparition/fey/winter-fey/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/apparition/fey/winter-fey/","noteIcon":""}
 ---
 
 # Winter Fey
