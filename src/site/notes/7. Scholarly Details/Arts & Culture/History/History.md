@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/history/history/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/history/history/","noteIcon":""}
 ---
 
 # History
