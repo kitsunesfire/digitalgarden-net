@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/the-lost-villages/the-lost-villages/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/the-lost-villages/the-lost-villages/","noteIcon":""}
 ---
 
 
