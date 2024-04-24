@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/reputation/favors/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/reputation/favors/","noteIcon":""}
 ---
 
 # Favors
