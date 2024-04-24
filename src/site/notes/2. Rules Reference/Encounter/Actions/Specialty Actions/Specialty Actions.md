@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/specialty-actions/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/specialty-actions/","noteIcon":""}
 ---
 
 # Specialty Actions
