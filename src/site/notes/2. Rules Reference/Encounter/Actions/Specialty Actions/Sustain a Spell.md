@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/sustain-a-spell/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/sustain-a-spell/","noteIcon":""}
 ---
 
 # Sustain a Spell
