@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/fen-yendar/fen-yendar/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/fen-yendar/fen-yendar/","noteIcon":""}
 ---
 
 
