@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/elemental-planes/fulmina/fulmina/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/elemental-planes/fulmina/fulmina/","noteIcon":""}
 ---
 
 
