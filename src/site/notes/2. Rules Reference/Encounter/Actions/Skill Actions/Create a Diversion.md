@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/create-a-diversion/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/create-a-diversion/","noteIcon":""}
 ---
 
 # Create a Diversion
