@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/the-astral-sea/the-astral-sea/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/the-astral-sea/the-astral-sea/","noteIcon":""}
 ---
 
 # The Astral Sea
