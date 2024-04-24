@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/currency/special-currency/obols/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/currency/special-currency/obols/","noteIcon":""}
 ---
 
 # Obsidian Obols
