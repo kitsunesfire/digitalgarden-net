@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/make-an-impression/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/make-an-impression/","noteIcon":""}
 ---
 
 # Make an Impression
