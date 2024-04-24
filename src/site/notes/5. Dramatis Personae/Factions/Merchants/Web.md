@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/merchants/web/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/merchants/web/","noteIcon":""}
 ---
 
 # The Web
