@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/core-party/jair/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/core-party/jair/","noteIcon":""}
 ---
 
 
