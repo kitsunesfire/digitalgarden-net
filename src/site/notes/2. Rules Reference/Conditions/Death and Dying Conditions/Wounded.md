@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/death-and-dying-conditions/wounded/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/death-and-dying-conditions/wounded/","noteIcon":""}
 ---
 
 # Wounded
