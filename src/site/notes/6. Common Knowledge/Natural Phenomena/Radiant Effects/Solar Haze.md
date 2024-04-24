@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/radiant-effects/solar-haze/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/radiant-effects/solar-haze/","noteIcon":""}
 ---
 
 # Solar Haze
