@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/craft/scribe-a-spell-scroll/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/craft/scribe-a-spell-scroll/","noteIcon":""}
 ---
 
 # Scribe a Spell Scroll
