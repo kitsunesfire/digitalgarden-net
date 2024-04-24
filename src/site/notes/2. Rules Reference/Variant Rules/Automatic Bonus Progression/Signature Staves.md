@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/automatic-bonus-progression/signature-staves/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/automatic-bonus-progression/signature-staves/","noteIcon":""}
 ---
 
 # Signature Staves
