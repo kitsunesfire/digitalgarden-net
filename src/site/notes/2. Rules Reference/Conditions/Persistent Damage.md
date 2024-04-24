@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/persistent-damage/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/persistent-damage/","noteIcon":""}
 ---
 
 # Persistent Damage
