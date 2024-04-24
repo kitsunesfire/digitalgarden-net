@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/solar-sanctum/solar-sanctum/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/solar-sanctum/solar-sanctum/","noteIcon":""}
 ---
 
 # Solar Sanctum
