@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/daily-life/education/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/daily-life/education/","noteIcon":""}
 ---
 
 # Education
