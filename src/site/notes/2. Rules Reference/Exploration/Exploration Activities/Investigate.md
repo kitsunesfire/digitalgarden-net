@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/investigate/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/investigate/","noteIcon":""}
 ---
 
 # Investigate
