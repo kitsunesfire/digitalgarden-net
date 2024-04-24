@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/petrified/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/petrified/","noteIcon":""}
 ---
 
 # Petrified
