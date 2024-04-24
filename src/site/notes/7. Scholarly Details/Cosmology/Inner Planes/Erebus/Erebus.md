@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/erebus/erebus/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/erebus/erebus/","noteIcon":""}
 ---
 
 # Erebus
