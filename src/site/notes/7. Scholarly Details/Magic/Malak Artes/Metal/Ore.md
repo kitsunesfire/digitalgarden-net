@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/metal/ore/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/metal/ore/","noteIcon":""}
 ---
 
 # Ore
