@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/currency/special-currency/gil/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/currency/special-currency/gil/","noteIcon":""}
 ---
 
 # Electrum Gilders
