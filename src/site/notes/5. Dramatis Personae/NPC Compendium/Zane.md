@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/zane/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/npc-compendium/zane/","noteIcon":""}
 ---
 
 
