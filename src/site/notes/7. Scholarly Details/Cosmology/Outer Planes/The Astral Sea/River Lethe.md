@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/the-astral-sea/river-lethe/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/the-astral-sea/river-lethe/","noteIcon":""}
 ---
 
