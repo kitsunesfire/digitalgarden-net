@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/grapple/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/grapple/","noteIcon":""}
 ---
 
 # Grapple
