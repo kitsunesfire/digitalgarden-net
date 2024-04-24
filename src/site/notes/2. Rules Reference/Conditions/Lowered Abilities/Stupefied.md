@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/lowered-abilities/stupefied/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/lowered-abilities/stupefied/","noteIcon":""}
 ---
 
 # Stupefied
