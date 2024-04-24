@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/ancestral-paragon/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/ancestral-paragon/","noteIcon":""}
 ---
 
 # Ancestral Paragon
