@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-armed-forces/suncasters/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-armed-forces/suncasters/","noteIcon":""}
 ---
 
 # Suncasters
