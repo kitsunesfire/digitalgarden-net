@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/mission-failure/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/mission-failure/","noteIcon":""}
 ---
 
 # Mission Failure
