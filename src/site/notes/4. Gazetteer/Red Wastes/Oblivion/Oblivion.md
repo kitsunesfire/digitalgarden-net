@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/oblivion/oblivion/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/oblivion/oblivion/","noteIcon":""}
 ---
 
 
