@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/senses/deafened/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/senses/deafened/","noteIcon":""}
 ---
 
 # Deafened
