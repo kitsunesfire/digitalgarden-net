@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/selelune/selelune/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/lunar-highlands/selelune/selelune/","noteIcon":""}
 ---
 
 
