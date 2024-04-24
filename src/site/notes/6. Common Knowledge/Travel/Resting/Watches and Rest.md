@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/travel/resting/watches-and-rest/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/travel/resting/watches-and-rest/","noteIcon":""}
 ---
 
 # Watches and Rest
