@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/wyrmkin/wyrmkin/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/wyrmkin/wyrmkin/","noteIcon":""}
 ---
 
 # Wyrmkin
