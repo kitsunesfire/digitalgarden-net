@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/take-cover/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/take-cover/","noteIcon":""}
 ---
 
 # Take Cover
