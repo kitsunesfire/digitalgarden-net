@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/terrain-types/plains/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/terrain-types/plains/","noteIcon":""}
 ---
 
 # Plains
