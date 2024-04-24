@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/elemental-planes/piacqua/piacqua/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/elemental-planes/piacqua/piacqua/","noteIcon":""}
 ---
 
 # Piacqua
