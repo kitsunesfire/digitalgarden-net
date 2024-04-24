@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/hallstatt/hallstatt/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/hallstatt/hallstatt/","noteIcon":""}
 ---
 
 
