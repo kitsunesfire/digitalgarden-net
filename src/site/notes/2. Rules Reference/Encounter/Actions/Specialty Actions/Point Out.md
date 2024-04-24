@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/point-out/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/point-out/","noteIcon":""}
 ---
 
 # Point Out
