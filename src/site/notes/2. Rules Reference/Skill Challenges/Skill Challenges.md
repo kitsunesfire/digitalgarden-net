@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/skill-challenges/skill-challenges/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/skill-challenges/skill-challenges/","noteIcon":""}
 ---
 
 # Skill Challenges
