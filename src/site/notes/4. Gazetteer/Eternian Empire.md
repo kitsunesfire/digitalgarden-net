@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/eternian-empire/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/eternian-empire/","noteIcon":""}
 ---
 
 # The Eternian Empire
