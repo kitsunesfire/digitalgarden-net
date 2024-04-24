@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/celestine/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/celestine/","noteIcon":""}
 ---
 
 # The Church of the Celestine
