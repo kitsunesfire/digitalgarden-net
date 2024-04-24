@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/crime/create-a-forgery/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/crime/create-a-forgery/","noteIcon":""}
 ---
 
 # Create a Forgery
