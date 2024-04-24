@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/the-wayfaring-stranger/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/the-wayfaring-stranger/","noteIcon":""}
 ---
 
 
