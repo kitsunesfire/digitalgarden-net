@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/terrain-types/desert/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/travel/wilderness/terrain-types/desert/","noteIcon":""}
 ---
 
 # Desert
