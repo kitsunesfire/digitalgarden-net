@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/intrigue/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/intrigue/intrigue/","noteIcon":""}
 ---
 
 # Intrigue
