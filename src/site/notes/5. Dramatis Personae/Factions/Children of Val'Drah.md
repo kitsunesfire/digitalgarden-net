@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/children-of-val-drah/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/children-of-val-drah/","noteIcon":""}
 ---
 
 # The Children of Val'Drah
