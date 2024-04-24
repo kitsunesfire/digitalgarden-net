@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/cast-a-spell/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/cast-a-spell/","noteIcon":""}
 ---
 
 # Cast a Spell
