@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-overview/new-player-information/attendance/"}
+{"dg-publish":true,"permalink":"/1-overview/new-player-information/attendance/","noteIcon":""}
 ---
 
 # Attendance
