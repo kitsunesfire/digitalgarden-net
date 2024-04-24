@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/coerce/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/coerce/","noteIcon":""}
 ---
 
 # Coerce
