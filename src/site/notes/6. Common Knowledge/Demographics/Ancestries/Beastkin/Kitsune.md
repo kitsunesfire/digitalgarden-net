@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/beastkin/kitsune/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/beastkin/kitsune/","noteIcon":""}
 ---
 
 # Kitsune
