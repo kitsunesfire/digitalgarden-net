@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/basic-saving-throw/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/basic-saving-throw/","noteIcon":""}
 ---
 
 # Basic Saving Throws
