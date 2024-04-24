@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/religion/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/character-creation/skills/religion/","noteIcon":""}
 ---
 
 # Religion
