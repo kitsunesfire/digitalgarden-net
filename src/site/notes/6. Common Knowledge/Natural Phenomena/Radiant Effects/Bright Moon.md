@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/radiant-effects/bright-moon/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/radiant-effects/bright-moon/","noteIcon":""}
 ---
 
 # Bright Moon
