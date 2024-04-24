@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/merchants/crystal-caravan/"}
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/merchants/crystal-caravan/","noteIcon":""}
 ---
 
 # The Crystal Caravan
