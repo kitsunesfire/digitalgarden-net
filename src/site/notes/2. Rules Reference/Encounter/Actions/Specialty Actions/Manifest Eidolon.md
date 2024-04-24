@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/manifest-eidolon/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/manifest-eidolon/","noteIcon":""}
 ---
 
 # Manifest Eidolon
