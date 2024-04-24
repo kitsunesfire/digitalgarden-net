@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/wraith/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/versatile-heritages/wraith/","noteIcon":""}
 ---
 
 # Wraith
