@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/zell-am-see/zell-am-see/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/zell-am-see/zell-am-see/","noteIcon":""}
 ---
 
 
