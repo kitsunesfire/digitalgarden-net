@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/falling/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/falling/","noteIcon":""}
 ---
 
 # Falling
