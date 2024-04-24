@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/rituals/enter-the-circle/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/rituals/enter-the-circle/","noteIcon":""}
 ---
 
 # Enter the Circle (Ritual 5)
