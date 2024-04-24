@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/rituals/cleansing/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/rituals/cleansing/","noteIcon":""}
 ---
 
 # Cleansing (Ritual 4)
