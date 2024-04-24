@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/wood/vine/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/wood/vine/","noteIcon":""}
 ---
 
 # Vine
