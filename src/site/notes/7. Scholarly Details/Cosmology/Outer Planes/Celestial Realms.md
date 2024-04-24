@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/celestial-realms/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/celestial-realms/","noteIcon":""}
 ---
 
 # Celestial Realms
