@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/cosmology/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/cosmology/","noteIcon":""}
 ---
 
 # Cosmology
