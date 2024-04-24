@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/janova-stables/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/janova-stables/","noteIcon":""}
 ---
 
 
