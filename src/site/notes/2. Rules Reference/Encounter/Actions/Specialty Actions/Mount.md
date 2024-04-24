@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/mount/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/mount/","noteIcon":""}
 ---
 
 # Mount
