@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/drachenfel/drachenfel/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/drachenfel/drachenfel/","noteIcon":""}
 ---
 
 
