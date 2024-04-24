@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-archive/old-world-atlas/old-world-atlas/"}
+{"dg-publish":true,"permalink":"/0-archive/old-world-atlas/old-world-atlas/","noteIcon":""}
 ---
 
 # Old World Atlas
