@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/eryn-and-furi-s-fresh-foods/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/janova/eryn-and-furi-s-fresh-foods/","noteIcon":""}
 ---
 
 
