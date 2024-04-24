@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/skill-exploration-activities/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/skill-exploration-activities/","noteIcon":""}
 ---
 
 # Skill Exploration Activities
