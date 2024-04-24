@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/fly/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/fly/","noteIcon":""}
 ---
 
 # Fly
