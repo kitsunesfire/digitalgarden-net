@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/subsystems/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/subsystems/","noteIcon":""}
 ---
 
 # Subsystems
