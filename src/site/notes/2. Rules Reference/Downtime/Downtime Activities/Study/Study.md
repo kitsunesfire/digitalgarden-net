@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/study/study/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/study/study/","noteIcon":""}
 ---
 
 # Study
