@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/axiom/axiom/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/diurnan-valley/axiom/axiom/","noteIcon":""}
 ---
 
 
