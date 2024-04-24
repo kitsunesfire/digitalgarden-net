@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/canan/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/languages/canan/","noteIcon":""}
 ---
 
 # Canan
