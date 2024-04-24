@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/sense-direction/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities/sense-direction/","noteIcon":""}
 ---
 
 # Sense Direction
