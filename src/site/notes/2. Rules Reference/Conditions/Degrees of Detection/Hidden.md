@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/degrees-of-detection/hidden/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/degrees-of-detection/hidden/","noteIcon":""}
 ---
 
 # Hidden
