@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/interact/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/basic-actions/interact/","noteIcon":""}
 ---
 
 # Interact
