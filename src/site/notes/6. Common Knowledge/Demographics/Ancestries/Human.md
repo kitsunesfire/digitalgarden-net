@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/human/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/human/","noteIcon":""}
 ---
 
 # Human
