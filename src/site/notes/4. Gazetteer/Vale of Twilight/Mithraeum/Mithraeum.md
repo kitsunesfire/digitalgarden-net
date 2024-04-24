@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/vale-of-twilight/mithraeum/mithraeum/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/vale-of-twilight/mithraeum/mithraeum/","noteIcon":""}
 ---
 
 
