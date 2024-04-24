@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/void-effects/lunar-fog/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/natural-phenomena/void-effects/lunar-fog/","noteIcon":""}
 ---
 
 # Lunar Fog
