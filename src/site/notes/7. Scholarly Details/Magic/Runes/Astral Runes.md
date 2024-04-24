@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/runes/astral-runes/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/runes/astral-runes/","noteIcon":""}
 ---
 
 # Astral Runes
