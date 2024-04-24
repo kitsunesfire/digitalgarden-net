@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/conditions/confused/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/conditions/confused/","noteIcon":""}
 ---
 
 # Confused
