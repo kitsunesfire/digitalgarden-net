@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/force-open/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/skill-actions/force-open/","noteIcon":""}
 ---
 
 # Force Open
