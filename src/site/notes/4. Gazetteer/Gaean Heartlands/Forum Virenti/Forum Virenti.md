@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/forum-virenti/forum-virenti/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/gaean-heartlands/forum-virenti/forum-virenti/","noteIcon":""}
 ---
 
 
