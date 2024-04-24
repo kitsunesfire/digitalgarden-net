@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/reputation/reputation-traits/ignored/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/subsystems/reputation/reputation-traits/ignored/","noteIcon":""}
 ---
 
 # Ignored
