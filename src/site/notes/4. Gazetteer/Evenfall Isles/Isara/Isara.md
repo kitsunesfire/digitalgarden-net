@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/evenfall-isles/isara/isara/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/evenfall-isles/isara/isara/","noteIcon":""}
 ---
 
 
