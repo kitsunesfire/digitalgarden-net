@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/beastkin/lizardfolk/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/beastkin/lizardfolk/","noteIcon":""}
 ---
 
 # Lizardfolk
