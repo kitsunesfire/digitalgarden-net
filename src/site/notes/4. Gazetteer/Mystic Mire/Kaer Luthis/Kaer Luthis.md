@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/kaer-luthis/kaer-luthis/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/mystic-mire/kaer-luthis/kaer-luthis/","noteIcon":""}
 ---
 
 
