@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/grab-an-edge/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/encounter/actions/specialty-actions/grab-an-edge/","noteIcon":""}
 ---
 
 # Grab an Edge
