@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/arcadia/courts-of-arcadia/courts-of-arcadia/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/arcadia/courts-of-arcadia/courts-of-arcadia/","noteIcon":""}
 ---
 
 # Courts of Arcadia
