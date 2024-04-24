@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/the-fade/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/the-fade/","noteIcon":""}
 ---
 
 # The Fade
