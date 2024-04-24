@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/calendar-and-clock/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/calendar-and-clock/calendar-and-clock/","noteIcon":""}
 ---
 
 # Calendar & Clock
