@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/gradual-ability-boosts/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/variant-rules/gradual-ability-boosts/","noteIcon":""}
 ---
 
 # Gradual Attribute Boosts
