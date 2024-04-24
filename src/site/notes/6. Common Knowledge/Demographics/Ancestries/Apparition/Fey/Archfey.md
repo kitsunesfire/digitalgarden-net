@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/apparition/fey/archfey/"}
+{"dg-publish":true,"permalink":"/6-common-knowledge/demographics/ancestries/apparition/fey/archfey/","noteIcon":""}
 ---
 
 # Archfey
