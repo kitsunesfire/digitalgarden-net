@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/socialize/gain-a-contact/"}
+{"dg-publish":true,"permalink":"/2-rules-reference/downtime/downtime-activities/socialize/gain-a-contact/","noteIcon":""}
 ---
 
 # Gain a Contact
