@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/argolis/argolis/"}
+{"dg-publish":true,"permalink":"/4-gazetteer/red-wastes/argolis/argolis/","noteIcon":""}
 ---
 
 
