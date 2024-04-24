@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/tartarus/forge-of-creation/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/outer-planes/tartarus/forge-of-creation/","noteIcon":""}
 ---
 
 # Forge of Creation
