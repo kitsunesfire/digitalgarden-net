@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/rituals/rite-of-rebirth/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/rituals/rite-of-rebirth/","noteIcon":""}
 ---
 
 # Rite of Rebirth
