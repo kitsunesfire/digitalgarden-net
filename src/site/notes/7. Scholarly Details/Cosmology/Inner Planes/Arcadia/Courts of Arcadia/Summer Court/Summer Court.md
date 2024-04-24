@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/arcadia/courts-of-arcadia/summer-court/summer-court/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/inner-planes/arcadia/courts-of-arcadia/summer-court/summer-court/","noteIcon":""}
 ---
 
 # Summer Court
