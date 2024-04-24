@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/water/reflection/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/water/reflection/","noteIcon":""}
 ---
 
 # Reflection
