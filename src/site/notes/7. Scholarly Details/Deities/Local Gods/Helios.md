@@ -5,7 +5,7 @@
 # Helios
 
 >[!grid]
-![solis.png](/img/user/x.%20Assets/Attachments/Images/NPC%20Compendium/solis.png)
+![[solis.png\|solis.png]]
 ![Pasted image 20230717155050.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230717155050.png)
 ![Pasted image 20230720174424.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230720174424.png)
 ![Pasted image 20230321174907.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230321174907.png)
