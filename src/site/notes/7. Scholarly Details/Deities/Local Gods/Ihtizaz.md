@@ -18,7 +18,7 @@ Vice: Pain
 # Ihtizaz, Goddess of Protection and Liberation
 
 >[!grid]
-![Ihtizaz.png](/img/user/x.%20Assets/Attachments/Images/NPC%20Compendium/Ihtizaz.png)
+![[Ihtizaz.png\|Ihtizaz.png]]
 
 Scholars say that Ihtizaz is the only reason that humanity survived Tearfall. When [[7. Scholarly Details/Deities/Local Gods/Gayan\|Gayan]] unleashed the hellish rain of meteors, Ihtizaz gave up a part of her own divinity to shield an entire continent from the storm. Nobody is sure exactly what this feat cost her, but her loyal following refuse to let that sacrifice be in vain. Ihtizaz has made it very clear over the decades that she is not interested in the politics of the gods or the squabbles of immortals; she is devoted to fighting on behalf of the downtrodden and bringing hope to the maligned. She often favors blending in with the crowds and dressing as a beggar, a commoner, or a simple foot soldier; only in the most dire of circumstances does she reveal her true identity.
 
