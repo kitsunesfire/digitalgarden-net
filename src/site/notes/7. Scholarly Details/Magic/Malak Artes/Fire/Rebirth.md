@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/fire/rebirth/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/fire/rebirth/","noteIcon":""}
 ---
 
 # Rebirth
