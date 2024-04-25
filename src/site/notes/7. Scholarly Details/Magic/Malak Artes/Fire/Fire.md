@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/fire/fire/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/fire/fire/","noteIcon":""}
 ---
 
 # Fire
