@@ -5,7 +5,7 @@
 
 > [!infobox]
 > # Amina Dorei
->  ![AminaDoreiKey.png|cover hsmall](/img/user/x.%20Assets/Attachments/Images/Environment/AminaDoreiKey.png)
+>  ![AminaDoreiKey.png|cover hsmall](/img/user/x.%20Assets/Attachments/AminaDoreiKey.png)
 > # *The Guardian Spirit's Dwelling *
 > ![Region_AminaDorei.png|cover hsmall](/img/user/x.%20Assets/Attachments/Images/Overworld%20map/Images/Region_AminaDorei.png)
 > ###### General
