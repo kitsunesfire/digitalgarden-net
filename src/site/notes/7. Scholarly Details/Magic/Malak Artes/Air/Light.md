@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/air/light/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/air/light/","noteIcon":""}
 ---
 
 # Light
