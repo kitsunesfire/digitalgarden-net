@@ -29,8 +29,7 @@ I'm looking forward to telling many great stories together!
 
 >[!recite|c-red] Archive
 
-> [!danger]+ DISCLAIMER
-> Any pages within the Archive section have been retained for legacy purposes only. As they are not actively maintained, they are not necessarily accurate or up to date, and often contain contradictory information to what is presented elsewhere in this guide. **Please do not rely on these pages as a resource for the current campaign**. 
+Any pages within the Archive section have been retained for legacy purposes only. As they are not actively maintained, they are not necessarily accurate or up to date, and often contain contradictory information to what is presented elsewhere in this guide. **Please do not rely on these pages as a resource for the current campaign**. 
 
 >[!recite|c-black] Overview
 
