@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/shaima/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/shaima/","noteIcon":""}
 ---
 
 
