@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/fire/lava/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/fire/lava/","noteIcon":""}
 ---
 
 # Lava
