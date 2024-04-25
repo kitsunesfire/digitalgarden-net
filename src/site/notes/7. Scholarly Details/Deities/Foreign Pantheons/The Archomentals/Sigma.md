@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-archomentals/sigma/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-archomentals/sigma/","noteIcon":""}
 ---
 
 # Sigma, Archon of Metal
