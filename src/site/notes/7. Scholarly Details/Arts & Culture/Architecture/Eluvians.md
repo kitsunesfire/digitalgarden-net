@@ -3,12 +3,10 @@
 ---
 
 # Eluvians
-
->[!grid]
->![Pasted image 20230121012652.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230121012652.png)
->![Pasted image 20230121012839.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230121012839.png)
->![Pasted image 20230121012947.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230121012947.png)
-
+>[!grid|masonry]
+>![](https://i.imgur.com/QutL46x.jpeg)
+>![](https://i.imgur.com/QsXLMyP.jpeg)
+>![](https://i.imgur.com/8T4lhaE.jpeg)
 
 [[7. Scholarly Details/Arts & Culture/Architecture/Eluvians\|Eluvians]] are magical portals that can only be constructed in places of potent magical potential. In ancient times, they were used to communicate and travel great distances, both across and within planes. Many [[7. Scholarly Details/Arts & Culture/Architecture/Eluvians\|Eluvians]] once existed across the landscape of [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], but a combination of war, neglect, and carelessness has led to the loss and destruction of all but a few. Those that remain are typically extremely well guarded and honored as shrines unto themselves. 
 
