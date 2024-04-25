@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/suzarel/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/suzarel/","noteIcon":""}
 ---
 
