@@ -18,7 +18,7 @@ Vice: Sorrow
 # Yamin, God of Love and Loss
 
 >[!grid]
-![Yamin.png](/img/user/x.%20Assets/Attachments/Images/NPC%20Compendium/Yamin.png)
+![[Yamin.png\|Yamin.png]]
 
 According to legend, Yamin used to be the god of an entirely different portfolio, but his love for his partner was so powerful that it transformed him completely and he became the god of love. He is credited with being one of the first [[7. Scholarly Details/Deities/Foreign Pantheons/The Old Gods\|The Old Gods]] to arrive on Sharum Mal’Kari, alongside his sister Ba’raka. Though he has always been incredibly popular, Yamin has never had an army fight in his name and is typically not seen as a powerful god— though any [[0. Archive/Old World Atlas/Rioja\|Riojan]] will tell you that there is no god more powerful, no force more powerful, than that of true love.
 
