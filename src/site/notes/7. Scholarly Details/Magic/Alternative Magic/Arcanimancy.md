@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/alternative-magic/arcanimancy/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/alternative-magic/arcanimancy/","noteIcon":""}
 ---
 
 # Arcanimancy  
