@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/farrah/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/farrah/","noteIcon":""}
 ---
 
 # Farrah (The Enlightened)
