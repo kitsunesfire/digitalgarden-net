@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-archomentals/titania/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-archomentals/titania/","noteIcon":""}
 ---
 
 # Titania, Archon of Stone
