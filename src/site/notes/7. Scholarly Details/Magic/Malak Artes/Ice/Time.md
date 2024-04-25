@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/ice/time/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/ice/time/","noteIcon":""}
 ---
 
 # Time
