@@ -10,7 +10,7 @@
 >> # Hideaki
 >> > Description
 >> 
->> *[[6. Common Knowledge/Demographics/Ancestries/Beastkin/Kitsune\|Kitsune]] Wizard*
+>> *Kitsune Wizard*
 >> 
 >> ---
 | ❤️ | AC | Fort | Ref | Will |
@@ -19,7 +19,7 @@
 >>
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 0 | 2 | 2 | 4 | 1 | 0 | 
+| `=this.Strength` | 2 | 2 | 4 | 1 | `=this.Charisma` | 
 |  |  |  |  |  |
 >>
 |  |  |
