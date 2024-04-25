@@ -5,7 +5,7 @@
 # Naia, Archon of Water
 
 >[!grid]
->![aequor2.png](/img/user/x.%20Assets/Attachments/Images/NPC%20Compendium/aequor2.png)
+>![[aequor2.png\|aequor2.png]]
 ![Pasted image 20230321170057.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230321170057.png)
 ![Pasted image 20230321170151.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230321170151.png)
 ![Pasted image 20230321170213.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230321170213.png)
