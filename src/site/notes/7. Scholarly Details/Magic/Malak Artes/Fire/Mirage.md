@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/fire/mirage/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/fire/mirage/","noteIcon":""}
 ---
 
 # Mirage
