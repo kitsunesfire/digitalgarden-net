@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/magical-traditions/reiki/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/magical-traditions/reiki/","noteIcon":""}
 ---
 
 # Reiki
