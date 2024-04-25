@@ -6,7 +6,7 @@
 
 [[2. Rules Reference/Character Creation/Character Traits/Aesthetics\|Aesthetics]] describe a character's important possessions or noticeable features. 
 
-Characters select one [[2. Rules Reference/Character Creation/Character Traits/Aesthetics\|Aesthetic Trait]] during [[2. Rules Reference/Character Creation/Character Creation\|Character Creation]], and may add more later.
+Characters select one [[2. Rules Reference/Character Creation/Character Traits/Aesthetics\|Aesthetic Trait]] during [[Character Creation\|Character Creation]], and may add more later.
 
 >[!info]
 >**Examples:** 
