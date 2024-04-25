@@ -6,7 +6,7 @@
 
 The [[2. Rules Reference/Character Creation/Character Traits/Origin\|Origin]] describes where your character is from or an important event that made them who they are. It should customize or build on the character's chosen Backgrounds.  
 
-Every character only has one [[2. Rules Reference/Character Creation/Character Traits/Origin\|Origin]], which is defined during [[2. Rules Reference/Character Creation/Character Creation\|Character Creation]]. 
+Every character only has one [[2. Rules Reference/Character Creation/Character Traits/Origin\|Origin]], which is defined during [[Character Creation\|Character Creation]]. 
 
 >[!info]
 >**Examples:** 
