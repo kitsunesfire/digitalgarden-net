@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/divinity/divine-power/holiness/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/divinity/divine-power/holiness/","noteIcon":""}
 ---
 
 # Holiness
