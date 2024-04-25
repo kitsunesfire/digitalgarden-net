@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/ba-raka/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/ba-raka/","noteIcon":""}
 ---
 
 # Ba'raka, Goddess of Hunting and Conquest
