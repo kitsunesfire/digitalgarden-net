@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/alternative-magic/geomancy/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/alternative-magic/geomancy/","noteIcon":""}
 ---
 
 # Geomancy (Planetary Magic)
