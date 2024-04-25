@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/sunan/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/sunan/","noteIcon":""}
 ---
 
 Type: Deity
