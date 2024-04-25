@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/maymuna/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/maymuna/","noteIcon":""}
 ---
 
 
