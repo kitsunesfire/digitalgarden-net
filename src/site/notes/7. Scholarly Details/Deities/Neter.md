@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/neter/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/neter/","noteIcon":""}
 ---
 
 # The Neter
