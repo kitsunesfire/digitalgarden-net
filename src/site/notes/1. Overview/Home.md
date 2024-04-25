@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-overview/home/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Home","permalink":"/Home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
+# Home
 
 
 
