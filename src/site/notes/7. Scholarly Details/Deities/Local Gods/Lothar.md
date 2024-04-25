@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/lothar/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/lothar/","noteIcon":""}
 ---
 
 # Lothar (The Silken Shadow)
