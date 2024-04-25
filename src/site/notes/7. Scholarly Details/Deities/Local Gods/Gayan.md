@@ -19,7 +19,7 @@ Vice: Destruction
 # Gayan, God of Wealth and Power
 
 >[!grid]
-![Gayan.png](/img/user/x.%20Assets/Attachments/Images/NPC%20Compendium/Gayan.png)
+![[Gayan.png\|Gayan.png]]
 
 By all accounts, Gayan no longer has any direct connections to Sharum Mal’Kari. According to legend, Gayan performed a mass sacrifice that killed nearly all of his followers and destroyed most of his places of worship when he created Tearfall— and those that weren’t lost in the ritualistic summoning were obliterated in the aftermath. After the All-Mighty ascended, it is unclear why he would have had any reason to return. Even so, his followers claim to have evidence that his presence still lingers here, tethered by some small strand.
 
