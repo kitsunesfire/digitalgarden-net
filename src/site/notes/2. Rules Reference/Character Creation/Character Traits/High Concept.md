@@ -6,7 +6,7 @@
 
 The [[2. Rules Reference/Character Creation/Character Traits/High Concept\|High Concept]] describes an elevator pitch of the character. It should reference a combination of the character's Ancestry, Heritage, Class, as well as any significant Archetypes.
 
-Every character only has one [[2. Rules Reference/Character Creation/Character Traits/High Concept\|High Concept]], which is defined during [[2. Rules Reference/Character Creation/Character Creation\|Character Creation]]. 
+Every character only has one [[2. Rules Reference/Character Creation/Character Traits/High Concept\|High Concept]], which is defined during [[Character Creation\|Character Creation]]. 
 
 >[!info]
 >**Examples:** 
