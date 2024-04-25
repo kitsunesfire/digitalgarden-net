@@ -30,9 +30,9 @@ You must be trained in Arcana to use it for the following general skill actions.
 
 ## Crafting
 
-You can use this skill to create, understand, and repair [[7. Scholarly Details/Specialty Items/Specialty Items\|Specialty Items]]. Even if you're untrained, you can [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]].
+You can use this skill to create, understand, and repair [[Specialty Items\|Specialty Items]]. Even if you're untrained, you can [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]].
 
-- [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] about [[7. Scholarly Details/Science/Alchemy/Alchemy\|alchemical reactions]], the value of [[7. Scholarly Details/Specialty Items/Specialty Items\|Specialty Items]], engineering, unusual [[7. Scholarly Details/Specialty Items/Materials/Materials\|Materials]] and alchemical or mechanical creatures.
+- [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] about [[7. Scholarly Details/Science/Alchemy/Alchemy\|alchemical reactions]], the value of [[Specialty Items\|Specialty Items]], engineering, unusual [[7. Scholarly Details/Specialty Items/Materials/Materials\|Materials]] and alchemical or mechanical creatures.
 
 ### Crafting Trained Actions
 
