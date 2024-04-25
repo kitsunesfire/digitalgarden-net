@@ -3,43 +3,59 @@
 ---
 
 
-> [!infobox]
-> # Hideaki
-> ![Pasted image 20240413002225.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240413002225.png)
-> ###### Bio
-> Type |  Stat |
-> ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/Beastkin/Kitsune\|Kitsune]] [[6. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Malakim/Ardande\|Ardande]] |
-> **Gender** | Male |
-> **Home Region** | [[0. Archive/Old World Atlas/Sokoku\|Sokoku]] |
-> **Condition** | Healthy |
-> ###### Info
-> Type |  Stat |
-> ---|---|
-> **Alias(es)** | Hide, Hideaki Kinami |
-> **Occupation(s)** | Wizard |
-> **Faction(s)** | `=link(this.Faction)` |
-> **Religion(s)** | `=link(this.Religion)` |
-> **Last Known Location** | [[4. Gazetteer/Red Wastes/Oblivion/Oblivion\|Oblivion]] |
-> **Current Party Standing** | Member |
- > **Played By** | Drew |
+> [!statblocks|columns]
+> 
+>> [!blank]  
+>> ![Char Image|right cover htiny wtiny circle lp]()
+>> # Hideaki
+>> > Description
+>> 
+>> *[[6. Common Knowledge/Demographics/Ancestries/Beastkin/Kitsune\|Kitsune]] Wizard*
+>> 
+>> ---
+| ❤️ | AC | Fort | Ref | Will |
+|:---:|:---:|:---:|:---:|:---:|
+| 16 | 15 | 5 | 5 | 6 |
+>>
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 0 | 2 | 2 | 4 | 1 | 0 | 
+|  |  |  |  |  |
+>>
+|  |  |
+| ---:|:--- |
+| **Perception** |+ 4 |
+| **Class DC** | 17 |
+| **Speed** |25|
+| **Special Movement** |  |
+| **Senses** |  |
+>> 
+>> ---
+>> 
+>>> [!checks|no-t] 
+>>> - 
+>>>	- **Text**
+>>>	- [ ] 
+>>>	- [ ] 
+>>
+ >
+ >
+ >> [!blank]
+>> 
+>> **Feat**
+>> Brief Description
+>> 
+>> **Feat**
+>> Brief Description
 
-> [!column] Gallery 
+
+
 > [!grid] 
-> Placeholder
+> ![Pasted image 20240413002225.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240413002225.png)
 
-> [!column] About Me
->> [!metadata|text-Center bg-c-gray] Description
->> `=this.Description`
->
->> [!metadata|text-Center bg-c-gray] Relationships
->> **Family:** -
->>
->> **Allies:** -
->>
->> **Enemies:** -
+
 
 # Notes
 
-- TBD 
+- TBD
 
