@@ -4,7 +4,7 @@
 
 # Zarthura - The Land of Fate
 
-See [[4. Gazetteer/Eternian Empire\|Eternian Empire]] & [[6. Common Knowledge/Daily Life/Daily Life\|Daily Life]] 
+See [[4. Gazetteer/Eternian Empire\|Eternian Empire]] & [[Daily Life\|Daily Life]] 
 
 ## Gallery
 -
