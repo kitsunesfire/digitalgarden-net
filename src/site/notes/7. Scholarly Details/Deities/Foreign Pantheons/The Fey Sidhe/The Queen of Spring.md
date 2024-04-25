@@ -5,7 +5,7 @@
 # The Queen of Spring
 
 >[!grid]
->![Verenestra.png](/img/user/x.%20Assets/Attachments/Images/NPC%20Compendium/Verenestra.png)
+>![[Verenestra.png\|Verenestra.png]]
 
 While she may look cold and distant in appearance, the Queen of Spring shows more compassion and kindness than the other three Sidhe combined. She channels the joy of spring to all around her, calming them and inducing an enthralling kindness in others. If one were to need help from an extremely powerful [[6. Common Knowledge/Demographics/Ancestries/Apparition/Fey/Fey\|Fey]], the Queen would be a good one to go to as she usually only asks for minor payments. She is still not forthcoming with information due to her nature and speaks in half-truths like all of her kind, but she is generally helpful and likes to see others grow with her aid. 
 
