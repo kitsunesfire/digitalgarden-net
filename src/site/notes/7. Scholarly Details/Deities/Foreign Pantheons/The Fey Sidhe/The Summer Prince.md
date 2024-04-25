@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-fey-sidhe/the-summer-prince/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-fey-sidhe/the-summer-prince/","noteIcon":""}
 ---
 
 # The Summer Prince
