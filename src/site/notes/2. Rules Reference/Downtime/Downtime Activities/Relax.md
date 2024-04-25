@@ -13,7 +13,7 @@ Characters must maintain at least a modest lifestyle in a secure location in ord
 
 ## Resolution
 
-As long as the character maintains at least a modest lifestyle, they automatically recover from all damage and most nonpermanent conditions. However, characters affected by [[7. Scholarly Details/Ailments & Injuries/Ailments & Injuries\|Ailments & Injuries]] may need to continue attempting relevant saves during [[2. Rules Reference/Downtime/Downtime\|Downtime]]. 
+As long as the character maintains at least a modest lifestyle, they automatically recover from all damage and most nonpermanent conditions. However, characters affected by [[Ailments & Injuries\|Ailments & Injuries]] may need to continue attempting relevant saves during [[2. Rules Reference/Downtime/Downtime\|Downtime]]. 
 
 This benefit cannot be used if the harmful effect was caused by a curse or some other magical effect with an ongoing duration. Likewise, permanent injuries do not automatically end during relaxation. There may be special circumstances which require magic or special care; this cannot be resolved simply by relaxing. 
 
