@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/malak-artes/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/malak-artes/","noteIcon":""}
 ---
 
 # Malak Artes
