@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-archomentals/the-archomentals/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-archomentals/the-archomentals/","noteIcon":""}
 ---
 
 # Archomentals
