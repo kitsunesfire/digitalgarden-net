@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/air/gravity/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/air/gravity/","noteIcon":""}
 ---
 
 # Gravity
