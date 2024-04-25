@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/ziyad/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/ziyad/","noteIcon":""}
 ---
 
 # Ziyad, God of Reinvention and Second Chances
