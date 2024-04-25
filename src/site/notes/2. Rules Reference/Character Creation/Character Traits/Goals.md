@@ -6,7 +6,7 @@
 
 [[2. Rules Reference/Character Creation/Character Traits/Goals\|Goals]] describe any particular objective a character gives themselves (or has been given by someone else). [[2. Rules Reference/Character Creation/Character Traits/Goals\|Goals]] strongly influence a character's decisions or actions, and often will be the trigger for a sub-quest. A [[2. Rules Reference/Character Creation/Character Traits/Goals\|Goal]] should be a long-term-- or, at the very least, something that does not prevent or overly distract the character from being in a group of adventurers in their early levels.
 
-Characters select one [[2. Rules Reference/Character Creation/Character Traits/Goals\|Goal]] during [[2. Rules Reference/Character Creation/Character Creation\|Character Creation]], and may add more later.
+Characters select one [[2. Rules Reference/Character Creation/Character Traits/Goals\|Goal]] during [[Character Creation\|Character Creation]], and may add more later.
 
 >[!info]
 >**Examples:** 
