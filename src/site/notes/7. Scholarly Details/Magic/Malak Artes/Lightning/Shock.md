@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/lightning/shock/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/lightning/shock/","noteIcon":""}
 ---
 
 # Shock
