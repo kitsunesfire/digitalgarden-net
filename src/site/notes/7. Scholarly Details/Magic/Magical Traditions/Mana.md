@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/magical-traditions/mana/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/magical-traditions/mana/","noteIcon":""}
 ---
 
 # Mana
