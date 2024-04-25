@@ -18,7 +18,7 @@ Vice: Trickery
 # Raizin, God of Diplomacy and Alliances
 
 >[!grid]
-![Raizin.png](/img/user/x.%20Assets/Attachments/Images/NPC%20Compendium/Raizin.png)
+![[Raizin.png\|Raizin.png]]
 
 Raizin is said to be an extremely accessible god, for you would be hard pressed to find any corner of the world that is not marked with their influence. They are often depicted as a non-binary or androgynous elf or half-elf with copper eyes. They are believed to have had a personal hand in ending the The Great War, though there are no records that show their involvement. While their current whereabouts are unknown, it is likely that they spend a good deal of their time in the courts of [[0. Archive/Old World Atlas/Vere\|Vere]] or in [[0. Archive/Old World Atlas/Gath\|Gathic]] cities.
 
