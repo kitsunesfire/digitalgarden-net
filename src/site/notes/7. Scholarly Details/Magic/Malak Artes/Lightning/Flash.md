@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/lightning/flash/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/lightning/flash/","noteIcon":""}
 ---
 
 # Flash
