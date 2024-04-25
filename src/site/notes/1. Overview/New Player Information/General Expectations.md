@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/1-overview/new-player-information/general-expectations/","noteIcon":""}
+---
+
+# General Expectations
+
+- **Be heroic.** That means no PVP / murder hobo / reckless endangerment. I expect the world to see you as heroes, so I also expect you to act the part.
+- **Be heartfelt.** Everyone is working really hard to bring to life characters they care a lot about. It's important to me that this creative process is respected. When you are at the table, you should always assume that everyone is trying their best to play true to their character, and that their abilities and comfort zone may be different from yours. When you notice someone really shining, do your best to take note-- most of our sessions will end with an opportunity to shout out these kinds of things. Please note however, that these comments are only meant to be purely positive; it is never okay to make fun of someone else for putting themselves out there or for taking a creative risk. 
+- **Be helpful.** This is a team game, and I rely on each of you to help me and help each other. I fully expect you to be the experts on your own characters and to call things out if I miss one of your abilities or feats. You shouldn't hesitate to ask your team for advice when you can't make up your mind on what skill to boost, and you should be actively looking for ways that you (and your character) can be helping someone else. 
+- **Be humble.** It's important to share the spotlight. While everyone can (and should!) have their own moments to shine, this campaign is about a *party* of heroes, not about one individual hero. It's okay to feel frustrated-- maybe you feel that you have been taking a back seat (or forced to step back) for a long time. If that's the case, please share these feelings with me-- or better yet, with your party!-- so we can work on a solution together. 
+- **Be honest.** If something isn't working for you or doesn't feel right, it's really important to me that you let me know. I can't fix problems I don't know about, and I can't improve without feedback. Only you know what is right for you. 
+- **Be healthy.** Take care of yourselves first. No game is more important than your well-being. If you aren't feeling 100%, feel free to join in remotely, if you're able. But if that's not possible, please just let me know as soon as you can-- no hard feelings. 
+- **Be here.** I expect that you prioritize game night. You should plan to make every session. Shit happens, of course, but this should not a "negotiable" or "maybe" slot on your calendar; it's booked unless something goes wrong.
