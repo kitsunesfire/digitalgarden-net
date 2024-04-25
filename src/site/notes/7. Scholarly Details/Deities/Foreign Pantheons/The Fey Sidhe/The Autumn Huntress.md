@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-fey-sidhe/the-autumn-huntress/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-fey-sidhe/the-autumn-huntress/","noteIcon":""}
 ---
 
 # The Autumn Huntress
