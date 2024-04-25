@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/metal/delirium/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/metal/delirium/","noteIcon":""}
 ---
 
 # Delirium
