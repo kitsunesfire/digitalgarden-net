@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/madjai/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/madjai/","noteIcon":""}
 ---
 
 # The Madjai
