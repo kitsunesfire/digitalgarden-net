@@ -18,7 +18,7 @@ Vice: Delusion
 # Shaima, Goddess of Creation and the Elements
 
 >[!grid]
-![Shaima.png](/img/user/x.%20Assets/Attachments/Images/NPC%20Compendium/Shaima.png)
+![[Shaima.png\|Shaima.png]]
 
 In modern times, Shaima is widely considered to be the most popular and most powerful god in the word. Even folk who would otherwise ignore the forces of the divine have been drawn to her, for her portfolio encompasses a great deal of magics that are traditionally associated with [[7. Scholarly Details/Magic/Magical Traditions/Mana\|Mana]]. In many parts of the world, she is known simply as The Maker, and is credited with all of creation. In addition, she is frequently celebrated as a patron of arts and industry and has enjoyed a surge in clerics as a result of the recent industrial revolution.
 
