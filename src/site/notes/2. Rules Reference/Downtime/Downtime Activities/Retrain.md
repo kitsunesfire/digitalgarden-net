@@ -19,7 +19,7 @@ You can spend a week of [[2. Rules Reference/Downtime/Downtime\|Downtime]] retra
 
 You can spend a week of [[2. Rules Reference/Downtime/Downtime\|Downtime]] retraining to swap out one of your [[2. Rules Reference/Character Creation/Skills/Skills\|skill]] increases. Reduce your proficiency rank in the skill losing its increase by one step and increase your proficiency rank in another skill by one step. The new proficiency rank has to be equal to or lower than the proficiency rank you traded away. For instance, if your bard is a master in [[2. Rules Reference/Character Creation/Skills/Performance\|Performance]] and [[2. Rules Reference/Character Creation/Skills/Stealth\|Stealth]], and an expert in [[2. Rules Reference/Character Creation/Skills/Occultism\|Occultism]], you could reduce the character’s proficiency in [[2. Rules Reference/Character Creation/Skills/Stealth\|Stealth]] to expert and become a master in [[2. Rules Reference/Character Creation/Skills/Occultism\|Occultism]], but you couldn’t reassign that skill increase to become legendary in [[2. Rules Reference/Character Creation/Skills/Performance\|Performance]]. Keep track of your level when you reassign skill increases; the level at which your skill proficiencies changed can influence your ability to retrain feats with skill prerequisites.  
   
-You can also spend a week to retrain an initial trained skill you gained during [[2. Rules Reference/Character Creation/Character Creation\|Character Creation]].
+You can also spend a week to retrain an initial trained skill you gained during [[Character Creation\|Character Creation]].
 
 ## Retrain Class Features 
 
