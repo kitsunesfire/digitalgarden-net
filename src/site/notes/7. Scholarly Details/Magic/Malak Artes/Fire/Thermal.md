@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/fire/thermal/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/fire/thermal/","noteIcon":""}
 ---
 
 # Thermal
