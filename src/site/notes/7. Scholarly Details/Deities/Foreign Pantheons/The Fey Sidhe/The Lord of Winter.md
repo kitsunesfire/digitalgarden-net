@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-fey-sidhe/the-lord-of-winter/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/deities/foreign-pantheons/the-fey-sidhe/the-lord-of-winter/","noteIcon":""}
 ---
 
 # The Lord of Winter
