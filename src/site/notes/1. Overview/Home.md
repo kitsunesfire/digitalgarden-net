@@ -5,8 +5,24 @@
 # Home
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
+
+
+
+Welcome to the private Obsidian wiki for Sharum Mal'Kari, a custom setting for PF2e. 
+
+**DISCLAIMER**: This content is for private tabletop use only, and not intended for monetary gain. Many of the concepts, themes, items, and titles within are uniquely connected but not wholly original, and I take no personal credit for any of the included artwork. 
+
+If this is your first time visiting, please take a moment to review the [[1. Overview/Using This Wiki\|Using This Wiki]] page. If you've been here before, I encourage you to reference the [[1. Overview/Change Log\|Change Log]] for any significant alterations since your last visit. 
+
+I'm looking forward to telling many great stories together!
+
+-Kacey
+
+
+</div></div>
 
 
 ## Navigation
@@ -42,4 +58,4 @@ The information in this section represents common knowledge and experiences of a
 
 7. Scholarly Details 
 
-While all the information found in [[6. Common Knowledge/6. Common Knowledge\|Common Knowledge]] is likely to be a part of normal life for an average citizen, these topics are subjects that typically require an educated mind and/or specific training. Players are free to browse this section at their leisure, but your characters must have an appropriate background and/or make meaningful efforts in-game (such as talking to NPCs, [[2. Rules Reference/Subsystems/Research/Research\|researching]], [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|recalling knowledge]], or [[2. Rules Reference/Exploration/Exploration Activities/Gather Information\|gathering information]]) to gain full access to this knowledge. 
+While all the information found in [[6. Common Knowledge\|Common Knowledge]] is likely to be a part of normal life for an average citizen, these topics are subjects that typically require an educated mind and/or specific training. Players are free to browse this section at their leisure, but your characters must have an appropriate background and/or make meaningful efforts in-game (such as talking to NPCs, [[2. Rules Reference/Subsystems/Research/Research\|researching]], [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|recalling knowledge]], or [[2. Rules Reference/Exploration/Exploration Activities/Gather Information\|gathering information]]) to gain full access to this knowledge. 
