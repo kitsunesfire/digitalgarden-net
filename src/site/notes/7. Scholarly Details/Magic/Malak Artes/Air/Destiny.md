@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/air/destiny/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/air/destiny/","noteIcon":""}
 ---
 
 # Destiny
