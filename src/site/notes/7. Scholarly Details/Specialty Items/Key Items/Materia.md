@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/7-scholarly-details/specialty-items/key-items/materia/","noteIcon":""}
+---
+
+# Materia 
+
+>[!grid]
+>![Pasted image 20240329163936.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240329163936.png)
+>![Pasted image 20240330095945.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240330095945.png)
+>![Pasted image 20240329163951.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240329163951.png)
+
+[[7. Scholarly Details/Specialty Items/Key Items/Materia\|Materia]] are small orbs of concentrated magical energy. There are ten types of standard [[7. Scholarly Details/Specialty Items/Key Items/Materia\|Materia]] ([[7. Scholarly Details/Magic/Malak Artes/Air/Air\|Air]], [[7. Scholarly Details/Magic/Malak Artes/Fire/Fire\|Fire]], [[7. Scholarly Details/Magic/Malak Artes/Ice/Ice\|Ice]], [[7. Scholarly Details/Magic/Malak Artes/Lightning/Lightning\|Lightning]], [[7. Scholarly Details/Magic/Malak Artes/Metal/Metal\|Metal]], [[7. Scholarly Details/Metaphysics/Essences/Polarities/Radiant\|Radiant]] [[7. Scholarly Details/Magic/Malak Artes/Stone/Stone\|Stone]], [[7. Scholarly Details/Metaphysics/Essences/Polarities/Void\|Void]], [[7. Scholarly Details/Magic/Malak Artes/Water/Water\|Water]], and [[7. Scholarly Details/Magic/Malak Artes/Wood/Wood\|Wood]]), as well as the far more rare (and more powerful) untyped version, known as [[7. Scholarly Details/Specialty Items/Key Items/Prima Materia\|Prima Materia]]. All [[7. Scholarly Details/Specialty Items/Key Items/Materia\|Materia]] are formed from [[7. Scholarly Details/Specialty Items/Materials/Crystal Shards\|Crystal Shards]], and are most commonly used for aiding in various municipal tasks within the [[4. Gazetteer/Eternian Empire\|Eternian Empire]], such as providing water, heat, ice for food preservation, and light for street lamps. They shatter after a certain amount of use, making the need for new [[7. Scholarly Details/Specialty Items/Key Items/Materia\|Materia]] constant. 
+
+Though [[7. Scholarly Details/Specialty Items/Key Items/Materia\|Materia]] are theoretically distributed evenly and fairly across the [[4. Gazetteer/Provinces\|Provinces]] of the [[4. Gazetteer/Eternian Empire\|Eternian Empire]], in practice, the wealthier and more powerful [[4. Gazetteer/Provinces\|Provinces]] get their hands on more or better quality [[7. Scholarly Details/Specialty Items/Key Items/Materia\|Materia]], whereas the poor have to make do with what they can get. Smuggling rings and [[5. Dramatis Personae/Factions/Corsairs/Corsairs\|Corsairs]] often attempt to divert [[7. Scholarly Details/Specialty Items/Key Items/Materia\|Materia]] shipments, and there is a lot of money to be made in the sale of [[7. Scholarly Details/Specialty Items/Key Items/Materia\|Materia]] on the black market. 
