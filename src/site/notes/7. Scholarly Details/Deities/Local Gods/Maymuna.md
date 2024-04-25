@@ -18,7 +18,7 @@ Vice: Indulgence
 # Maymuna, Goddess of Family, Duty, and Peace
 
 >[!grid]
-![Maymuna.png](/img/user/x.%20Assets/Attachments/Images/NPC%20Compendium/Maymuna.png)
+![[Maymuna.png\|Maymuna.png]]
 
 Synonymous with calm and community, Maymuna has been a beacon of warmth and compassion since time immemorial. Her rule over the [[0. Archive/Old World Atlas/Grand Kieves\|Grand Kieves]] has been uncontested, and she prides herself with the peaceful reputation these islands have developed. As the All-Mother, she is said to watch over all of her children and guide them towards enlightenment through her teachings, collectively known as the commandments of the Covenant Grace. Even compared to other gods she is seen as highly spiritual and driven by faith, and it is suspected that her followers receive more  [[7. Scholarly Details/Magic/Magical Traditions/Reiki\|Reiki]] than most as a result. However, Maymuna is fairly demanding of her followers and expects them to adhere to her commandments without question— some of which require rather significant lifestyle commitments, such as regular daily prayer, periods of holy fasting, and ritualistic self-discipline.
 
