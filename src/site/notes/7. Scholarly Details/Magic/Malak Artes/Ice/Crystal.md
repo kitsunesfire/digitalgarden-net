@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/ice/crystal/"}
+{"dg-publish":true,"permalink":"/7-scholarly-details/magic/malak-artes/ice/crystal/","noteIcon":""}
 ---
 
 # Crystal
