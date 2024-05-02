@@ -10,7 +10,7 @@
 > Type |  Stat |
 > ---|---|
 > **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/Artificial/Doppelganger\|Doppelganger]] |
-> **Gender** | `=this.gender` |
+> **Gender** | Undefined |
 > **Home Region** | [[Unknown\|Unknown]] |
 > **Condition** | Healthy |
 > ###### Info
