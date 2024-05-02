@@ -5,12 +5,12 @@
 
 > [!infobox]
 > # Jair
-> -Placeholder for Image-
+> ![](https://i.imgur.com/R30l46D.png)
 > ###### Bio
 > Type |  Stat |
 > ---|---|
 > **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/Human\|Human]] |
-> **Gender** | `=this.gender` |
+> **Gender** | Male |
 > **Home Region** | [[0. Archive/Old World Atlas/United Altos Isles\|United Altos Isles]] |
 > **Condition** | Healthy |
 > ###### Info
