@@ -4,7 +4,7 @@
 
 # Lunar Fog
 
-[[6. Common Knowledge/Natural Phenomena/Void Effects/Lunar Fog\|Lunar Fog]] is an environmental hazard that naturally occurs in [[0. Archive/Old World Atlas/Zarthura\|Zarthura]]-- especially within the territories of the [[4. Gazetteer/Lunar Highlands/Lunar Highlands\|Lunar Highlands]] and the [[4. Gazetteer/Vale of Twilight/Vale of Twilight\|Vale of Twilight]]. [[6. Common Knowledge/Natural Phenomena/Void Effects/Lunar Fog\|Lunar Fog]] in and of itself isn't terribly dangerous, but prolonged or concentrated exposure to [[6. Common Knowledge/Natural Phenomena/Void Effects/Lunar Fog\|Lunar Fog]] can lead to [[7. Scholarly Details/Ailments & Injuries/Amaryllis Poisoning\|Amaryllis Poisoning]]. 
+[[6. Common Knowledge/Natural Phenomena/Void Effects/Lunar Fog\|Lunar Fog]] is an environmental hazard that naturally occurs in [[0. Archive/Old World Atlas/Zarthura\|Zarthura]]-- especially within the territories of the [[4. Gazetteer/Lunar Highlands/Lunar Highlands\|Lunar Highlands]] and the [[4. Gazetteer/Vale of Twilight/Vale of Twilight\|Vale of Twilight]]. [[6. Common Knowledge/Natural Phenomena/Void Effects/Lunar Fog\|Lunar Fog]] in and of itself isn't terribly dangerous, but prolonged or concentrated exposure to [[6. Common Knowledge/Natural Phenomena/Void Effects/Lunar Fog\|Lunar Fog]] can lead to contracting the [[7. Scholarly Details/Ailments & Injuries/Blossoming Curse\|Blossoming Curse]]. 
 
 ### Visibility
 As with normal fog, [[6. Common Knowledge/Natural Phenomena/Void Effects/Lunar Fog\|Lunar Fog]] imposes a circumstance penalty to visual Perception checks, depending on the thickness. 
