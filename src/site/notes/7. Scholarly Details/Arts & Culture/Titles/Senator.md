@@ -4,7 +4,7 @@
 
 # Senator
 
-Title held by the administrative and judicial leader of a [[4. Gazetteer/Provinces\|province]] in the [[4. Gazetteer/Eternian Empire\|Eternian Empire]]. Currently, there are nine [[7. Scholarly Details/Arts & Culture/Titles/Senator\|Senators]] in the [[4. Gazetteer/Eternian Empire\|Eternian Empire]]. 
+Title held by the administrative and judicial leader of a [[4. Gazetteer/Provinces\|province]] in the [[4. Gazetteer/Eternian Empire\|Eternian Empire]]. Currently, there are seven [[7. Scholarly Details/Arts & Culture/Titles/Senator\|Senators]] in the [[4. Gazetteer/Eternian Empire\|Eternian Empire]]. 
 
 As a member of the [[5. Dramatis Personae/Factions/Eternian Government/Ennead\|Ennead]], every [[7. Scholarly Details/Arts & Culture/Titles/Senator\|Senator]] has an array of responsibilities they must uphold in addition to their usual duties, including acting as council to the [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Emperor\|Emperor]], enforcing Eternian law and confirming new [[7. Scholarly Details/Arts & Culture/Titles/Magistrate\|Magistrate]] appointments. 
 
