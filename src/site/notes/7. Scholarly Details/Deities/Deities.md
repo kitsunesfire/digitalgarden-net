@@ -10,9 +10,9 @@ The six [[7. Scholarly Details/Deities/Madjai\|Madjai]] are:
 
 - [[7. Scholarly Details/Deities/Local Gods/Azaren\|Azaren]] - Spellcraft & Design 
 - [[7. Scholarly Details/Deities/Local Gods/Elincia\|Elincia]] - Freedom & Adventure 
-- [[7. Scholarly Details/Deities/Local Gods/Farrah\|Farrah]] - Bravery & Leadership
+- [[7. Scholarly Details/Deities/Local Gods/Orianna\|Orianna]] - Bravery & Leadership
 - [[7. Scholarly Details/Deities/Local Gods/Haitham\|Haitham]] - Strength & Victory 
-- [[7. Scholarly Details/Deities/Local Gods/Lothar\|Lothar]] - Beauty, Indulgence & Sensuality 
+- [[7. Scholarly Details/Deities/Local Gods/Cassiel\|Cassiel]] - Beauty, Indulgence & Sensuality 
 - [[7. Scholarly Details/Deities/Local Gods/Zoran\|Zoran]] - Life & Conviction
 
 and some of the most common or prominently worshipped [[7. Scholarly Details/Deities/Local Gods/Local Gods\|Local Gods]] (among the multitudes) are: 
@@ -24,5 +24,5 @@ and some of the most common or prominently worshipped [[7. Scholarly Details/Dei
 - [[7. Scholarly Details/Deities/Local Gods/Thelemia\|Thelemia]] - Revelry 
 - [[7. Scholarly Details/Deities/Local Gods/Vandira\|Vandira]] - Grief & Revenge  
 
-Besides the [[7. Scholarly Details/Deities/Local Gods/Local Gods\|Local Gods]], almost all Zarthurians believe in the power of [[7. Scholarly Details/Deities/Local Gods/Fate\|Fate]]. In ancient times, [[7. Scholarly Details/Deities/Local Gods/Fate\|Fate]] was not necessarily seen as a [[7. Scholarly Details/Deities/Deities\|deity]], but they were believed to be able to influence mortals and gods alike all the same. Because of this, [[7. Scholarly Details/Deities/Local Gods/Fate\|Fate]] was often paid homage to and sometimes called upon during times of great peril. In fact, in ancient times, the continent of Zarthura was named "The Land of Fate" in part to signify the importance of this concept to its people. Recently, some prominent academics and priests have been pushing the theory that (contrary to these ancient interpretations) [[7. Scholarly Details/Deities/Local Gods/Fate\|Fate]] was actually one of the [[7. Scholarly Details/Deities/Neter\|Neter]]-- perhaps even the most important-- leading to new traditions forming around their worship. 
+Besides the [[7. Scholarly Details/Deities/Local Gods/Local Gods\|Local Gods]], almost all Zarthurians believe in the power of [[7. Scholarly Details/Deities/Local Gods/Mythos\|fate]]. In ancient times, [[7. Scholarly Details/Deities/Local Gods/Mythos\|fate]] was not necessarily personified or seen as a [[7. Scholarly Details/Deities/Deities\|deity]], but they were believed to be able to influence mortals and gods alike all the same. Because of this, [[7. Scholarly Details/Deities/Local Gods/Mythos\|fate]] was often paid homage to and sometimes called upon during times of great peril. In fact, in ancient times, the continent of Zarthura was named "The Land of Fate" in part to signify the importance of this concept to its people. In modern times,  prominent academics and priests developed the theory that (contrary to these ancient interpretations) [[7. Scholarly Details/Deities/Local Gods/Mythos\|fate]] was actually one of the [[7. Scholarly Details/Deities/Neter\|Neter]]-- perhaps even the most important-- leading to new traditions forming around their personification and worship as a [[7. Scholarly Details/Deities/Deities\|deity]] named [[7. Scholarly Details/Deities/Local Gods/Mythos\|Mythos]] . 
 
