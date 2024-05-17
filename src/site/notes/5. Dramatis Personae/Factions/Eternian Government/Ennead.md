@@ -4,19 +4,26 @@
 
 # The Ennead
 
-Formally known as "The Ennead of Eternia", the [[5. Dramatis Personae/Factions/Eternian Government/Ennead\|Ennead]] is comprised of nine [[7. Scholarly Details/Arts & Culture/Titles/Senator\|Senators]], each representing a [[4. Gazetteer/Provinces\|province]] within the [[4. Gazetteer/Eternian Empire\|Eternian Empire]]. 
+>[!grid]
+>![Pasted image 20240318133617.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240318133617.png)
+>![Pasted image 20240109011732.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240109011732.png)
+>![Pasted image 20240109012004.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240109012004.png)
+>![Pasted image 20240322062538.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240322062538.png)
+>![Pasted image 20240318135911.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240318135911.png)
+>![Pasted image 20240322040146.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240322040146.png)
+>![Pasted image 20240324134736.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240324134736.png)
+
+Formally known as "The Ennead of Eternia", the [[5. Dramatis Personae/Factions/Eternian Government/Ennead\|Ennead]] is comprised of seven [[7. Scholarly Details/Arts & Culture/Titles/Senator\|Senators]], each representing a [[4. Gazetteer/Provinces\|province]] within the [[4. Gazetteer/Eternian Empire\|Eternian Empire]]. 
 
 | File                                                          | Faction                                                                                                                                                                                          | Province                                                                | Party1Standing |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | -------------- |
-| [[5. Dramatis Personae/NPC Compendium/Deliah\|Deliah]]     | \-                                                                                                                                                                                               | [[4. Gazetteer/Auroric Shores/Auroric Shores\|Auroric Shores]]       | Unmet          |
 | [[5. Dramatis Personae/NPC Compendium/Phaidra\|Phaidra]]   | <ul><li>[[5. Dramatis Personae/Factions/Celestine.md\\|Celestine]]</li></ul>                                                                                                                     | [[4. Gazetteer/Diurnan Valley/Diurnan Valley\|Diurnan Valley]]       | Unmet          |
-| [[5. Dramatis Personae/NPC Compendium/Rainard\|Rainard]]   | <ul></ul>                                                                                                                                                                                        | [[4. Gazetteer/Evenfall Isles/Evenfall Isles\|Evenfall Isles]]       | Unmet          |
 | [[5. Dramatis Personae/NPC Compendium/Corynn\|Corynn]]     | <ul><li>[[5. Dramatis Personae/Factions/Eternian Government/Triumvirate Council.md\\|Triumvirate Council]]</li><li>[[5. Dramatis Personae/Factions/Noble Houses/Vasimar.md\\|Vasimar]]</li></ul> | [[4. Gazetteer/Gaean Heartlands/Gaean Heartlands\|Gaean Heartlands]] | Unmet          |
 | [[5. Dramatis Personae/NPC Compendium/Aelfric\|Aelfric]]   | <ul><li>[[5. Dramatis Personae/Factions/Noble Houses/Amira.md\\|Amira]]</li></ul>                                                                                                                | [[4. Gazetteer/Lunar Highlands/Lunar Highlands\|Lunar Highlands]]    | Unmet          |
-| [[5. Dramatis Personae/NPC Compendium/Conrad\|Conrad]]     | \-                                                                                                                                                                                               | [[4. Gazetteer/Mystic Mire/Mystic Mire\|Mystic Mire]]                | Unmet          |
-| [[5. Dramatis Personae/NPC Compendium/Serafina\|Serafina]] | <ul><li>[[5. Dramatis Personae/Factions/Waste Walkers.md\\|Waste Walkers]]</li><li>[[5. Dramatis Personae/Factions/Noble Houses/Suria.md\\|Suria]]</li></ul>                                     | [[4. Gazetteer/Red Wastes/Red Wastes\|Red Wastes]]                   | Unmet          |
+| [[5. Dramatis Personae/NPC Compendium/Rainard\|Rainard]]   | <ul><li>[[5. Dramatis Personae/Factions/Noble Houses/Amira.md\\|Amira]]</li></ul>                                                                                                                | [[4. Gazetteer/Vale of Twilight/Vale of Twilight\|Vale of Twilight]] | Unmet          |
+| [[5. Dramatis Personae/NPC Compendium/Lothar\|Lothar]]     | <ul><li>[[5. Dramatis Personae/Factions/Noble Houses/Mazzaroth.md\\|Mazzaroth]]</li></ul>                                                                                                        | [[4. Gazetteer/Mystic Mire/Mystic Mire\|Mystic Mire]]                | Unmet          |
 | [[5. Dramatis Personae/NPC Compendium/Dietrich\|Dietrich]] | <ul><li>[[5. Dramatis Personae/Factions/Noble Houses/Suria.md\\|Suria]]</li></ul>                                                                                                                | [[4. Gazetteer/Solar Sanctum/Solar Sanctum\|Solar Sanctum]]          | Unmet          |
-| [[5. Dramatis Personae/NPC Compendium/Lothar\|Lothar]]     | <ul><li>[[5. Dramatis Personae/Factions/Noble Houses/Mazzaroth.md\\|Mazzaroth]]</li></ul>                                                                                                        | [[4. Gazetteer/Vale of Twilight/Vale of Twilight\|Vale of Twilight]] | Unmet          |
+| [[5. Dramatis Personae/NPC Compendium/Serafina\|Serafina]] | <ul><li>[[5. Dramatis Personae/Factions/Waste Walkers.md\\|Waste Walkers]]</li><li>[[5. Dramatis Personae/Factions/Noble Houses/Suria.md\\|Suria]]</li></ul>                                     | [[4. Gazetteer/Red Wastes/Red Wastes\|Red Wastes]]                   | Unmet          |
 
 { .block-language-dataview}
 
