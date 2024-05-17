@@ -10,12 +10,14 @@ Every so often, the forces on the other side of the portal manage to overwhelm t
 
 ## Key Locations 
 
-| File                                                                            | Description           |
-| ------------------------------------------------------------------------------- | --------------------- |
-| [[4. Gazetteer/Red Wastes/Argolis/Argolis\|Argolis]]                         | \-                    |
-| [[4. Gazetteer/Red Wastes/Elgin/Elgin\|Elgin]]                               | \-                    |
-| [[4. Gazetteer/Red Wastes/Gaelira/Gaelira\|Gaelira]]                         | \-                    |
-| [[4. Gazetteer/Red Wastes/Oblivion/Oblivion\|Oblivion]]                      | Famous prison complex |
-| [[4. Gazetteer/Red Wastes/Terra Sigillata/Terra Sigillata\|Terra Sigillata]] | \-                    |
+| File                                                             | Description           |
+| ---------------------------------------------------------------- | --------------------- |
+| [[4. Gazetteer/Red Wastes/Argolis/Argolis\|Argolis]]          | \-                    |
+| [[4. Gazetteer/Red Wastes/Ari Serin/Ari Serin\|Ari Serin]]    | \-                    |
+| [[4. Gazetteer/Red Wastes/Aten-Ra/Aten-Ra\|Aten-Ra]]          | \-                    |
+| [[4. Gazetteer/Red Wastes/Eos Caelum/Eos Caelum\|Eos Caelum]] | \-                    |
+| [[4. Gazetteer/Red Wastes/Hallstatt/Hallstatt\|Hallstatt]]    | \-                    |
+| [[4. Gazetteer/Red Wastes/Mors Omnia/Mors Omnia\|Mors Omnia]] | \-                    |
+| [[4. Gazetteer/Red Wastes/Oblivion/Oblivion\|Oblivion]]       | Famous prison complex |
 
 { .block-language-dataview}
