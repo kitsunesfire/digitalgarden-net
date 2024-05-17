@@ -4,4 +4,3 @@
 
 # Devil
 
-Also known as "daeva"
