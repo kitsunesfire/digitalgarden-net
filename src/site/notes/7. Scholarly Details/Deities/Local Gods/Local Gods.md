@@ -7,7 +7,7 @@
 - [[7. Scholarly Details/Deities/Local Gods/Tenebrae\|Tenebrae]] - Void / Darkness 
 - [[7. Scholarly Details/Deities/Local Gods/Kael Doras\|Kael Doras]] - Radiance / Light
 
-- [[7. Scholarly Details/Deities/Local Gods/Fate\|Fate]] - Fate
+- [[7. Scholarly Details/Deities/Local Gods/Mythos\|Mythos]] - Fate
 	- [[7. Scholarly Details/Deities/Local Gods/Nisha'ra\|Nisha'ra]] - Night 
 		- [[7. Scholarly Details/Deities/Local Gods/Selene\|Selene]] - Moon 
 		- [[7. Scholarly Details/Deities/Local Gods/Elincia\|Elincia]] - Freedom / Adventure 
@@ -21,7 +21,7 @@
 			- [[7. Scholarly Details/Deities/Local Gods/Morthos\|Morthos]] - Violent Death / Torture 
 			- [[7. Scholarly Details/Deities/Local Gods/Diathos\|Diathos]] - Peaceful Death 
 			- [[7. Scholarly Details/Deities/Local Gods/Porthos\|Porthos]] - Sleep / Inspiration
-		- [[7. Scholarly Details/Deities/Local Gods/Lothar\|Lothar]] - Beauty / Indulgence / Sensuality
+		- [[7. Scholarly Details/Deities/Local Gods/Cassiel\|Cassiel]] - Beauty / Indulgence / Sensuality
 			- [[7. Scholarly Details/Deities/Local Gods/Raizel\|Raizel]], [[7. Scholarly Details/Deities/Local Gods/Ambrose\|Ambrose]] & [[7. Scholarly Details/Deities/Local Gods/Sarnai\|Sarnai]] - Sexuality / Seduction 
 			- [[7. Scholarly Details/Deities/Local Gods/Luxor\|Luxor]] - Decadence / Pleasure 
 			- [[7. Scholarly Details/Deities/Local Gods/Karnak\|Karnak]] - Pain / Lust
@@ -55,7 +55,7 @@
 		- [[7. Scholarly Details/Deities/Local Gods/Haldor\|Haldor]] - War / Battle
 			- [[7. Scholarly Details/Deities/Local Gods/Ba'raka\|Ba'raka]] - Hunting / Conquest 
 			- [[7. Scholarly Details/Deities/Local Gods/Zendiel\|Zendiel]] - Strategy 
-			- [[7. Scholarly Details/Deities/Local Gods/Farrah\|Farrah]] - Bravery / Leadership
+			- [[7. Scholarly Details/Deities/Local Gods/Orianna\|Orianna]] - Bravery / Leadership
 			- [[7. Scholarly Details/Deities/Local Gods/Haitham\|Haitham]] - Strength / Victory
 			- [[7. Scholarly Details/Deities/Local Gods/Deimos\|Deimos]] - Dread / Terror
 		- [[7. Scholarly Details/Deities/Local Gods/Gayan\|Gayan]] - Wealth / Power 
