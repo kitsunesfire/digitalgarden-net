@@ -12,18 +12,19 @@ Though the [[4. Gazetteer/Mystic Mire/Mystic Mire\|Mystic Mire]] does have a [[7
 
 ## Key Locations 
 
-| File                                                                                   | Description                                                                                   |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [[4. Gazetteer/Mystic Mire/Drachenfel/Drachenfel\|Drachenfel]]                      | \-                                                                                            |
-| [[4. Gazetteer/Mystic Mire/Echo Reef/Echo Reef\|Echo Reef]]                         | \-                                                                                            |
-| [[4. Gazetteer/Mystic Mire/Fen Yendar/Fen Yendar\|Fen Yendar]]                      | \-                                                                                            |
-| [[4. Gazetteer/Mystic Mire/Janova/Janova\|Janova]]                                  | A bustling town of arrivals and new beginnings, featuring the world's largest shrine to Ziyad |
-| [[4. Gazetteer/Mystic Mire/Kaer Luthis/Kaer Luthis\|Kaer Luthis]]                   | \-                                                                                            |
-| [[4. Gazetteer/Mystic Mire/Lichtenburg/Lichtenburg\|Lichtenburg]]                   | \-                                                                                            |
-| [[4. Gazetteer/Mystic Mire/Mariren/Mariren\|Mariren]]                               | \-                                                                                            |
-| [[4. Gazetteer/Mystic Mire/Noordhawke/Noordhawke\|Noordhawke]]                      | \-                                                                                            |
-| [[4. Gazetteer/Mystic Mire/Surrse Kasteel/Surrse Kasteel\|Surrse Kasteel]]          | \-                                                                                            |
-| [[4. Gazetteer/Mystic Mire/The Lost Villages/The Lost Villages\|The Lost Villages]] | \-                                                                                            |
-| [[4. Gazetteer/Mystic Mire/Weltenquell/Weltenquell\|Weltenquell]]                   | \-                                                                                            |
+| File                                                                                   | Description |
+| -------------------------------------------------------------------------------------- | ----------- |
+| [[4. Gazetteer/Mystic Mire/Drachenfel/Drachenfel\|Drachenfel]]                      | \-          |
+| [[4. Gazetteer/Mystic Mire/Echo Reef/Echo Reef\|Echo Reef]]                         | \-          |
+| [[4. Gazetteer/Mystic Mire/Fen Yendar/Fen Yendar\|Fen Yendar]]                      | \-          |
+| [[4. Gazetteer/Mystic Mire/Hydra/Hydra\|Hydra]]                                     | \-          |
+| [[4. Gazetteer/Mystic Mire/Kaer Luthis/Kaer Luthis\|Kaer Luthis]]                   | \-          |
+| [[4. Gazetteer/Mystic Mire/Lichtenburg/Lichtenburg\|Lichtenburg]]                   | \-          |
+| [[4. Gazetteer/Mystic Mire/Mariren/Mariren\|Mariren]]                               | \-          |
+| [[4. Gazetteer/Mystic Mire/Mithraeum/Mithraeum\|Mithraeum]]                         | \-          |
+| [[4. Gazetteer/Mystic Mire/Noordhawke/Noordhawke\|Noordhawke]]                      | \-          |
+| [[4. Gazetteer/Mystic Mire/Surrse Kasteel/Surrse Kasteel\|Surrse Kasteel]]          | \-          |
+| [[4. Gazetteer/Mystic Mire/The Lost Villages/The Lost Villages\|The Lost Villages]] | \-          |
+| [[4. Gazetteer/Mystic Mire/Weltenquell/Weltenquell\|Weltenquell]]                   | \-          |
 
 { .block-language-dataview}
