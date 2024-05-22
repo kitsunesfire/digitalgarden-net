@@ -19,9 +19,9 @@ The six [[7. Scholarly Details/Deities/Madjai\|Madjai]] are:
 | Name        | Epithet              | Themes                          | Essence     | Element | Key Stat |
 | ----------- | -------------------- | ------------------------------- | ----------- | ------- | -------- |
 | [[7. Scholarly Details/Deities/Local Gods/Azaren\|Azaren]]  | The Architect        | Spellcraft & Design             | [[7. Scholarly Details/Metaphysics/Essences/Tesseri/Varuna\|Varuna]]  | Water   | INT      |
-| [[7. Scholarly Details/Deities/Local Gods/Elincia\|Elincia]] | The Unbound          | Freedom & Adventure             | [[7. Scholarly Details/Metaphysics/Essences/Tesseri/Pavana\|Pavana]]  | Air     | DEX      |
-| [[7. Scholarly Details/Deities/Local Gods/Orianna\|Orianna]]  | The Enlightened      | Bravery & Leadership            | [[7. Scholarly Details/Metaphysics/Essences/Polarities/Radiant\|Radiant]] | Light   | WIS      |
-| [[7. Scholarly Details/Deities/Local Gods/Haitham\|Haitham]] | The Blade from Above | Strength & Victory              | [[7. Scholarly Details/Metaphysics/Essences/Tesseri/Bhumi\|Bhumi]]   | Earth   | STR      |
+| [[7. Scholarly Details/Deities/Local Gods/Elincia\|Elincia]] | The Unbound          | Freedom & Adventure             | [[7. Scholarly Details/Metaphysics/Essences/Tesseri/Bhumi\|Bhumi]]   | Earth   | DEX      |
+| [[7. Scholarly Details/Deities/Local Gods/Orianna\|Orianna]] | The Enlightened      | Bravery & Leadership            | [[7. Scholarly Details/Metaphysics/Essences/Polarities/Radiant\|Radiant]] | Light   | WIS      |
+| [[7. Scholarly Details/Deities/Local Gods/Haitham\|Haitham]] | The Blade from Above | Strength & Victory              | [[7. Scholarly Details/Metaphysics/Essences/Tesseri/Pavana\|Pavana]]  | Air     | STR      |
 | [[7. Scholarly Details/Deities/Local Gods/Cassiel\|Cassiel]] | The Silken Shadow    | Beauty, Indulgence & Sensuality | [[7. Scholarly Details/Metaphysics/Essences/Polarities/Void\|Void]]    | Dark    | CHA      |
 | [[7. Scholarly Details/Deities/Local Gods/Zoran\|Zoran]]   | The Relentless       | Life & Conviction               | [[7. Scholarly Details/Metaphysics/Essences/Tesseri/Agni\|Agni]]    | Fire    | CON      |{ #Attributes}
 
