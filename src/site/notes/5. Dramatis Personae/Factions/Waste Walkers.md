@@ -10,7 +10,7 @@ Due to the nature of their work, the [[5. Dramatis Personae/Factions/Waste Walke
 
 Though there are many employed by the [[5. Dramatis Personae/Factions/Waste Walkers\|Waste Walkers]], there are a few who are particularly well-known. The names of these influential [[5. Dramatis Personae/Factions/Waste Walkers\|Waste Walkers]] are listed below, with a brief description of their specialty with regards to their business:
 
-- [[5. Dramatis Personae/NPC Compendium/Serafina\|Serafina]], the most loyal and honorable
+- [[5. Dramatis Personae/NPC Compendium/Unmet/Serafina\|Serafina]], the most loyal and honorable
 - Jika, the strongest warrior
 - Bezoar, the best escort 
 - Ali, the swiftest traveler
