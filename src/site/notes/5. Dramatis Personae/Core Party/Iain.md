@@ -32,15 +32,6 @@
 >![Pasted image 20231130155756.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020231130155756.png)
 >![Pasted image 20231130155853.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020231130155853.png)
 
-> [!column] About Me
->> [!metadata|text-Center bg-c-gray] Description
->> `=this.Description`
->
->> [!metadata|text-Center bg-c-gray] Relationships
->> **Allies:** -
->>
->> **Enemies:** -
-
 # Notes
 
 - TBD
