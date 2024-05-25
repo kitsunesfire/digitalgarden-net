@@ -28,17 +28,6 @@
 > [!grid] 
 > Placeholder
 
-> [!column] About Me
->> [!metadata|text-Center bg-c-gray] Description
->> `=this.Description`
->
->> [!metadata|text-Center bg-c-gray] Relationships
->> **Family:** -
->>
->> **Allies:** -
->>
->> **Enemies:** -
-
 # Notes
 
 - TBD
