@@ -27,15 +27,6 @@
 > [!grid] 
 > Placeholder
 
-> [!column] About Me
->> [!metadata|text-Center bg-c-gray] Description
->> `=this.Description`
->
->> [!metadata|text-Center bg-c-gray] Relationships
->> **Allies:** -
->>
->> **Enemies:** -
-
 # Notes
 
 - Captain of the [[5. Dramatis Personae/Factions/Corsairs/Wave Howlers\|Wave Howlers]], a fearsome crew of [[5. Dramatis Personae/Factions/Corsairs/Corsairs\|Corsairs]] that prowl the waters between [[0. Archive/Old World Atlas/Zarthura\|Zarthura]] and [[0. Archive/Old World Atlas/Camboragh\|Camboragh]].
