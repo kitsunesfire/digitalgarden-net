@@ -17,7 +17,7 @@
 > Type |  Stat |
 > ---|---|
 > **Alias(es)** | `=this.aliases` |
-> **Occupation(s)** | Wizaard |
+> **Occupation(s)** | Wizard |
 > **Faction(s)** | `=link(this.Faction)` |
 > **Religion(s)** | `=link(this.Religion)` |
 > **Last Known Location** | [[4. Gazetteer/Red Wastes/Oblivion/Oblivion\|Oblivion]] |
@@ -27,17 +27,6 @@
 > [!column] Gallery 
 > [!grid] 
 > Placeholder
-
-> [!column] About Me
->> [!metadata|text-Center bg-c-gray] Description
->> `=this.Description`
->
->> [!metadata|text-Center bg-c-gray] Relationships
->> **Family:** -
->>
->> **Allies:** -
->>
->> **Enemies:** -
 
 # Notes
 
