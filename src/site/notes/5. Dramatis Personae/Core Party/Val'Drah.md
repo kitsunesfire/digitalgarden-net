@@ -30,15 +30,6 @@
 > ![Pasted image 20231130162622.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020231130162622.png)
 > ![Pasted image 20231130162708.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020231130162708.png)
 
-> [!column] About Me
->> [!metadata|text-Center bg-c-gray] Description
->> `=this.Description`
->
->> [!metadata|text-Center bg-c-gray] Relationships
->> **Allies:** -
->>
->> **Enemies:** -
-
 # Notes
 
 - TBD
