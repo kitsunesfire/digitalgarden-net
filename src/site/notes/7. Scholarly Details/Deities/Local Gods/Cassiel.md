@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/7-scholarly-details/deities/local-gods/cassiel/","noteIcon":""}
 ---
 
-# Lothar (The Silken Shadow)
+# Cassiel (The Silken Shadow)
 
 >[!grid]
 >![Pasted image 20240421090731.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240421090731.png)
