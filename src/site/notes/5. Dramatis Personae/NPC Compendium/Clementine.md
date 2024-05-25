@@ -5,7 +5,7 @@
 
 > [!infobox]
 > # Clementine
-> Placeholder
+> ![](https://i.imgur.com/TR8MICU.png)
 > ###### Bio
 > Type |  Stat |
 > ---|---|
