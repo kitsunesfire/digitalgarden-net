@@ -4,4 +4,4 @@
 
 # Adept
 
-Title given to a newly initiated member of the [[5. Dramatis Personae/Factions/Celestine\|Celestine]] Church who is a student of [[7. Scholarly Details/Magic/Alternative Magic/Arcanimancy\|Arcanimancy]]. These individuals may assist in research and rituals, but are not capable of working independently (yet).
+Title given to an active member of the [[5. Dramatis Personae/Factions/Celestine\|Celestine]] Church. This rank indicates the capacity of performing [[7. Scholarly Details/Magic/Alternative Magic/Arcanimancy\|Arcanimancy]] rituals and conducting independent research on behalf of the church. 
