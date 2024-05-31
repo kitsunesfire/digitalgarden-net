@@ -5,7 +5,7 @@
 # Perform Sacred Rites
 #Downtime 
 
-A pious character can spend time between adventures performing sacred rites in a temple affiliated with a [[6. Common Knowledge/Daily Life/Faith\|deity]] he or she reveres. In between rites, the character spends time in meditation and prayer. A character who is a priest in the temple can lead these rites, which might include weddings, funerals, consecrations, and ordinations. A layperson can perform more simple tasks, such as offering sacrifices in a temple, or assisting a priest with a complex ritual.
+A pious character can spend time between adventures performing sacred rites in a temple affiliated with a [[7. Common Knowledge/Daily Life/Faith\|deity]] he or she reveres. In between rites, the character spends time in meditation and prayer. A character who is a priest in the temple can lead these rites, which might include weddings, funerals, consecrations, and ordinations. A layperson can perform more simple tasks, such as offering sacrifices in a temple, or assisting a priest with a complex ritual.
 
 ## Resources
 
