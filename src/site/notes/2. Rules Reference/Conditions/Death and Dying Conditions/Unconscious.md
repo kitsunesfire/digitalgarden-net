@@ -13,7 +13,7 @@ If you are unconscious and at 0 Hit Points, but not dying, you naturally return 
 If you're unconscious and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways. Each causes you to lose the unconscious condition.
 
 -   You take damage, provided the damage doesn't reduce you to 0 Hit Points. If the damage reduces you to 0 Hit Points, you remain unconscious and gain the dying condition as normal.
--   You receive healing, other than the natural healing you get from [[6. Common Knowledge/Travel/Resting/Resting\|Resting]].
+-   You receive healing, other than the natural healing you get from [[7. Common Knowledge/Travel/Resting/Resting\|Resting]].
 -   Someone shakes you awake with an Interact action.
 -   There's loud noise going on around you—though this isn't automatic. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. If creatures are attempting to stay quiet around you, this Perception check uses their [Stealth](https://2e.aonprd.com/Skills.aspx?ID=15) DCs. Some magical effects make you sleep so deeply that they don't allow you to attempt this Perception check.
 -   If you are simply asleep, the GM decides you wake up either because you have had a restful night's sleep or something disrupted that rest.
