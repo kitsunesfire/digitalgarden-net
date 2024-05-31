@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/Artificial/Doppelganger\|Doppelganger]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/Artificial/Doppelganger\|Doppelganger]] |
 > **Gender** | Undefined |
 > **Home Region** | [[Unknown\|Unknown]] |
 > **Condition** | Healthy |
