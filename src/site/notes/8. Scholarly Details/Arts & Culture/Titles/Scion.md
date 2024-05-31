@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/8-scholarly-details/arts-and-culture/titles/scion/","noteIcon":""}
+---
+
+# Scion
+
+Another term for an "[[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]] User", the [[8. Scholarly Details/Arts & Culture/Titles/Scion\|Scion]] is one half of a [[8. Scholarly Details/Arts & Culture/Titles/Spiritualist\|Spiritualist]] [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Syzygy\|Syzygy]] ; the "host" is known as the [[8. Scholarly Details/Arts & Culture/Titles/Scion\|Scion]], while the summoned entity is called the [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]]. In many contexts, the terms [[8. Scholarly Details/Arts & Culture/Titles/Scion\|scion]] and [[8. Scholarly Details/Arts & Culture/Titles/Spiritualist\|spiritualist]] are used almost interchangeably, though they are not exactly the same thing; only a [[8. Scholarly Details/Arts & Culture/Titles/Spiritualist\|Spiritualist]] who has successfully formed a [[8. Scholarly Details/Magic/Other Related Terms/Bond\|Bond]] with an [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]] may be called a [[8. Scholarly Details/Arts & Culture/Titles/Scion\|Scion]]. 
