@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/Beastkin/Kitsune\|Kitsune]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/Beastkin/Kitsune\|Kitsune]] |
 > **Gender** | Male |
 > **Home Region** | [[0. Archive/Old World Atlas/Sokoku\|Sokoku]] |
 > **Condition** | Healthy |
