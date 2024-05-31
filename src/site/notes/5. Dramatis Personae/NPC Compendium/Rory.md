@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Nephilim/Cambion\|Cambion]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Nephilim/Cambion\|Cambion]] |
 > **Gender** | `=this.gender` |
 > **Home Region** | `=link(this.home)` |
 > **Condition** | Healthy |
@@ -29,5 +29,5 @@
 
 # Notes
 
-- A [[_. GM Screen/SECRETS/Daemon\|Daemon]]-hating [[6. Common Knowledge/Demographics/Ancestries/Apparition/Demon\|Demon]] imprisoned within [[4. Gazetteer/Red Wastes/Oblivion/Oblivion\|Oblivion]] 
+- A [[_. GM Screen/SECRETS/Daemon\|Daemon]]-hating [[7. Common Knowledge/Demographics/Ancestries/Apparition/Demon\|Demon]] imprisoned within [[4. Gazetteer/Red Wastes/Oblivion/Oblivion\|Oblivion]] 
 
