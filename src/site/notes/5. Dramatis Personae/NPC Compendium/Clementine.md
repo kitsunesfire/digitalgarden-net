@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/Beastkin/Catfolk\|Catfolk]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/Beastkin/Catfolk\|Catfolk]] |
 > **Gender** | Female |
 > **Home Region** | `=link(this.home)` |
 > **Condition** | Healthy |
