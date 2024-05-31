@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/High Elf/High Elf\|High Elf]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/High Elf/High Elf\|High Elf]] |
 > **Gender** | Male |
 > **Home Region** | `=link(this.home)` |
 > **Condition** | Healthy |
