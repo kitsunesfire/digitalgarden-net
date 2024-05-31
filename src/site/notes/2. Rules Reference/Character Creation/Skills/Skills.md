@@ -14,14 +14,14 @@ While your character’s [[2. Rules Reference/Character Creation/Attribute Modif
 
 [[2. Rules Reference/Character Creation/Skills/Arcana\|Arcana]] measures how much you know about arcane magic and creatures. Even if you're untrained, you can [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] 
 
-- [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] about arcane theories; creatures of arcane significance (like [[6. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|Dragon]] and beasts); and [[7. Scholarly Details/Cosmology/Inner Planes/The Fade\|The Fade]].
+- [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] about arcane theories; creatures of arcane significance (like [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|Dragon]] and beasts); and [[8. Scholarly Details/Cosmology/Inner Planes/The Fade\|The Fade]].
 
 ### Arcana Trained Actions
 
 You must be trained in Arcana to use it for the following general skill actions.
 
 - [[2. Rules Reference/Exploration/Exploration Activities/Decipher Writing\|Decipher Writing]] about arcane theory.
-- [[2. Rules Reference/Exploration/Exploration Activities/Identify Magic\|Identify Magic]], particularly [[7. Scholarly Details/Magic/Magical Traditions/Mana\|Mana]].
+- [[2. Rules Reference/Exploration/Exploration Activities/Identify Magic\|Identify Magic]], particularly [[8. Scholarly Details/Magic/Magical Traditions/Mana\|Mana]].
 - [[2. Rules Reference/Exploration/Exploration Activities/Learn a Spell\|Learn a Spell]] 
 
 ## Athletics
@@ -32,7 +32,7 @@ You must be trained in Arcana to use it for the following general skill actions.
 
 You can use this skill to create, understand, and repair [[Specialty Items\|Specialty Items]]. Even if you're untrained, you can [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]].
 
-- [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] about [[7. Scholarly Details/Science/Alchemy/Alchemy\|alchemical reactions]], the value of [[Specialty Items\|Specialty Items]], engineering, unusual [[Materials\|Materials]] and alchemical or mechanical creatures.
+- [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] about [[8. Scholarly Details/Alchemy/Alchemy\|alchemical reactions]], the value of [[Specialty Items\|Specialty Items]], engineering, unusual [[Materials\|Materials]] and alchemical or mechanical creatures.
 
 ### Crafting Trained Actions
 
@@ -80,27 +80,27 @@ You can patch up wounds and help people recover from diseases and poisons. Even 
 
 You know a great deal about the natural world, and you command and train animals and magical beasts. Even if you're untrained in [[2. Rules Reference/Character Creation/Skills/Nature\|Nature]], you can use it to [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]].
 
-- **[[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]]** about fauna, flora, geography, [[Weather\|Weather]], the environment, creatures of natural origin, [[7. Scholarly Details/Cosmology/Inner Planes/Arcadia/Arcadia\|Arcadia]], [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], and the [[7. Scholarly Details/Cosmology/Inner Planes/Elemental Planes/Elemental Realms\|Elemental Realms]].
+- **[[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]]** about fauna, flora, geography, [[7. Common Knowledge/Weather/Weather\|Weather]], the environment, creatures of natural origin, [[8. Scholarly Details/Cosmology/Inner Planes/Arcadia/Arcadia\|Arcadia]], [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], and the [[8. Scholarly Details/Cosmology/Inner Planes/Elemental Planes/Elemental Realms\|Elemental Realms]].
 
 ### Nature Trained Actions
 
 You must be trained in [[2. Rules Reference/Character Creation/Skills/Nature\|Nature]] to use the following general skill actions.
 
-- [[2. Rules Reference/Exploration/Exploration Activities/Identify Magic\|Identify Magic]], particularly [[7. Scholarly Details/Magic/Magical Traditions/Soma\|Soma]].
+- [[2. Rules Reference/Exploration/Exploration Activities/Identify Magic\|Identify Magic]], particularly [[8. Scholarly Details/Magic/Magical Traditions/Soma\|Soma]].
 - [[2. Rules Reference/Exploration/Exploration Activities/Learn a Spell\|Learn a Spell]] 
 
 ## Occultism
 
 You know a great deal about ancient philosophies, esoteric lore, obscure mysticism, and supernatural creatures. Even if you're untrained in [[2. Rules Reference/Character Creation/Skills/Occultism\|Occultism]], you can use it to [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]].
 
-- [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] about ancient mysteries; obscure philosophies; creatures of occult significance; and [[7. Scholarly Details/Cosmology/Inner Planes/The Fade\|The Fade]]. 
+- [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] about ancient mysteries; obscure philosophies; creatures of occult significance; and [[8. Scholarly Details/Cosmology/Inner Planes/The Fade\|The Fade]]. 
 
 ### Occultism Trained Actions
 
 You must be trained in [[2. Rules Reference/Character Creation/Skills/Occultism\|Occultism]] to use it for the following general skill actions.
 
 - [[2. Rules Reference/Exploration/Exploration Activities/Decipher Writing\|Decipher Writing]] on occult topics, including complex metaphysical systems, syncretic principles, weird philosophies, and incoherent ramblings.
-- [[2. Rules Reference/Exploration/Exploration Activities/Identify Magic\|Identify Magic]], particularly [[7. Scholarly Details/Magic/Magical Traditions/Ether\|Ether]].
+- [[2. Rules Reference/Exploration/Exploration Activities/Identify Magic\|Identify Magic]], particularly [[8. Scholarly Details/Magic/Magical Traditions/Ether\|Ether]].
 - [[2. Rules Reference/Exploration/Exploration Activities/Learn a Spell\|Learn a Spell]] 
 
 ## Performance
@@ -130,21 +130,21 @@ You must be trained in Performance to use it to [[2. Rules Reference/Downtime/Do
 
 ## Religion
 
-The secrets of deities, dogma, [[6. Common Knowledge/Daily Life/Faith\|Faith]], and the realms of divine creatures both sublime and sinister are open to you. You also understand how [[7. Scholarly Details/Magic/Magic\|magic]] works, though your training imparts a religious slant to that knowledge. Even if you're untrained in [[2. Rules Reference/Character Creation/Skills/Religion\|Religion]], you can use it to [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]].
+The secrets of deities, dogma, [[7. Common Knowledge/Daily Life/Faith\|Faith]], and the realms of divine creatures both sublime and sinister are open to you. You also understand how [[8. Scholarly Details/Magic/Magic\|magic]] works, though your training imparts a religious slant to that knowledge. Even if you're untrained in [[2. Rules Reference/Character Creation/Skills/Religion\|Religion]], you can use it to [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]].
 
-- [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] about divine agents, the finer points of theology, obscure myths regarding a [[6. Common Knowledge/Daily Life/Faith\|Faith]], and creatures of religious significance
+- [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] about divine agents, the finer points of theology, obscure myths regarding a [[7. Common Knowledge/Daily Life/Faith\|Faith]], and creatures of religious significance
 
 ### Religion Trained Actions
 
 You must be trained in [[2. Rules Reference/Character Creation/Skills/Religion\|Religion]] to use it for the following general skill actions.
 
 - [[2. Rules Reference/Exploration/Exploration Activities/Decipher Writing\|Decipher Writing]] of a religious nature, including allegories, homilies, and proverbs.
-- [[2. Rules Reference/Exploration/Exploration Activities/Identify Magic\|Identify Magic]], particularly [[7. Scholarly Details/Magic/Magical Traditions/Reiki\|Reiki]].
+- [[2. Rules Reference/Exploration/Exploration Activities/Identify Magic\|Identify Magic]], particularly [[8. Scholarly Details/Magic/Magical Traditions/Reiki\|Reiki]].
 - [[2. Rules Reference/Exploration/Exploration Activities/Learn a Spell\|Learn a Spell]] 
 
 ## Society
 
-You understand the people and systems that make civilization run, and you know the [[7. Scholarly Details/Arts & Culture/History/History\|historical events]] that make societies what they are today. Further, you can use that knowledge to navigate the complex physical, societal, and economic workings of settlements. Even if you're untrained in [[2. Rules Reference/Character Creation/Skills/Society\|Society]], you can use it for the following general skill actions.
+You understand the people and systems that make civilization run, and you know the [[8. Scholarly Details/Arts & Culture/History/History\|historical events]] that make societies what they are today. Further, you can use that knowledge to navigate the complex physical, societal, and economic workings of settlements. Even if you're untrained in [[2. Rules Reference/Character Creation/Skills/Society\|Society]], you can use it for the following general skill actions.
 
 - [[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] about local history, important personalities, legal institutions, societal structure, and humanoid cultures. The GM might allow Society to apply to other creatures that are major elements of society in your region, such as the draconic nobility in a kingdom of humans ruled by dragons.
 - [[2. Rules Reference/Downtime/Downtime Activities/Subsist\|Subsist]] in a settlement by finding shelter, scrounging, or begging for food.
