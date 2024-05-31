@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | Half [[6. Common Knowledge/Demographics/Ancestries/Beastkin/Kitsune\|Kitsune]] |
+> **Ancestry** | Half [[7. Common Knowledge/Demographics/Ancestries/Beastkin/Kitsune\|Kitsune]] |
 > **Gender** | Male |
 > **Home Region** | [[0. Archive/Old World Atlas/Johtaja\|Johtaja]] |
 > **Condition** | Healthy |
