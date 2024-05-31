@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Nephilim/Nephilim\|Nephilim]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Nephilim/Nephilim\|Nephilim]] |
 > **Gender** | Female |
 > **Home Region** | `=link(this.home)` |
 > **Condition** | Healthy |
