@@ -52,6 +52,6 @@
 	- Mystery 
 	- Planar Adventure 
 	- Romantic Adventure 
-- 4 campaign-long  "[[7. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]] Quests"
+- 4 campaign-long  "[[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]] Quests"
 	- Heavily inspired by BG3's Companion Quests
 - Opportunities for other campaign-long sub-plots  
