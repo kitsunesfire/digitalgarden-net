@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/7-common-knowledge/demographics/versatile-heritages/shifter/","noteIcon":""}
+---
+
+# Shifter
+
+Shifters possess the ability to transform into a magically enhanced animal form, with the animal depending on the type of shifter. It is generally thought that shifters are, in fact, a specific variant of [[7. Common Knowledge/Demographics/Ancestries/Apparition/Fey/Fey\|Fey]] that for one reason or another have evolved over time to develop a greater dependence on a heightened animal form at the expense of traditional [[7. Common Knowledge/Demographics/Ancestries/Apparition/Fey/Fey\|Fey]] abilities and advantages while in their human form. As such, shifters typically do not benefit from [[7. Common Knowledge/Demographics/Ancestries/Apparition/Fey/Fey\|Fey]] immortality, even in [[8. Scholarly Details/Cosmology/Inner Planes/Arcadia/Arcadia\|Arcadia]], though they tend to be considerably stronger than a [[7. Common Knowledge/Demographics/Ancestries/Apparition/Fey/Fey\|Fey]] in their animal form. 
+
+Shifters are incredibly diverse, with their skill sets tied to the nature and shape of their animal form. As a general rule, they tend to have enhanced speed and more acute senses, and their animal forms are usually much stronger, faster, and possess even keener senses than their human forms. For this reason, there are many shifters who prefer to spend as much time as possible in their animal forms. 
+
+More experienced shifters are able to perform partial transformations whilst in human form, selectively altering only certain traits or parts of their body. For example, a wolf shifter may be able to shapeshift their hands into claws or reveal their wolf eyes and fangs, while a snake shifter may be able to produce venom from their glands.
+
+All shifters, no matter how powerful or experienced, are doomed to transform into animals or animal-human hybrids under the light of the full moon. They experience what is generally referred to as "moon frenzy", which compels them to hunt and kill until they are fatigued. They are generally not in control of their own actions during a moon frenzy, which can lead to disastrous consequences for the ill-prepared.  Experienced shifters will take precautions in the nights preceding a full moon, such as gathering a large stockpile of food or intentionally pushing themselves into exhaustion, to minimize the impact and duration of their moon frenzy. Those who are less able to do so may carry silver manacles on their person and intentionally bind themselves in the hours before the full moon in an attempt to restrain themselves; unfortunately, this agonizing method is only moderately successful, as often times the intense pain of the restraints causes the beast within to become even more enraged and determined to lash out.  
+
+This versatile heritage, unlike most others, can be acquired by a character after 1st level. If this happens, the character replaces their original heritage with this one, and going forward cannot select feats from their prior heritage. 
