@@ -10,7 +10,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/Extraplanar/Seraph\|Seraph]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/Extraplanar/Seraph\|Seraph]] |
 > **Gender** | Male |
 > **Home Region** | [[0. Archive/Old World Atlas/Zarthura\|Zarthura]] |
 > **Condition** | Healthy |
@@ -20,7 +20,7 @@
 > **Alias(es)** | Yannick Valmar |
 > **Occupation(s)** | Bounty Hunter |
 > **Faction(s)** | `=link(this.Faction)` |
-> **Favored Deity** | [[7. Scholarly Details/Deities/Local Gods/Lucio\|Lucio]] |
+> **Favored Deity** | [[8. Scholarly Details/Deities/Local Gods/Lucio\|Lucio]] |
 > **Last Known Location** | `=link(this.location)` |
 > **Current Party Standing** | Allied |
 
