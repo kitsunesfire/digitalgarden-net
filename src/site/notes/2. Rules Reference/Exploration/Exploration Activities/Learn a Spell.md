@@ -7,7 +7,7 @@
 
 **Requirements.** You have a spellcasting class feature, and the spell you want to learn is on your magical tradition's spell list.
 
-You can gain access to a new spell of your tradition from someone who knows that spell or from magical writing like a spellbook or scroll. If you can cast spells of multiple traditions, you can [[2. Rules Reference/Exploration/Exploration Activities/Learn a Spell\|Learn a Spell]] of any of those traditions, but you must use the corresponding skill to do so. For example, if you were a Cleric with the Bard multiclass archetype, you couldn't use [[2. Rules Reference/Character Creation/Skills/Religion\|Religion]] to add an [[7. Scholarly Details/Magic/Magical Traditions/Ether\|ether]] spell to your bardic spell repertoire.
+You can gain access to a new spell of your tradition from someone who knows that spell or from magical writing like a spellbook or scroll. If you can cast spells of multiple traditions, you can [[2. Rules Reference/Exploration/Exploration Activities/Learn a Spell\|Learn a Spell]] of any of those traditions, but you must use the corresponding skill to do so. For example, if you were a Cleric with the Bard multiclass archetype, you couldn't use [[2. Rules Reference/Character Creation/Skills/Religion\|Religion]] to add an [[8. Scholarly Details/Magic/Magical Traditions/Ether\|ether]] spell to your bardic spell repertoire.
 
 To learn the spell, you must do the following:
 - Spend 1 hour per level of the spell, during which you must remain in conversation with a person who knows the spell or have the magical writing in your possession.
