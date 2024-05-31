@@ -4,7 +4,7 @@
 
 # Signature Staves
 
-At level 5, every full spellcaster in Sharum Mal'Kari gains a signature staff, which functions like a [[7. Scholarly Details/Specialty Items/Weapons/Personal Staves\|personal staff]] with the following adjustments:
+At level 5, every full spellcaster in Sharum Mal'Kari gains a signature staff, which functions like a [[8. Scholarly Details/Specialty Items & Materials/Weapons/Personal Staves\|personal staff]] with the following adjustments:
 
 - Every character can only have one signature staff 
 - Signature staves can be upgraded at no cost, as part of [[2. Rules Reference/Variant Rules/Automatic Bonus Progression/Automatic Bonus Progression\|Automatic Bonus Progression]]
