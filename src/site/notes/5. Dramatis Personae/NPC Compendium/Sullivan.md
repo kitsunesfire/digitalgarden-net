@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/Human\|Human]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/Human\|Human]] |
 > **Gender** | Male |
 > **Home Region** | `=link(this.home)` |
 > **Condition** | Healthy |
