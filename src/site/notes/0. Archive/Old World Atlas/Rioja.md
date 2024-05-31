@@ -63,7 +63,7 @@ Marsaterra is the best known wine-producing region of Rioja, with the most highl
 ## Appearance
 Typically, Riojans wear fluid silk gowns, draped kaftans, and blouses with billowing sleeves. Riojan style is quite popular in most parts of the world, and a genuine Riojan gown can fetch a high price at any market. Riojans often incorporate small trinkets and accessories from distant lands into their outfits, but the core look must always be unmistakably Riojan-- it’s a point of pride.
 
-Riojan clothes tend to be in either solid or gradient tones of any color imaginable, often with pops of color hidden in a lining or a fold (Riojans love a good surprise!). They dress in a romantic fashion, forever inspired by the god of love, [[7. Scholarly Details/Deities/Local Gods/Yamin\|Yamin]]. Riojans are associated with classic beauty and style, and are often credited for starting global fashion trends.
+Riojan clothes tend to be in either solid or gradient tones of any color imaginable, often with pops of color hidden in a lining or a fold (Riojans love a good surprise!). They dress in a romantic fashion, forever inspired by the god of love, [[8. Scholarly Details/Deities/Local Gods/Yamin\|Yamin]]. Riojans are associated with classic beauty and style, and are often credited for starting global fashion trends.
 
 ## Military & Diplomacy
 Ostensibly Rioja has an Archduke that is responsible for the unification and protection of all of Rioja, but most “real” Riojan politics happen at a provincial level, with independent dukes and their duchesses ruling over competing territories within Rioja. As a result, Riojan politics have a reputation of being rather tumultuous, with alliances and rivalries changing with the passing whims of a Riojan’s passions…. which might as well mean that they change with the tide, or the direction of the wind. Riojans are known to be loyal only to their own heart, and their hearts are known to change swiftly, easily, and without notice.
@@ -75,12 +75,12 @@ All Riojans are expected to travel the world (and especially the seas), so it is
 ## Magic & Faith
 Riojans generally embrace the study and practice of magic and have looser regulations on its use than its neighboring countries. This is especially true of occult magic, as Rioja is famous for their bards and their bardic colleges. 
 
-Riojans are also famously fond of [[7. Scholarly Details/Deities/Local Gods/Yamin\|Yamin]], the god of love and loss, and have a great many shrines and churches build up and down their coastline dedicated to him. 
+Riojans are also famously fond of [[8. Scholarly Details/Deities/Local Gods/Yamin\|Yamin]], the god of love and loss, and have a great many shrines and churches build up and down their coastline dedicated to him. 
 
 ## Education & Technology
 The premier bard college of Sharum Mal’Kari, Accademia Della Monda, is the crown jewel of Haven and the center of all Riojan diplomatic and artistic affairs. The Accademia serves as a museum, community art center and embassy, where a handful of artists from around the world are invited each year to be honored as Artists in Residence. These individuals often teach during their time at the Accademia, which usually draws a highly international crowd of interested students.
 
-Rioja is also one of the best places in the world to study [[7. Scholarly Details/Arts & Culture/Languages/Languages\|Languages]], with entire centers dedicated to the preservation and instruction of foreign [[7. Scholarly Details/Arts & Culture/Languages/Languages\|Languages]]. Partially due to the Riojan passion for travel and exploration, it is extremely common for Riojans to be multi-lingual and conversationally fluent in even rare or exotic dialects.
+Rioja is also one of the best places in the world to study [[8. Scholarly Details/Arts & Culture/Languages/Languages\|Languages]], with entire centers dedicated to the preservation and instruction of foreign [[8. Scholarly Details/Arts & Culture/Languages/Languages\|Languages]]. Partially due to the Riojan passion for travel and exploration, it is extremely common for Riojans to be multi-lingual and conversationally fluent in even rare or exotic dialects.
 
 Additionally, Rioja is home to the Lorenzo Perosi Studios, a very famous bard college and gallery space that focuses on visual arts. All Mal’Karian artists dream of one day having their work hung in a Perosi Studio, and it is largely considered to be the height of artistic achievement to be asked to instruct at this college.
 
