@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/High Elf/Moon Elf\|Moon Elf]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/High Elf/Moon Elf\|Moon Elf]] |
 > **Gender** | Male |
 > **Home Region** | `=link(this.home)` |
 > **Condition** | Healthy |
