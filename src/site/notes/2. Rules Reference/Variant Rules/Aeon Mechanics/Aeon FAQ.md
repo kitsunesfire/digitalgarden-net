@@ -4,7 +4,7 @@
 
 # Aeon FAQ
 
-Summoner eidolons tend to have some tricky rules that are up to GM interpretation. Given that your [[7. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]] are specialized, custom eidolons, the rules surrounding their use are even more unclear. Below I have compiled an FAQ to help pre-emptively answer some questions I anticipate, as well as how I (currently) intend on ruling. Please keep in mind that all of this is subject to revision as we advance through the campaign.  
+Summoner eidolons tend to have some tricky rules that are up to GM interpretation. Given that your [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]] are specialized, custom eidolons, the rules surrounding their use are even more unclear. Below I have compiled an FAQ to help pre-emptively answer some questions I anticipate, as well as how I (currently) intend on ruling. Please keep in mind that all of this is subject to revision as we advance through the campaign.  
 
 ---
 
@@ -27,7 +27,7 @@ A: In general, yes, Aeons follow standard creature rules for carrying capacity (
 A: In early levels, if your Aeon un-manifests while carrying items, any items on their person drop to the ground; the primary exceptions to this rule are their clothing, jewelry, or similar simple personal effects. In later levels, they will be able to transport the items they are carrying with them when they are manifested/un-manifested. However, like carrying items, just because they _can_ doesn’t always mean they _will_. Be nice to your Aeon!
 
 **Q: What happens to the Aeon itself when it un-manifests?**
-A: They return to wherever they were when they were summoned; this can be assumed to be either somewhere else in [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]] or in [[7. Scholarly Details/Cosmology/Inner Planes/The Fade\|The Fade]]. 
+A: They return to wherever they were when they were summoned; this can be assumed to be either somewhere else in [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]] or in [[8. Scholarly Details/Cosmology/Inner Planes/The Fade\|The Fade]]. 
 
 **Q: Are Aeons still effected by persistent damage / persistent healing / poison / similar effects when they are un-manifested?**
 A: Of all of the questions on this page, this one is probably the hardest to answer (and most likely to be revisited). For now, I'm ruling that *yes*, the Aeon technically continues to be effected for the duration. After all, an un-manifested Aeon doesn't cease to exist-- they just get warped back to their previous location. So long as the link between Aeon and Host remains intact, the effects persist. However, in the case that a Host drops to 0HP, their life force is so weak that it causes the link to the Aeon to temporarily fail, dropping all persistent damage from the Aeon.
