@@ -38,15 +38,15 @@
 
 ## Overview
 
-The first thing that most visitors to the United Altos Isles would notice is their crystal-clear, technicolor water. This is usually credited to [[6. Common Knowledge/Demographics/Ancestries/Apparition/Malak\|malak]] and [[6. Common Knowledge/Demographics/Ancestries/Apparition/Fey/Fey\|Fey]] influence, though some believe it may be something even more esoteric. 
+The first thing that most visitors to the United Altos Isles would notice is their crystal-clear, technicolor water. This is usually credited to [[7. Common Knowledge/Demographics/Ancestries/Apparition/Malak\|malak]] and [[7. Common Knowledge/Demographics/Ancestries/Apparition/Fey/Fey\|Fey]] influence, though some believe it may be something even more esoteric. 
 
-The second thing that is immediately apparent is that clusters of these islands are locked into eternal seasons. This anomaly is made especially apparent by their placement: furthest north are the Spring and Summer Isles, rebelling against the natural temperate climate of their surroundings, and furthest south are the Autumn and Winter Isles, pushing back against the natural tropical heat they find themselves surrounded by. The nature of the islands are linked to their Lords, whose magic, willpower, and connections to the [[7. Scholarly Details/Cosmology/Inner Planes/Arcadia/Courts of Arcadia/Courts of Arcadia\|Courts of Arcadia]] keep them suspended in eternal seasons. 
+The second thing that is immediately apparent is that clusters of these islands are locked into eternal seasons. This anomaly is made especially apparent by their placement: furthest north are the Spring and Summer Isles, rebelling against the natural temperate climate of their surroundings, and furthest south are the Autumn and Winter Isles, pushing back against the natural tropical heat they find themselves surrounded by. The nature of the islands are linked to their Lords, whose magic, willpower, and connections to the [[8. Scholarly Details/Cosmology/Inner Planes/Arcadia/Courts of Arcadia/Courts of Arcadia\|Courts of Arcadia]] keep them suspended in eternal seasons. 
 
 It is believed that these extremes in contradictory weather patters may have been what created Maw, a massive stormy vortex in the ocean between the Altos Isles and [[0. Archive/Old World Atlas/Nysanthus\|Nysanthus]] that tends to chew up and swallow all ships who venture too far near it. Whatever its source, it is fearfully effective as a natural barrier between the Isles and much of the rest of Sharum Mal'Kari, leaving most of what is known about this strange, exotic place to be little more than rumors and [[0. Archive/Old World Atlas/Rioja\|Riojan]] tales. 
 
 ## Geography
 
-The Spring Isles are amongst the largest in the Altos Isles, and are said to have have rolling green hills, lush forests, and clear, bottomless lakes. Magic doesn’t just abound in the bumps and the hollows— it grows there. It has no cities, but there are some large villages close to Rosalão, the Spring Lord's estate. Rosalão itself is a magnificent manor veiled in roses and ivy with a rose garden that was planted with seeds of wild roses from [[7. Scholarly Details/Cosmology/Inner Planes/Arcadia/Arcadia\|Arcadia]] when the Isles were first settled. Though many structures have risen and fallen since that time, the garden remains.
+The Spring Isles are amongst the largest in the Altos Isles, and are said to have have rolling green hills, lush forests, and clear, bottomless lakes. Magic doesn’t just abound in the bumps and the hollows— it grows there. It has no cities, but there are some large villages close to Rosalão, the Spring Lord's estate. Rosalão itself is a magnificent manor veiled in roses and ivy with a rose garden that was planted with seeds of wild roses from [[8. Scholarly Details/Cosmology/Inner Planes/Arcadia/Arcadia\|Arcadia]] when the Isles were first settled. Though many structures have risen and fallen since that time, the garden remains.
 
 The Summer Isles boast magnificent beaches, coral reefs and palm groves. They have four cities, one of which is the city of Adriata, where the famous multicolored stone cottages carved into the white cliffs draw [[0. Archive/Old World Atlas/Rioja\|Riojan]] artists year-round. In fact, much of [[0. Archive/Old World Atlas/Rioja\|Rioja]] is said to have been modeled after and continually inspired by the Summer Isles.
 
@@ -70,7 +70,7 @@ The Winter Isles are made up of towering, exquisite palaces, built high in snow-
 
 ## Appearance
 
-The Altan Isles are defined by diversity, and this is just as much true of its people as is is of its geography. The generational intimacy with both [[6. Common Knowledge/Demographics/Ancestries/Apparition/Fey/Fey\|Fey]] and [[6. Common Knowledge/Demographics/Ancestries/Apparition/Malak\|malaks]] are absolutely present in their physiology, with Altans commonly born with unusual natural hair or eye colors. There are more [[6. Common Knowledge/Demographics/Ancestries/Elf\|elves]] than [[6. Common Knowledge/Demographics/Ancestries/Human\|humans]] here, though it is not an elven nation in the same way that [[0. Archive/Old World Atlas/Amina Dorei\|Amina Dorei]] is.
+The Altan Isles are defined by diversity, and this is just as much true of its people as is is of its geography. The generational intimacy with both [[7. Common Knowledge/Demographics/Ancestries/Apparition/Fey/Fey\|Fey]] and [[7. Common Knowledge/Demographics/Ancestries/Apparition/Malak\|malaks]] are absolutely present in their physiology, with Altans commonly born with unusual natural hair or eye colors. There are more [[7. Common Knowledge/Demographics/Ancestries/Elf\|elves]] than [[7. Common Knowledge/Demographics/Ancestries/Human\|humans]] here, though it is not an elven nation in the same way that [[0. Archive/Old World Atlas/Amina Dorei\|Amina Dorei]] is.
 
 ## Military & Diplomacy
 
@@ -78,7 +78,7 @@ The Altan Isles are defined by diversity, and this is just as much true of its p
 
 ## Magic & Faith
 
-The people of the Altos Isles seldom if ever practice divine magic, and generally do not recognize the pantheon of [[7. Scholarly Details/Deities/Foreign Pantheons/The Old Gods\|The Old Gods]] as “their” gods; they view the [[7. Scholarly Details/Deities/Foreign Pantheons/The Old Gods\|The Old Gods]] as being entities of great power-- and possibly worthy of respect-- but nothing more. Instead, they worship a separate[[7. Scholarly Details/Deities/Foreign Pantheons/The Archomentals/The Archomentals\| elemental pantheon]], if they choose to worship at all. 
+The people of the Altos Isles seldom if ever practice divine magic, and generally do not recognize the pantheon of [[8. Scholarly Details/Deities/Foreign Pantheons/The Old Gods\|The Old Gods]] as “their” gods; they view the [[8. Scholarly Details/Deities/Foreign Pantheons/The Old Gods\|The Old Gods]] as being entities of great power-- and possibly worthy of respect-- but nothing more. Instead, they worship a separate[[8. Scholarly Details/Deities/Foreign Pantheons/The Archomentals/The Archomentals\| elemental pantheon]], if they choose to worship at all. 
 
 ## Education & Technology
 
@@ -90,7 +90,7 @@ Family life in the Altos Isles is very communal, with each cluster of islands op
 
 ## Naming Conventions
 
-Names in the United Altos Isles are inspired by mix of Spanish, Portuguese and Italian names. [[Empyrean\|Empyrean]] and others who have maintained strong ties to [[7. Scholarly Details/Cosmology/Inner Planes/Arcadia/Arcadia\|Arcadia]] are likely to have older-sounding names inspired by the Renaissance, while younger or more humanoid folk are likely to have more modern-sounding names. 
+Names in the United Altos Isles are inspired by mix of Spanish, Portuguese and Italian names. [[Empyrean\|Empyrean]] and others who have maintained strong ties to [[8. Scholarly Details/Cosmology/Inner Planes/Arcadia/Arcadia\|Arcadia]] are likely to have older-sounding names inspired by the Renaissance, while younger or more humanoid folk are likely to have more modern-sounding names. 
 
 ## Local NPC Compendium
 
