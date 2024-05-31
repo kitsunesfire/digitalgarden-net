@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/Beastkin/Kitsune\|Kitsune]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/Beastkin/Kitsune\|Kitsune]] |
 > **Gender** | Female |
 > **Home Region** | [[0. Archive/Old World Atlas/Camboragh\|Camboragh]] |
 > **Condition** | Healthy |
