@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[6. Common Knowledge/Demographics/Ancestries/High Elf/Sun Elf\|Sun Elf]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/High Elf/Sun Elf\|Sun Elf]] |
 > **Gender** | Female |
 > **Home Region** | `=link(this.home)` |
 > **Condition** | Healthy |
