@@ -29,7 +29,7 @@
 
 # Notes
 
-- [[5. Dramatis Personae/Core Party/Marlow\|Marlow]] helped her have a religious experience, which she believes made her see a [[6. Common Knowledge/Demographics/Ancestries/Extraplanar/Seraph\|Seraph]] of [[7. Scholarly Details/Deities/Local Gods/Elincia\|Elincia]] 
+- [[5. Dramatis Personae/Core Party/Marlow\|Marlow]] helped her have a religious experience, which she believes made her see a [[7. Common Knowledge/Demographics/Ancestries/Extraplanar/Seraph\|Seraph]] of [[8. Scholarly Details/Deities/Local Gods/Elincia\|Elincia]] 
 - Is a practicing mage who seems to have a specialty around mental manipulations 
 - Helped [[5. Dramatis Personae/Core Party/Marlow\|Marlow]] sneak a weapon out of the arena 
 - Frequently dueled with [[5. Dramatis Personae/Core Party/Marlow\|Marlow]] in [[4. Gazetteer/Red Wastes/Oblivion/Oblivion\|Oblivion]] 
