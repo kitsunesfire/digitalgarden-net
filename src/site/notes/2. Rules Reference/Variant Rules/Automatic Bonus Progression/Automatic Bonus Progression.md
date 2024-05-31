@@ -12,7 +12,7 @@ All *fundamental* runes have been removed from this setting, and any item that 
 
 ## Adjustments to Spellcasters
 
-Starting at level 5, all full casters are granted a[[2. Rules Reference/Variant Rules/Automatic Bonus Progression/Signature Staves\| signature staff]]. [[2. Rules Reference/Variant Rules/Automatic Bonus Progression/Signature Staves\|Signature Staves]] function like [[7. Scholarly Details/Specialty Items/Weapons/Personal Staves\|Personal Staves]], except each character can only have one signature staff. [[2. Rules Reference/Variant Rules/Automatic Bonus Progression/Signature Staves\|Signature Staves]] do not cost anything to upgrade, but are subject to standard revision costs and restrictions. 
+Starting at level 5, all full casters are granted a[[2. Rules Reference/Variant Rules/Automatic Bonus Progression/Signature Staves\| signature staff]]. [[2. Rules Reference/Variant Rules/Automatic Bonus Progression/Signature Staves\|Signature Staves]] function like [[8. Scholarly Details/Specialty Items & Materials/Weapons/Personal Staves\|Personal Staves]], except each character can only have one signature staff. [[2. Rules Reference/Variant Rules/Automatic Bonus Progression/Signature Staves\|Signature Staves]] do not cost anything to upgrade, but are subject to standard revision costs and restrictions. 
 
 ## Adjustments to Alchemists
 
