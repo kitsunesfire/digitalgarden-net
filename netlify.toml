@@ -1,6 +1,6 @@
 [build]
   publish = "dist"
-  command = "NODE_OPTIONS=--max_old_space_size=32768 npm install && npm run build"
+  command = "NODE_OPTIONS=--max_old_space_size=65536 npm install && npm run build"
 
 [[redirects]]
   from = "/api/*"
