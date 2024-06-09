@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/8-scholarly-details/metaphysics/cosmic-biology/aether/aspects/","noteIcon":""}
+---
+
+# Aspects
+
+[[8. Scholarly Details/Metaphysics/Cosmic Biology/Aether/Aether\|Aether]] can be "aspected" into eight known elements-- [[8. Scholarly Details/Magic/Malak Artes/Air/Air\|Air]], [[8. Scholarly Details/Magic/Malak Artes/Fire/Fire\|Fire]], [[8. Scholarly Details/Magic/Malak Artes/Ice/Ice\|Ice]], [[8. Scholarly Details/Magic/Malak Artes/Lightning/Lightning\|Lightning]], [[8. Scholarly Details/Magic/Malak Artes/Metal/Metal\|Metal]], [[8. Scholarly Details/Magic/Malak Artes/Stone/Stone\|Stone]], [[8. Scholarly Details/Magic/Malak Artes/Water/Water\|Water]], and [[8. Scholarly Details/Magic/Malak Artes/Wood/Wood\|Wood]]-- and drawn towards one of two [[8. Scholarly Details/Metaphysics/Cosmic Biology/Aether/Essences/Polarities/Polarities\|Polarities]]: [[8. Scholarly Details/Metaphysics/Cosmic Biology/Aether/Essences/Polarities/Radiant\|Radiant]] and [[8. Scholarly Details/Metaphysics/Cosmic Biology/Aether/Essences/Polarities/Void\|Void]]. These ten classifications of magical energy are commonly referred to as aetheric "[[8. Scholarly Details/Metaphysics/Cosmic Biology/Aether/Aspects\|Aspects]]".
