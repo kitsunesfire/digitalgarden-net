@@ -10,7 +10,7 @@
 > Type |  Stat |
 > ---|---|
 > **Ancestry** | [[7. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Nephilim/Cambion\|Cambion]] |
-> **Gender** | `=this.gender` |
+> **Gender** | Male |
 > **Home Region** | `=link(this.home)` |
 > **Condition** | Healthy |
 > ###### Info
