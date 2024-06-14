@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/High Elf/Moon Elf\|Moon Elf]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/High Elf/Amira\|Amira]] |
 > **Gender** | Male |
 > **Home Region** | `=link(this.home)` |
 > **Condition** | Healthy |
@@ -18,7 +18,7 @@
 > ---|---|
 > **Alias(es)** | `=this.aliases` |
 > **Occupation(s)** | `=this.occupation` |
-> **Faction(s)** | [[5. Dramatis Personae/Factions/Noble Houses/Amira\|Amira]] |
+> **Faction(s)** | [[7. Common Knowledge/Demographics/Ancestries/High Elf/Amira\|Amira]] |
 > **Religion(s)** | `=link(this.Religion)` |
 > **Last Known Location** | [[4. Gazetteer/Red Wastes/Oblivion/Oblivion\|Oblivion]] |
 > **Current Party Standing** | Unmet |

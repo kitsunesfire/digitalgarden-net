@@ -18,17 +18,12 @@ You have formed a [[8. Scholarly Details/Magic/Other Related Terms/Bond\|Bond]] 
 Your [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]] is trained in unarmed attacks and unarmored defense, and shares your proficiency rank for Perception, saving throws, and skill checks. Likewise, you become trained in your [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]]'s listed skills (see below); for each of those skills that you are already trained in, you become trained in a different skill of your choice. 
 
 - [[5. Dramatis Personae/Core Party/Sophia\|Sophia]] : [[2. Rules Reference/Character Creation/Skills/Intimidation\|Intimidation]] & [[2. Rules Reference/Character Creation/Skills/Occultism\|Occultism]] 
-- [[5. Dramatis Personae/Core Party/Iain\|Iain]] : [[2. Rules Reference/Character Creation/Skills/Intimidation\|Intimidation]] & [[2. Rules Reference/Character Creation/Skills/Religion\|Religion]] 
-- [[8. Scholarly Details/Arts & Culture/History/Historic Figures/Val'Drah\|Val'Drah]] : [[2. Rules Reference/Character Creation/Skills/Arcana\|Arcana]] & [[2. Rules Reference/Character Creation/Skills/Deception\|Deception]] 
+- [[5. Dramatis Personae/Core Party/Iain\|Iain]] : [[2. Rules Reference/Character Creation/Skills/Intimidation\|Intimidation]] & [[2. Rules Reference/Character Creation/Skills/Arcana\|Arcana]]
+- [[5. Dramatis Personae/Core Party/Amareth\|Amareth]] : [[2. Rules Reference/Character Creation/Skills/Diplomacy\|Diplomacy]] & [[2. Rules Reference/Character Creation/Skills/Nature\|Nature]]
 - [[5. Dramatis Personae/Core Party/Yannik\|Yannik]] : [[2. Rules Reference/Character Creation/Skills/Diplomacy\|Diplomacy]] & [[2. Rules Reference/Character Creation/Skills/Religion\|Religion]] 
 
 ## Spiritualist Spellcasting
 Magic also flows through this [[8. Scholarly Details/Magic/Other Related Terms/Bond\|Bond]] from your [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]] into you. The nature of your [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]] determines the type of spells they may someday enable you to cast, should they regain enough strength to do so. 
-
-- [[5. Dramatis Personae/Core Party/Sophia\|Sophia]] : --
-- [[5. Dramatis Personae/Core Party/Iain\|Iain]] : --
-- [[8. Scholarly Details/Arts & Culture/History/Historic Figures/Val'Drah\|Val'Drah]] : --
-- [[5. Dramatis Personae/Core Party/Yannik\|Yannik]] : --
 
 ## Bound by Blood
 Your [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|aeon]]'s life force is intrinsically tied to your own. Your [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|aeon]] gains an additional 10 Hit Points. If you or your [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|aeon]] would be have your Hit Points reduced by damage, as a reaction with the concentrate trait, the other half of the [[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Syzygy\|Syzygy]] may take all of the damage from the triggering source instead. Damage cannot be split, and any special effects that would occur due to that damage (such as snake venom) still apply to the original target.
@@ -44,5 +39,5 @@ Once per hour, as a single action activate command, you can open yourself to a s
 
 - [[5. Dramatis Personae/Core Party/Sophia\|Sophia]] : Fury ([[2. Rules Reference/Character Creation/Skills/Intimidation\|Intimidation]] checks)
 - [[5. Dramatis Personae/Core Party/Iain\|Iain]] : Devotion ([[2. Rules Reference/Character Creation/Skills/Medicine\|Medicine]] checks)
-- [[8. Scholarly Details/Arts & Culture/History/Historic Figures/Val'Drah\|Val'Drah]] : Confidence ([[2. Rules Reference/Character Creation/Skills/Diplomacy\|Diplomacy]] checks)
+- [[5. Dramatis Personae/Core Party/Amareth\|Amareth]] : Curiosity ([[2. Rules Reference/Encounter/Actions/Basic Actions/Recall Knowledge\|Recall Knowledge]] checks)
 - [[5. Dramatis Personae/Core Party/Yannik\|Yannik]] : Shame ([[2. Rules Reference/Character Creation/Skills/Deception\|Deception]] checks)

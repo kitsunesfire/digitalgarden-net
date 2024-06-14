@@ -30,5 +30,5 @@
 
 # Notes
 
-- TBD
+- Was part of the crew of the [[5. Dramatis Personae/Factions/Ark of the Amarethian\|Ark of the Amarethian]], until it was seized by [[4. Gazetteer/Eternian Empire\|Eternian]] imperial troops under suspicious circumstances and he was thrown into [[4. Gazetteer/Red Wastes/Oblivion/Oblivion\|Oblivion]] 
 

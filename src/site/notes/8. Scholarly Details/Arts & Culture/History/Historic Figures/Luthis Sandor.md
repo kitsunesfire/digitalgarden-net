@@ -4,4 +4,4 @@
 
 # Luthis Sandor
 
-A [[5. Dramatis Personae/Factions/Noble Houses/Nishanti\|Nishanti]] leader who initiated a rebellion against the [[8. Scholarly Details/Arts & Culture/Titles/Monarch/Kaiser\|Kaiser]] of Zarthura. This rebellion is seen as the official beginning of [[8. Scholarly Details/Arts & Culture/History/The War of Bleeding Shadows\|The War of Bleeding Shadows]]. 
+A [[7. Common Knowledge/Demographics/Ancestries/High Elf/Nishanti\|Nishanti]] leader who initiated a rebellion against the [[8. Scholarly Details/Arts & Culture/Titles/Monarch/Kaiser\|Kaiser]] of Zarthura. This rebellion is seen as the official beginning of [[8. Scholarly Details/Arts & Culture/History/The War of Bleeding Shadows\|The War of Bleeding Shadows]]. 

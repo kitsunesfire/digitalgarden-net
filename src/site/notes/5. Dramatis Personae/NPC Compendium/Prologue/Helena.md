@@ -9,7 +9,7 @@
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/High Elf/Sun Elf\|Sun Elf]] |
+> **Ancestry** | [[7. Common Knowledge/Demographics/Ancestries/High Elf/Suria\|Suria]] |
 > **Gender** | Female |
 > **Home Region** | `=link(this.home)` |
 > **Condition** | Healthy |

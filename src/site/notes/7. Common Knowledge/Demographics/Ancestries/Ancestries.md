@@ -26,8 +26,8 @@ In [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], the following [[7. Common Kn
 	- [[7. Common Knowledge/Demographics/Ancestries/Darkspawn/Goblin\|Goblin]] 
 	- [[7. Common Knowledge/Demographics/Ancestries/Darkspawn/Orc\|Orc]] 
 - [[7. Common Knowledge/Demographics/Ancestries/High Elf/High Elf\|High Elf]] 
-	- [[7. Common Knowledge/Demographics/Ancestries/High Elf/Moon Elf\|Moon Elf]] 
-	- [[7. Common Knowledge/Demographics/Ancestries/High Elf/Sun Elf\|Sun Elf]]
+	- [[7. Common Knowledge/Demographics/Ancestries/High Elf/Amira\|Amira]] 
+	- [[7. Common Knowledge/Demographics/Ancestries/High Elf/Suria\|Suria]]
 
 In [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], the following [[7. Common Knowledge/Demographics/Ancestries/Ancestries\|Ancestries]] are considered Rare:
 
