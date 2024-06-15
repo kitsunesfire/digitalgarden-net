@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/the-temple-of-ten-thousand-gods/","noteIcon":""}
+---
+
+# The Temple of Ten Thousand Gods
+
+One common faith in ancient Zarthura was [[5. Dramatis Personae/Factions/The Temple of Ten Thousand Gods\|The Temple of Ten Thousand Gods]], which honored every deity "that has ever existed or will exist in the future" rather than worshiping any one specific deity. Frequently seen as unusual to those outside their faith, its adherents supported the worship of all of the [[8. Scholarly Details/Deities/Deities\|Deities]] in general, but also held the opinion that they were each only facets of one supreme divine being. The credo of the Ten Thousand also included that there was a divine spark in every creature, and that the variety of mortal beings in existence also reflected this larger theme of diversity in unity. The central ideals of [[5. Dramatis Personae/Factions/The Temple of Ten Thousand Gods\|The Temple of Ten Thousand Gods]] were said to be tolerance and acceptance above all else... though, in practice, this was not always reflected in their actions, for they have also been said to close their doors to any who refused to take their oath. Some elder [[7. Common Knowledge/Demographics/Ancestries/High Elf/Vasimar\|Vasimar]] still consider themselves members of the Temple, though their numbers are incredibly few and seem to decrease by the day.

@@ -27,7 +27,9 @@ In [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], the following [[7. Common Kn
 	- [[7. Common Knowledge/Demographics/Ancestries/Darkspawn/Orc\|Orc]] 
 - [[7. Common Knowledge/Demographics/Ancestries/High Elf/High Elf\|High Elf]] 
 	- [[7. Common Knowledge/Demographics/Ancestries/High Elf/Amira\|Amira]] 
+	- [[7. Common Knowledge/Demographics/Ancestries/High Elf/Nishanti\|Nishanti]]
 	- [[7. Common Knowledge/Demographics/Ancestries/High Elf/Suria\|Suria]]
+	- [[7. Common Knowledge/Demographics/Ancestries/High Elf/Vasimar\|Vasimar]]
 
 In [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], the following [[7. Common Knowledge/Demographics/Ancestries/Ancestries\|Ancestries]] are considered Rare:
 
@@ -48,7 +50,6 @@ In [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], the following [[7. Common Kn
 	- [[7. Common Knowledge/Demographics/Ancestries/Extraplanar/Seraph\|Seraph]] 
 	- [[7. Common Knowledge/Demographics/Ancestries/Extraplanar/Shade\|Shade]] 
 -  [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Wyrmkin\|Wyrmkin]] 
-	- [[7. Common Knowledge/Demographics/Versatile Heritages/Dragonborn\|Dragonborn]] 
-	- [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|Dragon]] 
+	- [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|Dragon]]
 	- [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Kobold\|Kobold]] 
 

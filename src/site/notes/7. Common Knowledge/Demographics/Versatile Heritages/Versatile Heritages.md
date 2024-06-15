@@ -5,7 +5,6 @@
 # Versatile Heritages
 
 - Mixed Lineage
-	- [[Dragonborn Lineage\|Dragonborn Lineage]] 
 	- [[7. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Dwarven Lineage\|Dwarven Lineage]] 
 	- [[7. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Elven Lineage\|Elven Lineage]] 
 	- [[7. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Fey Lineage\|Fey Lineage]] 
@@ -23,6 +22,7 @@
 		- [[7. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Nephilim/Aasimar\|Aasimar]] 
 		- [[7. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Nephilim/Cambion\|Cambion]] 
 	- [[7. Common Knowledge/Demographics/Versatile Heritages/Mixed Lineage/Orc Lineage\|Orc Lineage]] 
+- [[7. Common Knowledge/Demographics/Versatile Heritages/Dragonborn\|Dragonborn]] 
 - [[7. Common Knowledge/Demographics/Versatile Heritages/Ghoul\|Ghoul]] 
 - [[7. Common Knowledge/Demographics/Versatile Heritages/Shifter\|Shifter]] 
 - [[7. Common Knowledge/Demographics/Versatile Heritages/Vampyr\|Vampyr]] 
