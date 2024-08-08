@@ -15,3 +15,5 @@
 >![Pasted image 20230329012804.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230329012804.png)
 
 [[8. Scholarly Details/Cosmology/Inner Planes/Erebus/Erebus\|Erebus]] is a dark place of mysteries and contradictions, where necrotic energies and shadow magic runs rampant and soul energies are most plentiful. It is much more ominous than the other known realms, and is filled with a diverse population of dark-loving creatures. 
+
+

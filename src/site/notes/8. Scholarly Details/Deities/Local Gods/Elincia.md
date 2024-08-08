@@ -13,3 +13,4 @@
 >![Pasted image 20240421112721.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240421112721.png)
 ![Pasted image 20240421112623.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240421112623.png)
 
+[[8. Scholarly Details/Deities/Local Gods/Elincia\|Elincia]] is the goddess of freedom and adventure. In [[0. Archive/Old World Atlas/Zarthura\|Zarthura]] she is venerated as one of [[8. Scholarly Details/Deities/The Madjai\|The Madjai]] and frequently worshipped by mercenaries, travelers, sailors, and adventurers. 

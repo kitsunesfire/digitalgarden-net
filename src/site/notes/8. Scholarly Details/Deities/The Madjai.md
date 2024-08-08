@@ -12,7 +12,7 @@
 >![Pasted image 20240420201701.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240420201701.png)
 >![Pasted image 20240420201625.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240420201625.png)
 
-The [[8. Scholarly Details/Deities/Local Gods/Local Gods\|Local Gods]] worshipped in Zarthura have been traditionally grouped into one of two categories: either [[8. Scholarly Details/Deities/The Madjai\|The Madjai]], who are worshipped throughout the continent, or the local and common gods, who are only actively worshipped in a certain region or sometimes just a single town. 
+The [[8. Scholarly Details/Deities/Local Gods/Local Gods\|Local Gods]] worshipped in Zarthura have been traditionally grouped into one of two categories: either [[8. Scholarly Details/Deities/The Madjai\|The Madjai]], who are worshipped throughout the continent, or the local and common gods, who are only actively worshipped in a certain region (or sometimes just a single town). 
 
 The six [[8. Scholarly Details/Deities/The Madjai\|Madjai]] are: 
 
@@ -26,4 +26,4 @@ The six [[8. Scholarly Details/Deities/The Madjai\|Madjai]] are:
 | [[8. Scholarly Details/Deities/Local Gods/Zoran\|Zoran]]   | The Relentless       | Life & Conviction               | [[8. Scholarly Details/Metaphysics/Cosmic Biology/Aether/Essences/Tesseri/Agni\|Agni]]    | Fire    | CON      |{ #Attributes}
 
 
-Additionally, Zarthurians believe that [[8. Scholarly Details/Deities/Local Gods/Mythos\|Mythos]] is the source of all things in [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]]. Based on the teachings of [[8. Scholarly Details/Arts & Culture/History/Historic Figures/The Loregiver\|The Loregiver]], [[8. Scholarly Details/Deities/The Madjai\|The Madjai]] are commonly thought of as personifications of the most important aspects of [[8. Scholarly Details/Deities/Local Gods/Mythos\|Mythos]]. Therefore, they felt that to know [[8. Scholarly Details/Deities/The Madjai\|The Madjai]] was to know these qualities of [[8. Scholarly Details/Deities/Local Gods/Mythos\|Mythos]]-- and the more they learned of these faces, the closer they got to true divinity. 
+Additionally, Zarthurians believe that [[8. Scholarly Details/Deities/Local Gods/Mythos\|Mythos]] is the source of all things in [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]]. Based on the teachings of [[8. Scholarly Details/Arts & Culture/History/Historic Figures/The Loregiver\|The Loregiver]], [[8. Scholarly Details/Deities/The Madjai\|The Madjai]] are commonly thought of as personifications of the most important aspects of [[8. Scholarly Details/Deities/Local Gods/Mythos\|Mythos]]. These teachings say that to know [[8. Scholarly Details/Deities/The Madjai\|The Madjai]] was to know these qualities of [[8. Scholarly Details/Deities/Local Gods/Mythos\|Mythos]]-- and the more one learned of these faces, the closer they got to true divinity. 

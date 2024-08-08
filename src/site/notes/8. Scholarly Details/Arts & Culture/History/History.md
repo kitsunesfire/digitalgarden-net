@@ -10,6 +10,9 @@ Zarthura has been ruled by [[8. Scholarly Details/Arts & Culture/Titles/Monarch/
 
 Under the Zarthurian monarchy, each [[4. Gazetteer/Provinces\|province]] is governed by a [[8. Scholarly Details/Arts & Culture/Titles/Senator\|Senator]]. While the [[8. Scholarly Details/Arts & Culture/Titles/Senator\|Senators]] are expected to uphold the law of the crown, they are granted a large degree of autonomy over how they rule over their territory. For instance, even though, *officially*, only the crown has the right to make new laws or to change existing ones, it has been common in Zarthurian history for [[8. Scholarly Details/Arts & Culture/Titles/Senator\|Senators]] to create and enforce provincial laws of their own without the involvement (or even direct approval) of the capital. Therefore, while some aspects of Zarthurian culture and custom remain universal, each [[4. Gazetteer/Provinces\|province]] has over time developed its own distinct sub-culture.
 
+---
+
+
 
 ---
 
