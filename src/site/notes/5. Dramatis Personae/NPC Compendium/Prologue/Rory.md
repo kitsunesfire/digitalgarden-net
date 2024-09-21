@@ -29,5 +29,5 @@
 
 # Notes
 
-- A [[_. GM Screen/SECRETS/Daemon\|Daemon]]-hating [[7. Common Knowledge/Demographics/Ancestries/Apparition/Demon\|Demon]] imprisoned within [[4. Gazetteer/Red Wastes/Oblivion/Oblivion\|Oblivion]] 
+- A [[6. Bestiary/Daemon\|Daemon]]-hating [[7. Common Knowledge/Demographics/Ancestries/Apparition/Demon\|Demon]] imprisoned within [[4. Gazetteer/Red Wastes/Oblivion/Oblivion\|Oblivion]] 
 

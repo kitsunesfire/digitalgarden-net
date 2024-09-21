@@ -18,6 +18,7 @@ The [[4. Gazetteer/Vale of Twilight/Vale of Twilight\|Vale of Twilight]] is a re
 | [[4. Gazetteer/Vale of Twilight/Ebora/Ebora\|Ebora]]                         | \-          |
 | [[4. Gazetteer/Vale of Twilight/Halflight/Halflight\|Halflight]]             | \-          |
 | [[4. Gazetteer/Vale of Twilight/Illyria/Illyria\|Illyria]]                   | \-          |
+| [[4. Gazetteer/Vale of Twilight/Kaer Celare/Kaer Celare\|Kaer Celare]]       | \-          |
 | [[4. Gazetteer/Vale of Twilight/Liebestod/Liebestod\|Liebestod]]             | \-          |
 | [[4. Gazetteer/Vale of Twilight/Lohengrin/Lohengrin\|Lohengrin]]             | \-          |
 | [[4. Gazetteer/Vale of Twilight/Magna Graecia/Magna Graecia\|Magna Graecia]] | \-          |

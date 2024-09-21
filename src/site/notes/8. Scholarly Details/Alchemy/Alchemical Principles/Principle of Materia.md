@@ -15,4 +15,4 @@
 
 [[8. Scholarly Details/Alchemy/Alchemical Principles/Principle of Tesseri\|Principle of Tesseri]] extends beyond physical matter; even [[8. Scholarly Details/Magic/Magic\|magic]] itself can be dismantled and distilled into the [[8. Scholarly Details/Metaphysics/Cosmic Biology/Aether/Essences/Tesseri/Tesseri\|Tesseri]], given the proper methodology and conditions. Granted, this kind of alchemy is [[8. Scholarly Details/Alchemy/Forbidden Alchemy/Forbidden Alchemy\|forbidden]]-- but, in some ancient tomes, the methods have been proven. 
 
-*See also: [[8. Scholarly Details/Alchemy/Forbidden Alchemy/Deconstruction of Magic\|Deconstruction of Magic]], [[8. Scholarly Details/Specialty Items & Materials/Key Items/Prima Materia\|Prima Materia]]*
+*See also: [[8. Scholarly Details/Alchemy/Forbidden Alchemy/Deconstruction of Magic\|Deconstruction of Magic]], [[8. Scholarly Details/Specialty Items & Materials/Key Items/Materia/Prima Materia\|Prima Materia]]*
