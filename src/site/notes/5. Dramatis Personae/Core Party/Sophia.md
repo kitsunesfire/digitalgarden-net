@@ -42,5 +42,5 @@
 
 # Notes
 
-- TBD
+- Born the 21st of [[7. Common Knowledge/Calendar & Clock/Months/Abata\|Abata]] 
 

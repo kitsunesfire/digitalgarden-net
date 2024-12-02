@@ -34,5 +34,5 @@
 
 # Notes
 
-- TBD
+- Born the 7th of [[7. Common Knowledge/Calendar & Clock/Months/Ak'tharif\|Ak'tharif]]
 

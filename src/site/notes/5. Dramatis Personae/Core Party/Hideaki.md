@@ -30,5 +30,5 @@
 
 # Notes
 
-- TBD
+- Born the 4th of [[7. Common Knowledge/Calendar & Clock/Months/Syda'la\|Syda'la]]
 

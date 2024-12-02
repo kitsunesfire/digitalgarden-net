@@ -30,5 +30,5 @@
 
 # Notes
 
-- TBD
+- Born the 20th of [[7. Common Knowledge/Calendar & Clock/Months/Ak'tharif\|Ak'tharif]] (but celebrates the whole tenday <3 )
 

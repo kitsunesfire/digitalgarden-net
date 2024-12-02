@@ -10,14 +10,14 @@
 >  |   |
 > ---|---|
 > Type | Location |
-> Settlement Level | 4 |
+> Settlement Level | 6 |
 > Province | [[4. Gazetteer/Diurnan Valley/Diurnan Valley\|Diurnan Valley]] |
 > Traits | `=this.trait` |
 
 # Janova
 
 > [!info]+ Overview
-> A bustling town of arrivals and new beginnings, featuring the world's largest shrine to Ziyad
+> A small city of arrivals and new beginnings, featuring the world's largest shrine to Ziyad and Zarthura's oldest teaching hospital.
 
 ## Gallery
 
@@ -31,6 +31,7 @@
 ## Points of Interest
 
 - [[4. Gazetteer/Diurnan Valley/Janova/The Parting Glass - Janova\|The Parting Glass - Janova]] 
+- [[4. Gazetteer/Diurnan Valley/Janova/RMC\|RMC]] (Rothschild Maximilian Clinic)
 - [[4. Gazetteer/Diurnan Valley/Janova/The Wayfaring Stranger\|The Wayfaring Stranger]] 
 - [[4. Gazetteer/Diurnan Valley/Janova/Church of Revelation\|Church of Revelation]] 
 - [[4. Gazetteer/Diurnan Valley/Janova/Myers & Whitney General Goods Store\|Myers & Whitney General Goods Store]] 
