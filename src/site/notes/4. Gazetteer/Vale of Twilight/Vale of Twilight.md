@@ -12,19 +12,17 @@ The [[4. Gazetteer/Vale of Twilight/Vale of Twilight\|Vale of Twilight]] is a re
 
 ## Key Locations 
 
-| File                                                                            | Description |
-| ------------------------------------------------------------------------------- | ----------- |
-| [[4. Gazetteer/Vale of Twilight/Alesia/Alesia\|Alesia]]                      | \-          |
-| [[4. Gazetteer/Vale of Twilight/Ebora/Ebora\|Ebora]]                         | \-          |
-| [[4. Gazetteer/Vale of Twilight/Halflight/Halflight\|Halflight]]             | \-          |
-| [[4. Gazetteer/Vale of Twilight/Illyria/Illyria\|Illyria]]                   | \-          |
-| [[4. Gazetteer/Vale of Twilight/Kaer Celare/Kaer Celare\|Kaer Celare]]       | \-          |
-| [[4. Gazetteer/Vale of Twilight/Liebestod/Liebestod\|Liebestod]]             | \-          |
-| [[4. Gazetteer/Vale of Twilight/Lohengrin/Lohengrin\|Lohengrin]]             | \-          |
-| [[4. Gazetteer/Vale of Twilight/Magna Graecia/Magna Graecia\|Magna Graecia]] | \-          |
-| [[4. Gazetteer/Vale of Twilight/Misthalen/Misthalen\|Misthalen]]             | \-          |
-| [[4. Gazetteer/Vale of Twilight/Ravensgate/Ravensgate\|Ravensgate]]          | \-          |
-| [[4. Gazetteer/Vale of Twilight/Selelune/Selelune\|Selelune]]                | \-          |
-| [[4. Gazetteer/Vale of Twilight/Vela Sombra/Vela Sombra\|Vela Sombra]]       | \-          |
+| File                                                                      | Description |
+| ------------------------------------------------------------------------- | ----------- |
+| [[4. Gazetteer/Vale of Twilight/Alesia/Alesia\|Alesia]]                | \-          |
+| [[4. Gazetteer/Vale of Twilight/Ebora/Ebora\|Ebora]]                   | \-          |
+| [[4. Gazetteer/Vale of Twilight/Kaer Celare/Kaer Celare\|Kaer Celare]] | \-          |
+| [[4. Gazetteer/Vale of Twilight/Liebestod/Liebestod\|Liebestod]]       | \-          |
+| [[4. Gazetteer/Vale of Twilight/Lohengrin/Lohengrin\|Lohengrin]]       | \-          |
+| [[4. Gazetteer/Lunar Highlands/Misthalen/Misthalen\|Misthalen]]        | \-          |
+| [[4. Gazetteer/Vale of Twilight/Ravensgate/Ravensgate\|Ravensgate]]    | \-          |
+| [[4. Gazetteer/Lunar Highlands/Selelune/Selelune\|Selelune]]           | \-          |
+| [[4. Gazetteer/Vale of Twilight/Vela Sombra/Vela Sombra\|Vela Sombra]] | \-          |
+| [[4. Gazetteer/Vale of Twilight/Vesperia/Vesperia\|Vesperia]]          | \-          |
 
 { .block-language-dataview}

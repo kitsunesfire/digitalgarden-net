@@ -4,9 +4,9 @@
 
 # Fashion
 
-Zarthurians typically dress like they are either ready for battle or for medieval court— perhaps both at the same time. They prefer to wear clothing that is corseted, armored, or scaled, and are known for a carrying themselves with a deadly grace.
+Zarthurians dress like they are either ready for battle or for medieval court— perhaps both at the same time. Typical Zarthurian styles of dress tend to be described as elegant, elaborate, and indulgent. They prefer to wear clothing that is corseted, armored, or scaled, and are known for a carrying themselves with a deadly grace.
 
-Typical Zarthurian styles of dress tend to be described as elegant, elaborate, and indulgent. While the particulars of local fashion trends can vary greatly between [[4. Gazetteer/Provinces\|Provinces]], the following are representative of some common styles of clothing that can be found in most parts of the [[4. Gazetteer/Eternian Empire\|Eternian Empire]] (or, at the very least, wouldn't be read as foreign):
+ While the particulars of local fashion trends can vary greatly between [[4. Gazetteer/Provinces\|Provinces]], the following are representative of some common styles of clothing that can be found in most parts of the [[4. Gazetteer/Eternian Empire\|Eternian Empire]] (or, at the very least, wouldn't be read as foreign):
 
 >[!grid]
 ![Pasted image 20240410212545.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020240410212545.png)

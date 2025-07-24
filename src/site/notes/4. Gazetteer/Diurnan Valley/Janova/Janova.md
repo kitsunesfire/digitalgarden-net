@@ -30,28 +30,10 @@
 
 ## Points of Interest
 
-- [[4. Gazetteer/Diurnan Valley/Janova/The Parting Glass - Janova\|The Parting Glass - Janova]] 
 - [[4. Gazetteer/Diurnan Valley/Janova/RMC\|RMC]] (Rothschild Maximilian Clinic)
-- [[4. Gazetteer/Diurnan Valley/Janova/The Wayfaring Stranger\|The Wayfaring Stranger]] 
 - [[4. Gazetteer/Diurnan Valley/Janova/Church of Revelation\|Church of Revelation]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Myers & Whitney General Goods Store\|Myers & Whitney General Goods Store]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Eryn & Furi's Fresh Foods\|Eryn & Furi's Fresh Foods]]
-- [[4. Gazetteer/Diurnan Valley/Janova/Janova Stables\|Janova Stables]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Fable Blades\|Fable Blades]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Rosewood Carpentry Co.\|Rosewood Carpentry Co.]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Campground - Janova\|Campground - Janova]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Stone & Iron Builder's Collective\|Stone & Iron Builder's Collective]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Sandro's Leather Supply\|Sandro's Leather Supply]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Ulrick's Alterations\|Ulrick's Alterations]]
-- [[4. Gazetteer/Diurnan Valley/Janova/Claudette's Kitchen\|Claudette's Kitchen]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Lost Soles\|Lost Soles]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Mirage Emporium\|Mirage Emporium]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Caelix's Residence\|Caelix's Residence]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Evangelina's Residence\|Evangelina's Residence]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Fine Print\|Fine Print]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Soramek Pottery Studio\|Soramek Pottery Studio]] 
-- [[4. Gazetteer/Diurnan Valley/Janova/Imperial Guard Post - Janova\|Imperial Guard Post - Janova]] 
+
 
 ## Story Notes
 
-- [[5. Dramatis Personae/NPC Compendium/Lothar\|Lothar]] recommended the party stop here on their way towards [[4. Gazetteer/Mystic Mire/Kaer Luthis/Kaer Luthis\|Kaer Luthis]] 
+- [[_. GM Screen/Construction Zone/WIP Entities/NPC Compendium/Lothar\|Lothar]] recommended the party stop here on their way towards [[4. Gazetteer/Mystic Mire/Kaer Luthis/Kaer Luthis\|Kaer Luthis]] 

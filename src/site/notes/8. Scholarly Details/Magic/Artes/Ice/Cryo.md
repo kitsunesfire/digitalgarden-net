@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/8-scholarly-details/magic/artes/ice/cryo/","noteIcon":""}
+---
+
+# Cryo
+
+>[!grid]
+>![Pasted image 20230319020157.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319020157.png)
+>![Pasted image 20230319031716.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319031716.png)
+>![Pasted image 20230319030959.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319030959.png)
+>![Pasted image 20230319020241.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319020241.png)
+>![Pasted image 20230319031914.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319031914.png)
+>![Pasted image 20230319031301.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319031301.png)
+>![Pasted image 20230319031246.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319031246.png)
+>![Pasted image 20230319020300.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319020300.png)
+
+[[8. Scholarly Details/Magic/Artes/Ice/Cryo\|Cryo]] is an [[8. Scholarly Details/Magic/Artes/Ice/Ice\|Ice]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Ocean\|Ocean]]. 

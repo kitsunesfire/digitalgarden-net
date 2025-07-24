@@ -7,16 +7,12 @@
 
 ## Key Locations 
 
-| File                                                                             | Description                                                                                                  |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [[4. Gazetteer/Solar Sanctum/Elgin/Elgin\|Elgin]]                             | \-                                                                                                           |
-| [[4. Gazetteer/Solar Sanctum/Gaelira/Gaelira\|Gaelira]]                       | \-                                                                                                           |
-| [[4. Gazetteer/Auroric Shores/Hesperia/Hesperia\|Hesperia]]                   | An elaborate citadel where alliances are forged through a combination of discourse, wine, and entertainment. |
-| [[4. Gazetteer/Auroric Shores/Ithavell/Ithavell\|Ithavell]]                   | \-                                                                                                           |
-| [[4. Gazetteer/Solar Sanctum/Khepri Cove/Khepri Cove\|Khepri Cove]]           | \-                                                                                                           |
-| [[4. Gazetteer/Solar Sanctum/Noricum/Noricum\|Noricum]]                       | \-                                                                                                           |
-| [[4. Gazetteer/Solar Sanctum/Solaris/Solaris\|Solaris]]                       | \-                                                                                                           |
-| [[4. Gazetteer/Auroric Shores/Thelmira/Thelmira\|Thelmira]]                   | \-                                                                                                           |
-| [[4. Gazetteer/Auroric Shores/Villa Narvenia/Villa Narvenia\|Villa Narvenia]] | \-                                                                                                           |
+| File                                                                         | Description |
+| ---------------------------------------------------------------------------- | ----------- |
+| [[4. Gazetteer/Solar Sanctum/Elgin/Elgin\|Elgin]]                         | \-          |
+| [[4. Gazetteer/Solar Sanctum/Gaelira/Gaelira\|Gaelira]]                   | \-          |
+| [[4. Gazetteer/Solar Sanctum/Magna Graecia/Magna Graecia\|Magna Graecia]] | \-          |
+| [[4. Gazetteer/Solar Sanctum/Noricum/Noricum\|Noricum]]                   | \-          |
+| [[4. Gazetteer/Solar Sanctum/Solaris/Solaris\|Solaris]]                   | \-          |
 
 { .block-language-dataview}

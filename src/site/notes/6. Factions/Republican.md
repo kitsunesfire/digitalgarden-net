@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/6-factions/republican/","noteIcon":""}
+---
+
+# Republican 
+
+[[6. Factions/Republican\|Republicans]] typically reject the idea of a centralized government and believe that [[0. Archive/Old World Atlas/Zarthura\|Zarthura]] should be collectively run by the [[6. Factions/Eternian Government/Ennead\|Ennead]] alone, without the interference of any kind of [[8. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarch]] whatsoever. Across [[0. Archive/Old World Atlas/Zarthura\|Zarthura]], [[6. Factions/Republican\|Republicans]] are viewed as violent rebels-- with good reason, as they have often been found to be responsible for politically motivated abductions, assassinations, and other assaults. 
+
+One of the most famous [[6. Factions/Republican\|Republicans]] was a [[6. Factions/Nishanti\|Nishanti]] [[8. Scholarly Details/Arts & Culture/Titles/Senator\|Senator]] named [[8. Scholarly Details/Arts & Culture/History/Historic Figures/Luthis Sandor\|Luthis Sandor]], who led a rebellion against the [[8. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarchy]] of [[0. Archive/Old World Atlas/Zarthura\|Zarthura]] in a brutal civil war that eventually came to be known as [[8. Scholarly Details/Arts & Culture/History/The War of Bleeding Shadows\|The War of Bleeding Shadows]]. While his rebellion was ultimately unsuccessful, it came close enough that it forever changed the political landscape of [[0. Archive/Old World Atlas/Zarthura\|Zarthura]]. Most [[6. Factions/Republican\|Republicans]] nowadays work covertly and keep their political allegiance a secret, all the while hoping to one day have another shot at revolution. 

@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/6-factions/templar-orders/order-of-the-veiled-ones/","noteIcon":""}
+---
+
+# Order of the Veiled Ones
+
+[[8. Scholarly Details/Deities/Local Gods/Sunan\|Sunan]]’s best known [[Templars\|Templars]] are the [[6. Factions/Templar Orders/Order of the Veiled Ones\|Order of the Veiled Ones]]. The veracity of their connection to [[8. Scholarly Details/Deities/Local Gods/Sunan\|Sunan]] is a matter of great debate. Some say that they are [[8. Scholarly Details/Deities/Local Gods/Sunan\|Sunan]]’s chosen few, and it is a testament to their strength and strength of their will that they have been able to connect to the captive god. Others say that the Veiled Ones are actually followers of [[8. Scholarly Details/Deities/Local Gods/Raizin\|Raizin]] and [[8. Scholarly Details/Deities/Local Gods/Ziyad\|Ziyad]], masquerading as lovers of justice so that they may advance their own secret agendas. There are even some who suggest that this Order does not benefit from any divine power at all, and that their strength is entirely their own. Whatever the truth, the Order of the Veiled Ones are an extremely strict Templar Order who are often feared and respected in equal measure wherever they are dispatched, and their verdicts are seldom questioned. Veiled Ones believe that everyone is subject to the law— even the kings— and work to guarantee the rights of individuals, the right to justice and the right to a fair trial.
