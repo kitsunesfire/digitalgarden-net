@@ -13,11 +13,11 @@
 >![Pasted image 20230323064520.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230323064520.png)
 >![Pasted image 20230323072313.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230323072313.png)
 
-Eden is the patron deity of [[8. Scholarly Details/Cosmology/Inner Planes/Elemental Planes/Floração/Floração\|Floração]], master of [[8. Scholarly Details/Magic/Malak Artes/Wood/Wood\|Wood]] [[8. Scholarly Details/Magic/Malak Artes/Malak Artes\|Malak Artes]]. Associated with the [[8. Scholarly Details/Cosmology/Inner Planes/Arcadia/Courts of Arcadia/Spring Court/Spring Court\|Spring Court]]. 
+Eden is the patron deity of [[8. Scholarly Details/Cosmology/Inner Planes/Elemental Planes/Floração/Floração\|Floração]], master of [[8. Scholarly Details/Magic/Artes/Wood/Wood\|Wood]] [[8. Scholarly Details/Magic/Artes/Artes\|Artes]]. Associated with the [[8. Scholarly Details/Cosmology/Inner Planes/Arcadia/Courts of Arcadia/Spring Court/Spring Court\|Spring Court]]. 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/malak-artes/wood/wood/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/artes/wood/wood/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -29,7 +29,7 @@ Eden is the patron deity of [[8. Scholarly Details/Cosmology/Inner Planes/Elemen
 - Associated with the [[8. Scholarly Details/Cosmology/Inner Planes/Arcadia/Courts of Arcadia/Spring Court/Spring Court\|Spring Court]] & Spring Isles 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/malak-artes/wood/vine/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/artes/wood/vine/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -45,13 +45,13 @@ Eden is the patron deity of [[8. Scholarly Details/Cosmology/Inner Planes/Elemen
 >![Pasted image 20230319060720.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319060720.png)
 >![Pasted image 20230319061023.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319061023.png)
 
-[[8. Scholarly Details/Magic/Malak Artes/Wood/Vine\|Vine]] is a [[8. Scholarly Details/Magic/Malak Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Sky\|Sky]].
+[[8. Scholarly Details/Magic/Artes/Wood/Vine\|Vine]] is a [[8. Scholarly Details/Magic/Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Sky\|Sky]].
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/malak-artes/wood/growth/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/artes/wood/growth/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -67,13 +67,13 @@ Eden is the patron deity of [[8. Scholarly Details/Cosmology/Inner Planes/Elemen
 >![Pasted image 20230719231010.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230719231010.png)
 >![Pasted image 20230719231058.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230719231058.png)
 
-[[8. Scholarly Details/Magic/Malak Artes/Wood/Growth\|Growth]] is a [[8. Scholarly Details/Magic/Malak Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Ocean\|Ocean]].
+[[8. Scholarly Details/Magic/Artes/Wood/Growth\|Growth]] is a [[8. Scholarly Details/Magic/Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Ocean\|Ocean]].
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/malak-artes/wood/flora/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/artes/wood/flora/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -87,13 +87,13 @@ Eden is the patron deity of [[8. Scholarly Details/Cosmology/Inner Planes/Elemen
 >![Pasted image 20230124145736.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230124145736.png)
 ![Pasted image 20230124145826.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230124145826.png)
 
-[[8. Scholarly Details/Magic/Malak Artes/Wood/Flora\|Flora]] is a [[8. Scholarly Details/Magic/Malak Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Earth\|Earth]].
+[[8. Scholarly Details/Magic/Artes/Wood/Flora\|Flora]] is a [[8. Scholarly Details/Magic/Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Earth\|Earth]].
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/malak-artes/wood/vitality/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/artes/wood/vitality/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -109,13 +109,13 @@ Eden is the patron deity of [[8. Scholarly Details/Cosmology/Inner Planes/Elemen
 >![Pasted image 20230319061735.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319061735.png)
 >![Pasted image 20230319061710.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319061710.png)
 
-[[8. Scholarly Details/Magic/Malak Artes/Wood/Vitality\|Vitality]] is a [[8. Scholarly Details/Magic/Malak Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Sun\|Sun]].
+[[8. Scholarly Details/Magic/Artes/Wood/Vitality\|Vitality]] is a [[8. Scholarly Details/Magic/Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Sun\|Sun]].
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/malak-artes/wood/fungi/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/artes/wood/fungi/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -130,13 +130,13 @@ Eden is the patron deity of [[8. Scholarly Details/Cosmology/Inner Planes/Elemen
 >![Pasted image 20230319062053.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319062053.png)
 >![Pasted image 20230319061956.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230319061956.png)
 
-[[8. Scholarly Details/Magic/Malak Artes/Wood/Fungi\|Fungi]] is a [[8. Scholarly Details/Magic/Malak Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Moon\|Moon]].
+[[8. Scholarly Details/Magic/Artes/Wood/Fungi\|Fungi]] is a [[8. Scholarly Details/Magic/Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Moon\|Moon]].
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/malak-artes/wood/luck/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/8-scholarly-details/magic/artes/wood/luck/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -150,7 +150,7 @@ Eden is the patron deity of [[8. Scholarly Details/Cosmology/Inner Planes/Elemen
 >![Pasted image 20230124150322.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230124150322.png)
 >![Pasted image 20230124150349.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230124150349.png)
 
-[[8. Scholarly Details/Magic/Malak Artes/Wood/Luck\|Luck]] is a [[8. Scholarly Details/Magic/Malak Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Stars\|Stars]].
+[[8. Scholarly Details/Magic/Artes/Wood/Luck\|Luck]] is a [[8. Scholarly Details/Magic/Artes/Wood/Wood\|Wood]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Stars\|Stars]].
 
 </div></div>
 

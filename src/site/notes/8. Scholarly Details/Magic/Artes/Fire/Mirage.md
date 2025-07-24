@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/8-scholarly-details/magic/artes/fire/mirage/","noteIcon":""}
+---
+
+# Mirage
+
+>[!grid]
+>![Pasted image 20230124153908.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230124153908.png)
+>![Pasted image 20230124153546.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230124153546.png)
+>![Pasted image 20230124153449.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230124153449.png)
+>![Pasted image 20230124153837.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230124153837.png)
+>![Pasted image 20230124153231.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230124153231.png)
+>![Pasted image 20230124153250.png](/img/user/x.%20Assets/Attachments/Pasted%20image%2020230124153250.png)
+
+[[7. Scholarly Details/Magic/Malak Artes/Fire/Mirage\|7. Scholarly Details/Magic/Malak Artes/Fire/Mirage]] is a [[8. Scholarly Details/Magic/Artes/Fire/Fire\|Fire]] arte that utilizes the primordial power of the [[8. Scholarly Details/Magic/Primordial Sources/Moon\|Moon]]. 
