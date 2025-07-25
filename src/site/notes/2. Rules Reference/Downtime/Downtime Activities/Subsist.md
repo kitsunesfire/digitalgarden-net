@@ -5,10 +5,10 @@
 # Subsist
 #Downtime 
 
-If you need to provide food and shelter, you can use the Subsist [[2. Rules Reference/Downtime/Downtime Activities/Downtime Activities\|downtime activity]]. This typically uses [[2. Rules Reference/Character Creation/Skills/Society\|Society]] if you’re in a settlement or [[2. Rules Reference/Character Creation/Skills/Survival\|Survival]] if you’re in the wild.
+If you need to provide food and shelter, you can use the Subsist [[2. Rules Reference/Downtime/Downtime Activities/Downtime Activities\|downtime activity]]. This typically uses [[2. Rules Reference/Skills/Society\|Society]] if you’re in a settlement or [[2. Rules Reference/Skills/Survival\|Survival]] if you’re in the wild.
 
-[[2. Rules Reference/Character Creation/Skills/Society\|Society]]: Subsist in a settlement by finding shelter, scrounging, or begging for food.  
-[[2. Rules Reference/Character Creation/Skills/Survival\|Survival]]: Subsist in the wild by foraging for food and building shelter.
+[[2. Rules Reference/Skills/Society\|Society]]: Subsist in a settlement by finding shelter, scrounging, or begging for food.  
+[[2. Rules Reference/Skills/Survival\|Survival]]: Subsist in the wild by foraging for food and building shelter.
 
 You try to provide food and shelter for yourself, and possibly others as well, with a standard of living. The GM determines the DC based on the nature of the place where you're trying to [[2. Rules Reference/Downtime/Downtime Activities/Subsist\|Subsist]]. You might need a minimum proficiency rank to [[2. Rules Reference/Downtime/Downtime Activities/Subsist\|Subsist]] in particularly strange environments. Unlike most [[2. Rules Reference/Downtime/Downtime Activities/Downtime Activities\|Downtime Activities]], you can [[2. Rules Reference/Downtime/Downtime Activities/Subsist\|Subsist]] after 8 hours or less of exploration, but if you do, you take a –5 penalty.  
   

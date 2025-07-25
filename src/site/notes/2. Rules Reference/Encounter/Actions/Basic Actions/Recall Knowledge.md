@@ -12,14 +12,14 @@ You attempt a skill check to try to remember a bit of knowledge regarding a topi
 
 The following skills can be used to Recall Knowledge, getting information about the listed topics. In some cases, you can get the GM's permission to use a different but related skill, usually against a higher DC than normal. Some topics might appear on multiple lists, but the skills could give different information. For example, Arcana might tell you about the magical defenses of a golem, whereas Crafting could tell you about its sturdy resistance to physical attacks.
 
-- [[2. Rules Reference/Character Creation/Skills/Arcana\|Arcana]]: Arcane theories, magical traditions, creatures of arcane significance, and arcane planes.
-- [[2. Rules Reference/Character Creation/Skills/Crafting\|Crafting]]: Alchemical reactions and creatures, item value, engineering, unusual materials, and constructs.
-- [[2. Rules Reference/Character Creation/Skills/Lore\|Lore]]: The subject of the Lore skill's subcategory.
-- [[2. Rules Reference/Character Creation/Skills/Medicine\|Medicine]]: Diseases, poisons, wounds, and forensics.
-- [[2. Rules Reference/Character Creation/Skills/Nature\|Nature]]: The environment, flora, geography, weather, creatures of natural origin, and natural planes.
-- [[2. Rules Reference/Character Creation/Skills/Occultism\|Occultism]]: Ancient mysteries, obscure philosophy, creatures of occult significance, and esoteric planes.
-- [[2. Rules Reference/Character Creation/Skills/Religion\|Religion]]: Divine agents, divine planes, theology, obscure myths, and creatures of religious significance.
-- [[2. Rules Reference/Character Creation/Skills/Society\|Society]]: Local history, key personalities, legal institutions, societal structure, and humanoid culture.
+- [[2. Rules Reference/Skills/Arcana\|Arcana]]: Arcane theories, magical traditions, creatures of arcane significance, and arcane planes.
+- [[2. Rules Reference/Skills/Crafting\|Crafting]]: Alchemical reactions and creatures, item value, engineering, unusual materials, and constructs.
+- [[2. Rules Reference/Skills/Lore\|Lore]]: The subject of the Lore skill's subcategory.
+- [[2. Rules Reference/Skills/Medicine\|Medicine]]: Diseases, poisons, wounds, and forensics.
+- [[2. Rules Reference/Skills/Nature\|Nature]]: The environment, flora, geography, weather, creatures of natural origin, and natural planes.
+- [[2. Rules Reference/Skills/Occultism\|Occultism]]: Ancient mysteries, obscure philosophy, creatures of occult significance, and esoteric planes.
+- [[2. Rules Reference/Skills/Religion\|Religion]]: Divine agents, divine planes, theology, obscure myths, and creatures of religious significance.
+- [[2. Rules Reference/Skills/Society\|Society]]: Local history, key personalities, legal institutions, societal structure, and humanoid culture.
 
 The GM might allow checks to Recall Knowledge using other skills. For example, you might assess the skill of an acrobat using Acrobatics. If you're using a physical skill (like in this example), the GM will most likely have you use a mental ability score—typically Intelligence—instead of the skill's normal physical ability score.
 

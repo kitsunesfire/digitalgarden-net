@@ -9,4 +9,4 @@ You take a careful, short jump. You can Leap up to 10 feet horizontally if your 
 
 If you Leap vertically, you can move up to 3 feet vertically and 5 feet horizontally onto an elevated surface.
 
-Jumping a greater distance requires using the [[2. Rules Reference/Character Creation/Skills/Athletics\|Athletics]] skill.
+Jumping a greater distance requires using the [[2. Rules Reference/Skills/Athletics\|Athletics]] skill.

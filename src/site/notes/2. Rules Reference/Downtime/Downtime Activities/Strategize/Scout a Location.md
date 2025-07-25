@@ -5,7 +5,7 @@
 # Scout a Location
 #Downtime #Secret 
 
-You spend time observing a particular place or group. Attempt a normal, hard, or very hard DC skill check relevant to the location-- usually a Perception, [[2. Rules Reference/Character Creation/Skills/Society\|Society]], [[2. Rules Reference/Character Creation/Skills/Stealth\|Stealth]], or relevant [[2. Rules Reference/Character Creation/Skills/Lore\|Lore]] skill check.
+You spend time observing a particular place or group. Attempt a normal, hard, or very hard DC skill check relevant to the location-- usually a Perception, [[2. Rules Reference/Skills/Society\|Society]], [[2. Rules Reference/Skills/Stealth\|Stealth]], or relevant [[2. Rules Reference/Skills/Lore\|Lore]] skill check.
 
 **Success** You make helpful observations.  
 **Failure** You learn nothing particularly noteworthy.  

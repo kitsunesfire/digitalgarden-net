@@ -7,7 +7,7 @@
 
 **Requirements.** You have both hands free.
 
-You move up, down, or across an incline. Unless it’s particularly easy, you must attempt an [[2. Rules Reference/Character Creation/Skills/Athletics\|Athletics]] check. The GM determines the DC based on the nature of the incline and environmental circumstances. You’re [[2. Rules Reference/Conditions/Off-Guard\|Off-Guard]] unless you have a climb Speed.
+You move up, down, or across an incline. Unless it’s particularly easy, you must attempt an [[2. Rules Reference/Skills/Athletics\|Athletics]] check. The GM determines the DC based on the nature of the incline and environmental circumstances. You’re [[2. Rules Reference/Conditions/Off-Guard\|Off-Guard]] unless you have a climb Speed.
 
 - **Critical Success.** You move up, across, or safely down the incline for 5 feet plus 5 feet per 20 feet of your land Speed (a total of 10 feet for most PCs).
 - **Success.** You move up, across, or safely down the incline for 5 feet per 20 feet of your land Speed (a total of 5 feet for most PCs, minimum 5 feet if your Speed is below 20 feet).

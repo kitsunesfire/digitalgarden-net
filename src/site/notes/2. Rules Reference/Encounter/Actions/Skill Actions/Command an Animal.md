@@ -5,7 +5,7 @@
 # Command an Animal
 #Auditory #Concentrate 
 
-You issue an order to an animal. Attempt a [[2. Rules Reference/Character Creation/Skills/Nature\|Nature]] check against the animal's Will DC. The GM might adjust the DC if the animal has a good attitude toward you, you suggest a course of action it was predisposed toward, or you offer it a treat.
+You issue an order to an animal. Attempt a [[2. Rules Reference/Skills/Nature\|Nature]] check against the animal's Will DC. The GM might adjust the DC if the animal has a good attitude toward you, you suggest a course of action it was predisposed toward, or you offer it a treat.
 
 You automatically fail if the animal is [[2. Rules Reference/Conditions/Attitude/Hostile\|Hostile]] or [[2. Rules Reference/Conditions/Attitude/Unfriendly\|Unfriendly]] to you. If the animal is [[2. Rules Reference/Conditions/Attitude/Helpful\|Helpful]] to you, increase your degree of success by one step. You might be able to [[2. Rules Reference/Encounter/Actions/Skill Actions/Command an Animal\|Command an Animal]] more easily with a feat like Ride.
 
