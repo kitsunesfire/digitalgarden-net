@@ -36,4 +36,4 @@
 
 ## Story Notes
 
-- [[_. GM Screen/Construction Zone/WIP Entities/NPC Compendium/Lothar\|Lothar]] recommended the party stop here on their way towards [[4. Gazetteer/Mystic Mire/Kaer Luthis/Kaer Luthis\|Kaer Luthis]] 
+- [[5. Dramatis Personae/Key NPCs/Lothar\|Lothar]] recommended the party stop here on their way towards [[4. Gazetteer/Mystic Mire/Kaer Luthis/Kaer Luthis\|Kaer Luthis]] 

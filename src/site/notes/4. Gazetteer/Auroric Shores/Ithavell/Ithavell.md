@@ -32,4 +32,4 @@
 
 ## Story Notes
 
-- In Zarthurian myth, [[4. Gazetteer/Auroric Shores/Ithavell/Ithavell\|Ithavell]] is one of the sacred meeting places of [[8. Scholarly Details/Deities/The Madjai\|The Madjai]] 
+- In Zarthurian myth, [[4. Gazetteer/Auroric Shores/Ithavell/Ithavell\|Ithavell]] is one of the sacred meeting places of [[7. Scholarly Details/Deities/The Madjai\|The Madjai]] 

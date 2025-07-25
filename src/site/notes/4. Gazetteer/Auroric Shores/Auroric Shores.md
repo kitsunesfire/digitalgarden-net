@@ -8,8 +8,12 @@ Generally viewed as affluent and welcoming, the [[4. Gazetteer/Auroric Shores/Au
 
 ## Key Locations 
 
-| File                                                                    | Description |
-| ----------------------------------------------------------------------- | ----------- |
-| [[4. Gazetteer/Auroric Shores/Hesperia/Thelmira/Thelmira\|Thelmira]] | \-          |
+| File                                                                             | Description                                                                                                  |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [[4. Gazetteer/Auroric Shores/Hesperia/Hesperia\|Hesperia]]                   | An elaborate citadel where alliances are forged through a combination of discourse, wine, and entertainment. |
+| [[4. Gazetteer/Auroric Shores/Ithavell/Ithavell\|Ithavell]]                   | \-                                                                                                           |
+| [[4. Gazetteer/Auroric Shores/Khepri Cove/Khepri Cove\|Khepri Cove]]          | \-                                                                                                           |
+| [[4. Gazetteer/Auroric Shores/Thelmira/Thelmira\|Thelmira]]                   | \-                                                                                                           |
+| [[4. Gazetteer/Auroric Shores/Villa Narvenia/Villa Narvenia\|Villa Narvenia]] | \-                                                                                                           |
 
 { .block-language-dataview}

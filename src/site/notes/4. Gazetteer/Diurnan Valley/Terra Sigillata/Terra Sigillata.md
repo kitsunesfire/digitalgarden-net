@@ -31,4 +31,4 @@
 
 ## Story Notes
 
-- Famous as a plentiful source of [[8. Scholarly Details/Specialty Items & Materials/Materials/Keramik\|Keramik]] 
+- Famous as a plentiful source of [[7. Scholarly Details/Specialty Items & Materials/Materials/Keramik\|Keramik]] 
