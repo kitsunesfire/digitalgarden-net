@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/3-demographics/ancestries/apparition/apparition/","noteIcon":""}
+---
+
+# Apparition
+
+[[3. Demographics/Ancestries/Apparition/Apparition\|Apparitions]] are entities that are empowered by (or embody) a variety of spiritual or natural phenomena. They can represent elements of the landscape, forces of nature, beings and the qualities those beings express, and/or spirits of the dead. Many [[3. Demographics/Ancestries/Apparition/Apparition\|Apparitions]] are considered the ancient ancestors of entire [[3. Demographics/Ancestries/Ancestries\|Ancestries]], and, according to some myths, great heroes and leaders may become an [[3. Demographics/Ancestries/Apparition/Apparition\|Apparition]] upon their death.
+
+[[3. Demographics/Ancestries/Apparition/Apparition\|Apparitions]] are not separate from nature, but are *of* nature, typically possessing both "good" and "evil" characteristics. They are manifestations of [[7. Scholarly Details/Cosmology/Cosmic Biology/Anima\|Anima]]-- the interconnecting [[7. Scholarly Details/Cosmology/Cosmic Biology/Aether/Aether\|aetheric]] energy of the universe-- and are believed to be "hidden" from the senses of mortals. They are highly mobile, traveling frequently between their various places of inhabitance (such as sacred places, natural phenomena, or homes of worshippers who welcome them in) but never staying any one place for too long. 
+
+There are many different varieties of [[3. Demographics/Ancestries/Apparition/Apparition\|Apparitions]]. There are over 300 different classifications of [[3. Demographics/Ancestries/Apparition/Apparition\|Apparitions]] known to modern scholars, and even that number is likely to be a modest estimate; there is much we do not know about the nature and existence of [[3. Demographics/Ancestries/Apparition/Apparition\|Apparitions]]. While an incredible amount of diversity exists within the different types of [[3. Demographics/Ancestries/Apparition/Apparition\|Apparitions]], there are a few qualities that appear to be universal truths to their nature:
+
+- [[3. Demographics/Ancestries/Apparition/Apparition\|Apparitions]] are of a dualistic nature. They can nurture and love when respected, or they can cause destruction and disharmony when disregarded. [[3. Demographics/Ancestries/Apparition/Apparition\|Apparitions]] must be appeased in order to gain their favor and avoid their wrath. 
+- All [[3. Demographics/Ancestries/Apparition/Apparition\|Apparitions]] have a duty to the people around them. Just as the people have an obligation to keep an [[3. Demographics/Ancestries/Apparition/Apparition\|Apparition]] happy, the [[3. Demographics/Ancestries/Apparition/Apparition\|Apparition]] has to perform specific duties to offer aid in return-- usually in relation to the specific function of the object or place they inhabit.

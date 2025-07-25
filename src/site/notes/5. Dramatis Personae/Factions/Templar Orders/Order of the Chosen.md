@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/templar-orders/order-of-the-chosen/","noteIcon":""}
+---
+
+# Order of the Chosen
+
+There are many groups of [[7. Scholarly Details/Deities/Local Gods/Shaima\|Shaima]]’s followers scattered throughout Sharum Mal’Kari. The largest and best known are the [[5. Dramatis Personae/Factions/Templar Orders/Order of the Chosen\|Order of the Chosen]], an order of versatile [[Templars\|Templars]] who conduct missions throughout the world on behalf of the Maker and [[6. Demographics/7. NPC Compendium/Titles/The Divine\|6. Demographics/7. NPC Compendium/Titles/The Divine]]. When common folk reference [[Templars\|Templars]], they are usually speaking of the work of the Chosen; in fact, in many parts of the world, commoners may not be aware that there even are other templar orders, or what the difference between them may be.
+
+The nature of how the Chosen are chosen is a matter of great debate. Some say that they are the most elite force of divine knights, and only accept the most pious and faithful. Others disagree wholeheartedly and argue that this is the order that all of the miscellaneous rejects from other orders end up, and that is why they generally seem to have so little in common. At any rate, they are not particularly well known for working well together, but they get the job done.
+
+The Chosen find themselves ordered to accomplish a wide variety of tasks— some which the public may question the need for templar intervention in, and even other [[Templars\|Templars]] may have very private doubts about. However, since they receive their assignments directly from [[6. Demographics/7. NPC Compendium/Titles/The Divine\|6. Demographics/7. NPC Compendium/Titles/The Divine]] and the Maker, there is little room to question; many Chosen see these unusual assignments as a test of their faith, and an opportunity to demonstrate their devotion. It is not clear what happens to Chosen who refuse their assignments, but it is generally assumed that they are either killed by [[Seekers\|Seekers]] or branded as treasonous traitors to the faith— a fate worse than death to most [[Templars\|Templars]].
