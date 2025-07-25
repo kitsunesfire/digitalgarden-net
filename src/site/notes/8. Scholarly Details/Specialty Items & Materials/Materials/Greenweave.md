@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/8-scholarly-details/specialty-items-and-materials/materials/greenweave/","noteIcon":""}
----
-
-# Greenweave
-
-[[8. Scholarly Details/Specialty Items & Materials/Materials/Greenweave\|Greenweave]]’s rarity is not due to its constituent parts. [[8. Scholarly Details/Specialty Items & Materials/Plants & Fungi/Dragontail Fern\|Dragontail Fern]], the sole element, is one of the most common weeds in the western woodlands. No— the real challenge to acquiring this material is locating a druid capable of spinning the still-living fronds into binding matrimony. [[8. Scholarly Details/Specialty Items & Materials/Plants & Fungi/Dragontail Fern\|Dragontail Fern]] forms long, sinuous fronds with pinnae that resemble a [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|dragon]]’s scales. Its surface is fuzzy and dappled with all the colors of the forest, creating a hazy optical effect when rustled by the wind. When woven into [[8. Scholarly Details/Specialty Items & Materials/Materials/Greenweave\|Greenweave]], the resulting fabric maintains this strange appearance. [[8. Scholarly Details/Specialty Items & Materials/Materials/Greenweave\|Greenweave]] blends in with the surrounding greenery. A tent of [[8. Scholarly Details/Specialty Items & Materials/Materials/Greenweave\|Greenweave]] is far less likely to attract unwanted attention than a regular tent.
