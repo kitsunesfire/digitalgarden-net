@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/6-factions/eternian-government/ministry-of-secrets/","noteIcon":""}
----
-
-# Ministry of Secrets
-
-For many self-explanatory reasons, most of the activities of the [[6. Factions/Eternian Government/Ministry of Secrets\|Ministry of Secrets]] are not common knowledge to the general public. They are known to be based out of [[4. Gazetteer/Diurnan Valley/Castellum Chryse/Castellum Chryse\|Castellum Chryse]], where, among other things, they manage and defend the [[4. Gazetteer/Diurnan Valley/Castellum Chryse/Imperial Reliquary\|Imperial Reliquary]]. Only vessels bearing the flag of the [[6. Factions/Eternian Government/Ministry of Secrets\|Ministry of Secrets]] are allowed to approach [[4. Gazetteer/Diurnan Valley/Castellum Chryse/Castellum Chryse\|Castellum Chryse]], and only members of the [[6. Factions/Eternian Government/Ministry of Secrets\|Ministry of Secrets]] (and their escorts) are allowed within. 
-
-The [[6. Factions/Eternian Government/Ministry of Secrets\|Ministry of Secrets]] are also known for being particularly interested in recovering treasures and artifacts from Zarthura's ruins, so that they may be safely stored within the [[4. Gazetteer/Diurnan Valley/Castellum Chryse/Imperial Reliquary\|Imperial Reliquary]] and not left to the unforgiving elements (or stolen and sold on the black market by members of the [[6. Factions/Merchants/Web\|Web]]). They are also known to offer to purchase magic items at full market value, making them quite popular amongst adventurers and treasure hunters alike. 
