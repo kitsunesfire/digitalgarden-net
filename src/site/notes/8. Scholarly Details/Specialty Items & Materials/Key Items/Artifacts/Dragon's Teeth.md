@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/8-scholarly-details/specialty-items-and-materials/key-items/artifacts/dragon-s-teeth/","noteIcon":""}
----
-
-# Dragon's Teeth
-
-So named for their ability to kill [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|dragons]], Dragons Teeth are effectively any [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|dragon]]’s Achilles heel. As part of draconic tradition (and a secret to their longevity and strength), when a [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|dragon]] comes of age, they lock their [[8. Scholarly Details/Magic/Magical Traditions/Soma\|Soma]] away into vessels known as Dragon’s Teeth. These vessels always come in pairs, and almost always takes the form of some kind of weapon, though in some rare cases it may instead manifest as some other type of item or instrument. Naturally, these items are fiercely guarded—for as useful as they are when turned against a [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|dragon]]’s foes, they are even more effective at slaying their own creator. Some [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|dragons]] choose to keep their Teeth close to them at all times, while others seek to ensure they are never in the same place as the weapons designed to slay them. In either case, [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|dragons]] are exceptionally careful about informing others as to the nature of their Teeth, and even more cautious in handing them away.
-
-It is exceptionally difficult to destroy a Dragon’s Tooth. In the case where both of a [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|dragon]]’s Teeth are successfully destroyed, that [[7. Common Knowledge/Demographics/Ancestries/Wyrmkin/Dragon\|dragon]] faces [[8. Scholarly Details/Metaphysics/Mortality & Death/Final Death\|Final Death]].
