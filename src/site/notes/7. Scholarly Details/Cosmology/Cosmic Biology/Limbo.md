@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/7-scholarly-details/cosmology/cosmic-biology/limbo/","noteIcon":""}
+---
+
+# Limbo
+
+When a person has died, but the soul does not [[7. Scholarly Details/Magic/Rituals/Sending\|send]] itself, it may instead remain in an ethereal state of [[7. Scholarly Details/Cosmology/Cosmic Biology/Limbo\|Limbo]] as an [[7. Scholarly Details/Philosophy/Mortality & Death/Unsent\|Unsent]]. This is most often the fate of those who cannot come to terms with their own death-- usually due to a perceived slight, a powerful love, or some other matter of unfinished business. 
+
+In this state, the soul can observe the world of the living, but cannot interact with it in any meaningful way (except occasionally communicating through dreams). The way they see the world is largely dependent on how they *perceive* the world-- for instance, an [[7. Scholarly Details/Philosophy/Mortality & Death/Unsent\|Unsent]] who believes the world to be a dark and dismal place will literally see the world as darker and more grey than it actually is, and an [[7. Scholarly Details/Philosophy/Mortality & Death/Unsent\|Unsent]] who believes the world to be bright and full of hope will see their surroundings as more vibrant than they really are. Given the nature of [[7. Scholarly Details/Philosophy/Mortality & Death/Unsent\|Unsent]], the former is far more likely to be experienced. 
+
+Generally speaking, an [[7. Scholarly Details/Philosophy/Mortality & Death/Unsent\|Unsent]] may remain in [[7. Scholarly Details/Cosmology/Cosmic Biology/Limbo\|Limbo]] for as long as they can hold on... but the longer they remain in [[7. Scholarly Details/Cosmology/Cosmic Biology/Limbo\|Limbo]], the more likely they are to become a wraith. Many souls in [[7. Scholarly Details/Cosmology/Cosmic Biology/Limbo\|Limbo]] end up either [[7. Scholarly Details/Magic/Rituals/Sending\|Sending]] themselves once they have found peace, or are [[7. Scholarly Details/Magic/Rituals/Sending\|sent]] by a ritual performed by a psychopomp. 
