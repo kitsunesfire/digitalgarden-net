@@ -25,8 +25,8 @@ In [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], the following [[3. Demograph
 - [[3. Demographics/Ancestries/Darkspawn/Darkspawn\|Darkspawn]] 
 	- [[3. Demographics/Ancestries/Darkspawn/Goblin\|Goblin]] 
 	- [[3. Demographics/Ancestries/Darkspawn/Orc\|Orc]] 
-- [[3. Demographics/Ancestries/Elf/Shadar-Kai\|Shadar-Kai]] 
-- [[3. Demographics/Ancestries/Elf/Eladrin\|Eladrin]]
+- [[3. Demographics/Ancestries/Elf/Eladrin/Eladrin\|Eladrin]]
+- [[3. Demographics/Ancestries/Elf/Shadar-Kai/Shadar-Kai\|Shadar-Kai]]
 
 In [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], the following [[3. Demographics/Ancestries/Ancestries\|Ancestries]] are considered Rare:
 
@@ -48,4 +48,7 @@ In [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]], the following [[3. Demograph
 -  [[3. Demographics/Ancestries/Wyrmkin/Wyrmkin\|Wyrmkin]] 
 	- [[3. Demographics/Ancestries/Wyrmkin/Dragon\|Dragon]]
 	- [[3. Demographics/Ancestries/Wyrmkin/Kobold\|Kobold]] 
-
+- [[3. Demographics/Ancestries/Elf/Shadar-Kai/Amira\|Amira]]
+- [[3. Demographics/Ancestries/Elf/Shadar-Kai/Nishanti\|Nishanti]]
+- [[3. Demographics/Ancestries/Elf/Shadar-Kai/Suria\|Suria]]
+- [[3. Demographics/Ancestries/Elf/Eladrin/Vasimar\|Vasimar]]

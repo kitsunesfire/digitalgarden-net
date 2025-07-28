@@ -9,4 +9,4 @@ Gregorian equivalent: April
 Themes: love, remembrance of loss, honoring the dead
 
 Eighth month of the year, right before the [[6. Common Knowledge/Calendar & Clock/Holidays/Solar Sankranti\|Solar Sankranti]]
-[[7. Scholarly Details/Arts & Culture/International Festivals/All Soul's Day\|All Soul's Day]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/All Soul's Day\|All Soul's Day]] 

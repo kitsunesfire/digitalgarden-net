@@ -23,6 +23,6 @@ Owing to this environmental attunement and the tendency to stay in one place for
 - Elves are common everywhere, but the largest elven communities are in [[0. Archive/Old World Atlas/Amina Dorei\|Amina Dorei]], [[0. Archive/Old World Atlas/Seithran\|Seithran]], [[0. Archive/Old World Atlas/Gath\|Gath]], and [[0. Archive/Old World Atlas/Zarthura\|Zarthura]]. 
 - [[0. Archive/Old World Atlas/Amina Dorei\|Amina Dorei]], an elven nation, is the only region in Sharum Mal'Kari that is almost entirely ancestrally homogenous. As such, any character from [[0. Archive/Old World Atlas/Amina Dorei\|Amina Dorei]] is almost guaranteed to have the [[3. Demographics/Ancestries/Elf/Elf\|Elf]] ancestry. 
 - The Ancient Elf heritage has been reflavored to be associated with vampirism.
-- New Elf variants ([[3. Demographics/Ancestries/Elf/Shadar-Kai\|Shadar-Kai]], [[5. Dramatis Personae/Factions/Suria\|Suria]] and [[5. Dramatis Personae/Factions/Amira\|Amira]]) have been added to this setting 
+- New Elf variants ([[3. Demographics/Ancestries/Elf/Shadar-Kai/Shadar-Kai\|Shadar-Kai]], [[3. Demographics/Ancestries/Elf/Shadar-Kai/Suria\|Suria]] and [[3. Demographics/Ancestries/Elf/Shadar-Kai/Amira\|Amira]]) have been added to this setting 
 - Elves in Sharum Mal'Kari (typically) have only moderately longer lifespans as compared to humans. As such, any feat that references multi-generational age, knowledge, or experience has either been reflavored or removed.
 

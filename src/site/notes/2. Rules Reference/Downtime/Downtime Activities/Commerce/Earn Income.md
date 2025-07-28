@@ -5,7 +5,7 @@
 # Earn Income
 #Downtime 
 
-You use one of your skills to make money during [[2. Rules Reference/Downtime/Downtime\|Downtime]]. The GM assigns a task level representing the most lucrative job available; by default, this is a task level equal to your level -2. If you prefer, you can search for lower-level tasks, with the GM determining whether you find any. Sometimes you can also attempt to find better work than the initial offerings, though this takes time and requires using the [[2. Rules Reference/Character Creation/Skills/Diplomacy\|Diplomacy]] skill to [[2. Rules Reference/Exploration/Exploration Activities/Gather Information\|Gather Information]], doing some research, or socializing.
+You use one of your skills to make money during [[2. Rules Reference/Downtime/Downtime\|Downtime]]. The GM assigns a task level representing the most lucrative job available; by default, this is a task level equal to your level -2. If you prefer, you can search for lower-level tasks, with the GM determining whether you find any. Sometimes you can also attempt to find better work than the initial offerings, though this takes time and requires using the [[2. Rules Reference/Skills/Diplomacy\|Diplomacy]] skill to [[2. Rules Reference/Exploration/Exploration Activities/Gather Information\|Gather Information]], doing some research, or socializing.
 
 After your first day of work, you roll to determine your earnings. You gain an amount of income based on your result, the task’s level, and your proficiency rank (as listed in the table).
 
@@ -43,7 +43,7 @@ You can continue working at the task on subsequent days without needing to roll 
 
 ## Sample Earn Income Tasks
 
-These examples use Alcohol [[2. Rules Reference/Character Creation/Skills/Lore\|Lore]] to work in a bar or Legal [[2. Rules Reference/Character Creation/Skills/Lore\|Lore]] to perform legal work.  
+These examples use Alcohol [[2. Rules Reference/Skills/Lore\|Lore]] to work in a bar or Legal [[2. Rules Reference/Skills/Lore\|Lore]] to perform legal work.  
 **Trained** bartend, do legal research  
 **Expert** curate drink selection, present minor court cases  
 **Master** run a large brewery, present important court cases  

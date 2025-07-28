@@ -4,7 +4,7 @@
 
 # Tumble Through ![1-1action.png](/img/user/x.%20Assets/Formatting/Pf2e%20Icons/1-1action.png)
 
-You Stride up to your Speed. During this movement, you can try to move through the space of one enemy. Attempt an [[2. Rules Reference/Character Creation/Skills/Acrobatics\|Acrobatics]] check against the enemy’s Reflex DC as soon as you try to enter its space. You can Tumble Through using Climb, Fly, Swim, or another action instead of Stride in the appropriate environment.
+You Stride up to your Speed. During this movement, you can try to move through the space of one enemy. Attempt an [[2. Rules Reference/Skills/Acrobatics\|Acrobatics]] check against the enemy’s Reflex DC as soon as you try to enter its space. You can Tumble Through using Climb, Fly, Swim, or another action instead of Stride in the appropriate environment.
 
 **Success** You move through the enemy’s space, treating the squares in its space as difficult terrain (every 5 feet costs 10 feet of movement). If you don’t have enough Speed to move all the way through its space, you get the same effect as a failure.  
 

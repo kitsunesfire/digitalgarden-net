@@ -1,7 +1,7 @@
 ---
-database-plugin: basic
-dg-publish: true
+{"dg-publish":true,"permalink":"/2-rules-reference/exploration/exploration-activities-overview/","noteIcon":""}
 ---
+
 
 ```yaml:dbfolder
 name: new database

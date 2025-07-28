@@ -9,4 +9,4 @@ Gregorian equivalent: October
 Themes: diplomatic exchanges
 
 Second month of the year
-[[7. Scholarly Details/Arts & Culture/International Festivals/Ambassador's Ball\|Ambassador's Ball]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Ambassador's Ball\|Ambassador's Ball]] 
