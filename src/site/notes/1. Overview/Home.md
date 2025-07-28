@@ -5,7 +5,7 @@
 # Home
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-overview/readme/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -39,9 +39,9 @@ Navigate here for table-level resources on being a player in this game or for tr
 
 Adventuring in [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]] alternates between three core modes of play: [[2. Rules Reference/Downtime/Downtime\|Downtime]], [[2. Rules Reference/Encounter/Encounter\|Encounter]], and [[2. Rules Reference/Exploration/Exploration\|Exploration]]. Each mode represents different kinds of situations with different time scales, and characters can use different sorts of actions and activities in each. In addition, there are a number of [[2. Rules Reference/Subsystems/Subsystems\|Subsystems]], which are situational gameplay modes that can help provide structure to common-but-complicated activities. While [Archives of Nethys](https://2e.aonprd.com/) remains the primary resource for rules for this game, this section houses information on any rules that are useful to be able to link to within the wiki, as well as any rules variants and house rules we will be using for this game. 
 
->[!recite|c-yellow] Campaign Journal
+>[!recite|c-yellow] Demographics
 
-The most interesting parts of our world are the stories you will create in it! The chronicles of your adventures will be catalogued here. 
+This section outlines and describes the various [[3. Demographics/Ancestries/Ancestries\|Ancestries]] and [[3. Demographics/Versatile Heritages/Versatile Heritages\|Versatile Heritages]] that you might encounter (or play as!) in this setting. 
 
 >[!recite|c-green] Gazetteer
 

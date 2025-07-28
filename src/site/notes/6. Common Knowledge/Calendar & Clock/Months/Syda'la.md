@@ -9,4 +9,4 @@ Gregorian equivalent: January
 Themes: hunting, honoring warriors and soldiers
 
 Fifth month of the year, right before [[6. Common Knowledge/Calendar & Clock/Holidays/Midwinter\|Midwinter]]
-[[7. Scholarly Details/Arts & Culture/International Festivals/Festival of Blades\|Festival of Blades]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Festival of Blades\|Festival of Blades]] 

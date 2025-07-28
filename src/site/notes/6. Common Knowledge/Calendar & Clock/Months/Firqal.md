@@ -9,4 +9,4 @@ Gregorian equivalent: May
 Themes: blooming, fertility, community service, charity work
 
 Ninth month of the year, right after the [[6. Common Knowledge/Calendar & Clock/Holidays/Solar Sankranti\|Solar Sankranti]] 
-[[7. Scholarly Details/Arts & Culture/International Festivals/Mahrajan\|Mahrajan]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Mahrajan\|Mahrajan]] 

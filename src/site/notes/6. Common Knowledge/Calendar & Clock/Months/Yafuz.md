@@ -10,4 +10,4 @@ Themes: nature's bounty, preparations for winter
 
 Third month of the year, right before the [[6. Common Knowledge/Calendar & Clock/Holidays/Lunar Harvest\|Lunar Harvest]]
 
-[[7. Scholarly Details/Arts & Culture/International Festivals/The Sheltering\|The Sheltering]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/The Sheltering\|The Sheltering]] 

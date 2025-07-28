@@ -31,7 +31,7 @@
 ### Top 5 Video Game RPG Influences 
 
 1. Baldur's Gate 3
-2. Personal 5
+2. Persona 5
 3. Tales of Arise 
 4. Final Fantasy 16
 5. Witcher 3
@@ -52,6 +52,6 @@
 	- Mystery 
 	- Planar Adventure 
 	- Romantic Adventure 
-- 4 campaign-long  "[[8. Scholarly Details/Metaphysics/Spiritual Alchemy/Aeon\|Aeon]] Quests"
+- 4 campaign-long  "[[7. Scholarly Details/Alchemy/Forbidden Alchemy/Spiritual Alchemy/Aeon\|Aeon]] Quests"
 	- Heavily inspired by BG3's Companion Quests
 - Opportunities for other campaign-long sub-plots  

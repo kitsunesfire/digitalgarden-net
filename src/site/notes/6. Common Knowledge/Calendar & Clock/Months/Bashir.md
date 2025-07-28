@@ -11,5 +11,5 @@ Themes: resolutions, pardons
 
 The first month of the year
 
-[[7. Scholarly Details/Arts & Culture/International Festivals/Day of Pardon\|Day of Pardon]] 
-[[7. Scholarly Details/Arts & Culture/International Festivals/Autumn Equinox\|Autumn Equinox]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Day of Pardon\|Day of Pardon]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Autumn Equinox\|Autumn Equinox]] 

@@ -31,4 +31,4 @@
 
 ## Story Notes
 
-- [[1. Overview/Core Party/Hideaki\|Hideaki]], [[1. Overview/Core Party/Jair\|Jair]], [[1. Overview/Core Party/Marlow\|Marlow]], and [[1. Overview/Core Party/Shae\|Shae]] met here after participating in a [[6. Factions/Celestine\|Celestine]] experiment 
+- [[5. Dramatis Personae/Core Party/Hideaki\|Hideaki]], [[5. Dramatis Personae/Core Party/Jair\|Jair]], [[5. Dramatis Personae/Core Party/Marlow\|Marlow]], and [[5. Dramatis Personae/Core Party/Shae\|Shae]] met here after participating in a [[5. Dramatis Personae/Factions/Celestine\|Celestine]] experiment 

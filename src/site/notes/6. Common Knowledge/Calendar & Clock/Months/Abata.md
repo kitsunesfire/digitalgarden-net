@@ -9,5 +9,5 @@ Gregorian equivalent: March
 Themes: growth, reflection, storytelling
 
 Seventh month of the year
-[[7. Scholarly Details/Arts & Culture/International Festivals/Weavesong\|Weavesong]] 
-[[7. Scholarly Details/Arts & Culture/International Festivals/Spring Equinox\|Spring Equinox]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Weavesong\|Weavesong]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Spring Equinox\|Spring Equinox]] 

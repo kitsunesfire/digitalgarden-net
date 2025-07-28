@@ -5,7 +5,7 @@
 # Perform
 #Concentrate 
 
-When making a brief [[2. Rules Reference/Character Creation/Skills/Performance\|Performance]]—one song, a quick dance, or a few jokes—you use the Perform action. This action is most useful when you want to prove your capability or impress someone quickly. Performing rarely has an impact on its own, but it might influence the DCs of subsequent [[2. Rules Reference/Character Creation/Skills/Diplomacy\|Diplomacy]] checks against the observers—or even change their [[2. Rules Reference/Conditions/Attitude/Attitude\|Attitude]] —if the GM sees fit.
+When making a brief [[2. Rules Reference/Skills/Performance\|Performance]]—one song, a quick dance, or a few jokes—you use the Perform action. This action is most useful when you want to prove your capability or impress someone quickly. Performing rarely has an impact on its own, but it might influence the DCs of subsequent [[2. Rules Reference/Skills/Diplomacy\|Diplomacy]] checks against the observers—or even change their [[2. Rules Reference/Conditions/Attitude/Attitude\|Attitude]] —if the GM sees fit.
 
 **Critical Success** Your performance impresses the observers, and they’re likely to share stories of your ability.
 **Success** You prove yourself, and observers appreciate the quality of your performance.

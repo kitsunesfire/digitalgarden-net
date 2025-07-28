@@ -6,7 +6,7 @@
 
 **Requirements** You are in a square that contains a narrow surface, uneven ground, or another similar feature.
 
-You move across a narrow surface or uneven ground, attempting an [[2. Rules Reference/Character Creation/Skills/Acrobatics\|Acrobatics]] check against its Balance DC. You are [[2. Rules Reference/Conditions/Off-Guard\|Off-Guard]] while on a narrow surface or uneven ground.
+You move across a narrow surface or uneven ground, attempting an [[2. Rules Reference/Skills/Acrobatics\|Acrobatics]] check against its Balance DC. You are [[2. Rules Reference/Conditions/Off-Guard\|Off-Guard]] while on a narrow surface or uneven ground.
 
 **Critical Success** You move up to your Speed.  
 **Success** You move up to your Speed, treating it as difficult terrain (every 5 feet costs 10 feet of movement).  

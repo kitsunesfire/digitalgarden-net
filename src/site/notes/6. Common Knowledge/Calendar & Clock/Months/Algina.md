@@ -9,4 +9,4 @@ Gregorian equivalent: August
 Themes: buying and selling of goods
 
 Twelfth month of the year, right before the [[6. Common Knowledge/Calendar & Clock/Holidays/Feast of the Star\|Feast of the Star]] 
-[[7. Scholarly Details/Arts & Culture/International Festivals/Gala of Grandeur\|Gala of Grandeur]]
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Gala of Grandeur\|Gala of Grandeur]]

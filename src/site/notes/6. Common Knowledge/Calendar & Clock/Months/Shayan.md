@@ -9,5 +9,5 @@ Gregorian equivalent: June
 Themes: creation, displays of craftsmanship, art, technology
 
 Tenth month of the year, right before [[6. Common Knowledge/Calendar & Clock/Holidays/Midsummer\|Midsummer]]
-[[7. Scholarly Details/Arts & Culture/International Festivals/Festival of the Gods\|Festival of the Gods]] 
-[[7. Scholarly Details/Arts & Culture/International Festivals/Summer Solstice\|Summer Solstice]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Festival of the Gods\|Festival of the Gods]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Summer Solstice\|Summer Solstice]] 

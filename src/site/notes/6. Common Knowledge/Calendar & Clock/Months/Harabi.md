@@ -9,4 +9,4 @@ Gregorian equivalent: July
 Themes: travel
 
 Eleventh month of the year, right after [[6. Common Knowledge/Calendar & Clock/Holidays/Midsummer\|Midsummer]] 
-[[7. Scholarly Details/Arts & Culture/International Festivals/Rite of Twilight\|Rite of Twilight]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Rite of Twilight\|Rite of Twilight]] 

@@ -31,5 +31,5 @@
 
 ## Story Notes
 
-- Famed for latent magic, said to be one of the only places in [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]] where a [[5. Demographics/Ancestries/Wyrmkin/Dragon\|Dragon]] egg can hatch 
+- Famed for latent magic, said to be one of the only places in [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]] where a [[3. Demographics/Ancestries/Wyrmkin/Dragon\|Dragon]] egg can hatch 
 - Ancient fortress where elite soldiers can train as dragoons 

@@ -9,4 +9,4 @@ Gregorian equivalent: February
 Themes: family, community, peace
 
 Sixth month of the year
-[[7. Scholarly Details/Arts & Culture/International Festivals/Kinsmass\|Kinsmass]] 
+[[7. Scholarly Details/Arts & Culture/Festivals & Holidays/Kinsmass\|Kinsmass]] 
