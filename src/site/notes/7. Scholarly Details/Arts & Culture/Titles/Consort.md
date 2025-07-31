@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/7-scholarly-details/arts-and-culture/titles/consort/","noteIcon":""}
+---
+
+# Consort
+
+A title given to the partner (or partners) of the Zarthurian [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarch]]. Politically, the [[7. Scholarly Details/Arts & Culture/Titles/Consort\|Consort]] represents the [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarch]] when the [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarch]] is occupied or otherwise unable to act. With the [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarch]]’s permission, the [[7. Scholarly Details/Arts & Culture/Titles/Consort\|Consort]] may perform any of the [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarch]]’s duties, allowing the [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarch]] to effectively be in two places at once. If the [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarch]] dies, the [[7. Scholarly Details/Arts & Culture/Titles/Consort\|Consort]] may act as [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarch]] until a [[7. Scholarly Details/Arts & Culture/Local Customs/Crown Contest\|Crown Contest]] can be completed and a new [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarch]] is appointed.

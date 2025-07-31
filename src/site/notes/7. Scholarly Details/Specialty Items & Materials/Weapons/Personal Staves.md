@@ -6,7 +6,7 @@
 
 When the local shops' offerings don't quite match up with the needs of an adventuring spellcaster, they might want to make their own staff to reflect their personal brand of magic. Doing so isn't easy, and only a chosen few know the techniques to create a brand new staff. 
 
-A custom staff is always unique, and you need your GM's permission to create one and introduce it to your game. Additionally, personal staves can only be created by members of the [[_. GM Screen/Construction Zone/Staffcrafters Guild\|Staffcrafters Guild]]. 
+A custom staff is always unique, and you need your GM's permission to create one and introduce it to your game. Additionally, personal staves can only be created by members of the [[_. GM Screen/Construction Zone/WIP Entities/Staffcrafters Guild\|Staffcrafters Guild]]. 
 
 ## Creating a Personal Staff 
 
@@ -50,7 +50,7 @@ Note that some of these spells are duplicates of lower-level spells, which can b
 
 Once you've themed and designed your staff, you can [[2. Rules Reference/Downtime/Downtime Activities/Craft/Craft\|Craft]] it with the following guidelines, while following all other established rules for [[2. Rules Reference/Downtime/Downtime Activities/Craft/Craft\|Craft]]. As with normal staves, one casting of all listed levels of all spells in the staff must be provided during the crafting. 
 
-Next, the staff needs to be crafted. In Sharum Mal'Kari, custom staves may only be crafted in the workshops of the [[_. GM Screen/Construction Zone/Staffcrafters Guild\|Staffcrafters Guild]], under the supervision of their master artisans. If your character is good at [[2. Rules Reference/Skills/Crafting\|Crafting]], they may choose to aid in the crafting process, but if you are not good at [[2. Rules Reference/Skills/Crafting\|Crafting]] you can choose not to participate; either way, you must be present for the entire duration. Since the creation of a custom staff is #Rare , the GM may decide to have a special quest for esoteric ingredients and/or methods as a prerequisite to the completion of its creation. 
+Next, the staff needs to be crafted. In Sharum Mal'Kari, custom staves may only be crafted in the workshops of the [[_. GM Screen/Construction Zone/WIP Entities/Staffcrafters Guild\|Staffcrafters Guild]], under the supervision of their master artisans. If your character is good at [[2. Rules Reference/Skills/Crafting\|Crafting]], they may choose to aid in the crafting process, but if you are not good at [[2. Rules Reference/Skills/Crafting\|Crafting]] you can choose not to participate; either way, you must be present for the entire duration. Since the creation of a custom staff is #Rare , the GM may decide to have a special quest for esoteric ingredients and/or methods as a prerequisite to the completion of its creation. 
 
 ## Naming the Staff 
 
@@ -58,11 +58,11 @@ When your staff is complete, give it a name-- though skeptics might sneer, spell
 
 ## Revising the Staff 
 
-You may decide that you want to make revisions as you play if you come to dislike the spells you chose. To change the spells already in the staff, visit the [[_. GM Screen/Construction Zone/Staffcrafters Guild\|Staffcrafters Guild]] and use [[2. Rules Reference/Downtime/Downtime Activities/Craft/Craft\|Craft]] with a price equal to 1/10th the staff's total price. You can swap out any of the spells in the staff when you finish. The new spells have to belong to the staff's theme and be an appropriate level, just as though you were choosing them when initially making the staff, and you must provide castings of each of them as normal. 
+You may decide that you want to make revisions as you play if you come to dislike the spells you chose. To change the spells already in the staff, visit the [[_. GM Screen/Construction Zone/WIP Entities/Staffcrafters Guild\|Staffcrafters Guild]] and use [[2. Rules Reference/Downtime/Downtime Activities/Craft/Craft\|Craft]] with a price equal to 1/10th the staff's total price. You can swap out any of the spells in the staff when you finish. The new spells have to belong to the staff's theme and be an appropriate level, just as though you were choosing them when initially making the staff, and you must provide castings of each of them as normal. 
 
 ## Upgrading the Staff 
 
-As you level up, your staff will likely become less useful unless you upgrade it. Upgrading the staff is similar to upgrading an item to a higher-level version. Decide the staff's new level. Visit the [[_. GM Screen/Construction Zone/Staffcrafters Guild\|Staffcrafters Guild]], pay the difference in price, pick the new spells, and use  [[2. Rules Reference/Downtime/Downtime Activities/Craft/Craft\|Craft]] to perform the upgrade. You are not required to do the crafting yourself, but you must supply castings of the new spells. Upgrading does not allow you to switch any of the spells you'd previously chosen. 
+As you level up, your staff will likely become less useful unless you upgrade it. Upgrading the staff is similar to upgrading an item to a higher-level version. Decide the staff's new level. Visit the [[_. GM Screen/Construction Zone/WIP Entities/Staffcrafters Guild\|Staffcrafters Guild]], pay the difference in price, pick the new spells, and use  [[2. Rules Reference/Downtime/Downtime Activities/Craft/Craft\|Craft]] to perform the upgrade. You are not required to do the crafting yourself, but you must supply castings of the new spells. Upgrading does not allow you to switch any of the spells you'd previously chosen. 
 
 
 

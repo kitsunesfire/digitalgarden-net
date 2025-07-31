@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/5-dramatis-personae/key-np-cs/historic-figures/heroes-of-prophecy/fredja/","noteIcon":""}
+---
+
+# Fredja
+
+[[5. Dramatis Personae/Key NPCs/Historic Figures/Heroes of Prophecy/Fredja\|Fredja]] is remembered as one of the [[5. Dramatis Personae/Key NPCs/Historic Figures/Heroes of Prophecy/Heroes of Prophecy\|Heroes of Prophecy]]. Also known as the Sage of Ages, [[5. Dramatis Personae/Key NPCs/Historic Figures/Heroes of Prophecy/Fredja\|Fredja]]'s study of [[7. Scholarly Details/Cosmology/Cosmic Biology/The Weave/The Weave\|The Weave]] enabled her to safely dismantle the corrupted segments of [[7. Scholarly Details/Cosmology/Cosmic Biology/The Weave/The Weave\|The Weave]] and rebuild it even stronger than before. With [[5. Dramatis Personae/Key NPCs/Historic Figures/Heroes of Prophecy/Fredja\|Fredja]]'s version of [[7. Scholarly Details/Cosmology/Cosmic Biology/The Weave/The Weave\|The Weave]] in tact, [[7. Scholarly Details/Deities/Foreign Pantheons/The Primordial Spirits\|The Primordial Spirits]] were now able to interact with [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]] once more, reinvigorating and enriching each of the [[7. Scholarly Details/Magic/Primordial Sources/Primordial Sources\|Primordial Sources]]. It is because of her efforts that magic such as [[7. Scholarly Details/Magic/Alternative Magic/Geomancy\|Geomancy]] and [[7. Scholarly Details/Magic/Alternative Magic/Arcanimancy\|Arcanimancy]] are once again possible to practice in [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]]. 
