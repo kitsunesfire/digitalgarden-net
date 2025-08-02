@@ -4,12 +4,7 @@
 
 # Monarch
 
-Over the course of Zarthura's long documented history, they have held a number of different titles for their monarch. 
+Zarthura has been ruled by [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|monarchs]] since its foundation, though the title of this reigning [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|monarch]] has changed from [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Tzar\|Tzar]] to [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Kaiser\|Kaiser]] to [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Emperor\|Emperor]] over the years. Unlike other monarchies (the [[0. Archive/Old World Atlas/Vere\|Veretian]] monarchy, for example), the Zarthurian monarchy has rarely been hereditary, with each subsequent [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|monarch]] typically hailing from an entirely different lineage. Even so, it is true that the [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Crown Candidate\|heir to the throne]] is commonly selected from amongst the members of the [[5. Dramatis Personae/Factions/Eternian Government/Ennead\|Ennead]] (particularly those representing the [[4. Gazetteer/Provinces\|Provinces]] of the [[4. Gazetteer/Diurnan Valley/Diurnan Valley\|Diurnan Valley]], the [[4. Gazetteer/Lunar Highlands/Lunar Highlands\|Lunar Highlands]] and the [[4. Gazetteer/Solar Sanctum/Solar Sanctum\|Solar Sanctum]]), so the [[_. GM Screen/Rules of Succession/Rules of Succession\|path to succession]] isn't realistically that much broader here than anywhere else. 
 
-[[7. Scholarly Details/Arts & Culture/Titles/Monarch/Tzar\|Tzar]]
-
-[[7. Scholarly Details/Arts & Culture/Titles/Monarch/Kaiser\|Kaiser]]
-
-[[7. Scholarly Details/Arts & Culture/Titles/Monarch/Emperor\|Emperor]]
-
+Under the Zarthurian monarchy, each [[4. Gazetteer/Provinces\|province]] is governed by a [[7. Scholarly Details/Arts & Culture/Titles/Senator\|Senator]]. While the [[7. Scholarly Details/Arts & Culture/Titles/Senator\|Senators]] are expected to uphold the law of the [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|crown]], they are granted a large degree of autonomy over how they rule over their territory. For instance, even though, *officially*, only the [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Monarch\|Monarch]] has the right to make new laws or to change existing ones, it has been common in Zarthurian history for [[7. Scholarly Details/Arts & Culture/Titles/Senator\|Senators]] to create and enforce provincial laws of their own without the involvement (or even direct approval) of the capital. Therefore, while some aspects of Zarthurian culture and custom remain universal, each [[4. Gazetteer/Provinces\|province]] has over time developed its own distinct sub-culture.
 

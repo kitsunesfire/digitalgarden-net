@@ -4,7 +4,7 @@
 
 # Age of Ascension
 
-- 1441 AD to present (1452 AD)
+- 1440 AD to present (1452 AD)
 - Duration: 11 years (so far)
 - Anticipated duration: approximately 14 years
 

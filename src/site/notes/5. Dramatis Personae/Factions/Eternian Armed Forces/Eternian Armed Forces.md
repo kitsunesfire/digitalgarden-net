@@ -15,13 +15,14 @@ The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Eternian Armed Forces\
 
 ### General Combatants 
 
-- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/National Guard\|National Guard]]: grassroots, mostly untrained volunteer fighters
-- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Imperial Army\|Imperial Army]]: trained soldiers and Imperial law enforcement
-- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Auxilia\|Auxilia]]: foreign-born fighters and support units
+- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/National Guard\|National Guard]]: grassroots, mostly untrained volunteer fighters. Probably your neighbor on the days he isn't too busy being a farmer; someone you can run to for help in a pinch.
+- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Imperial Army\|Imperial Army]]: trained soldiers and Imperial law enforcement. Theoretically act on behalf of the [[4. Gazetteer/Eternian Empire\|Eternian Empire]], but more often than not, act solely in the interest of their own wallets. 
+- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Auxilia\|Auxilia]]: foreign-born fighters, mercenaries and support units. Often enlist as a means of obtaining citizenship. 
 
 ### Special Forces
 
-- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Lunar Legions\|Lunar Legions]]: elite, highly trained bodyguards and spies
-- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Selenomancers\|Selenomancers]]: seers and specialists in defensive lunar magic
-- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Solar Justiciars\|Solar Justiciars]]: holy protectors and [[3. Demographics/Ancestries/Apparition/Demon\|demon]] slayers
-- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Suncasters\|Suncasters]]: highly proficient scholars and specialists in offensive solar magic 
+- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Astral Aegis\|Astral Aegis]]: professional bodyguards and spies. Innovative, loyal, and politically powerful. 
+- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Lunar Legions\|Lunar Legions]]: elite military strategists and aerial cavalry. Highly mobile and incredibly intimidating.
+- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Selenomancers\|Selenomancers]]: seers and specialists in defensive lunar magic. Unsettling, reclusive masters of the unseen.
+- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Solar Justiciars\|Solar Justiciars]]: holy protectors, legal advocates and expert [[3. Demographics/Ancestries/Apparition/Demon\|demon]] slayers. Expensive, but worth every copper. 
+- The [[5. Dramatis Personae/Factions/Eternian Armed Forces/Suncasters\|Suncasters]]: highly proficient scholars and specialists in offensive solar magic. Selfless, hard-working masters of divine light.

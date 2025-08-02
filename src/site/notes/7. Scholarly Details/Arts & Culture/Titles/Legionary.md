@@ -3,3 +3,5 @@
 ---
 
 # Legionary
+
+A title given to members of the [[5. Dramatis Personae/Factions/Eternian Armed Forces/Lunar Legions\|Lunar Legions]].

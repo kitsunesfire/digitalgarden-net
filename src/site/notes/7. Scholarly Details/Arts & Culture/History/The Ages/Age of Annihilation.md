@@ -4,7 +4,7 @@
 
 # Age of Annihilation
 
-- 1405 AD to 1440 AD
+- 1404 AD to 1440 AD
 - Duration: 36 years
 
 The [[7. Scholarly Details/Arts & Culture/History/The Ages/Age of Annihilation\|Age of Annihilation]] came after the [[7. Scholarly Details/Arts & Culture/History/The Ages/Age of Arcana\|Age of Arcana]] and was followed by our current Age, the [[7. Scholarly Details/Arts & Culture/History/The Ages/Age of Ascension\|Age of Ascension]]. The [[7. Scholarly Details/Arts & Culture/History/The Ages/Age of Annihilation\|Age of Annihilation]] is famous as the Age when [[7. Scholarly Details/Medicine/Conditions/Corruption\|Corruption]] ran rampant throughout the mainland of [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]] and nearly consumed its entire population. Were it not for the bravery of the [[5. Dramatis Personae/Key NPCs/Historic Figures/Heroes of Prophecy/Heroes of Prophecy\|Heroes of Prophecy]], it is likely that the world as we know it would have ceased to exist. 
