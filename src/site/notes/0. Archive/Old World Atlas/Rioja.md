@@ -113,10 +113,10 @@ Family Names: Cicone, Racanelli, Magliozzi, Marzilli, Sciara, Renzo, Fallo, Pant
 · Marreo Bartolomei, chef
 · Casimira Aliano, chef
 
-``` dataview
-table Faction, Description
-where Location = ""
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

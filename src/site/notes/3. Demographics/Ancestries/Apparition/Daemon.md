@@ -4,7 +4,7 @@
 
 # Daemon
 
-Denizens of the bleak and terrible realm of [[7. Scholarly Details/Cosmology/Inner Planes/Erebus/The Abyss\|The Abyss]], [[3. Demographics/Ancestries/Apparition/Daemon\|daemons]] are shaped by and devoted to the destruction of life in all its forms. They seek the death of every mortal being by the most painful and horrible means possible, all in service to the apocalyptic entities known as the [[7. Scholarly Details/Deities/Foreign Pantheons/The Mazzaroth/The Mazzaroth\|The Mazzaroth]]. Through the use of their destructive powers they seek to drag all of existence down into a pit of hopelessness and despair and commit all souls to oblivion. 
+Denizens of the bleak and terrible realm of [[7. Scholarly Details/Cosmology/Inner Planes/Erebus/The Abyss\|The Abyss]], [[3. Demographics/Ancestries/Apparition/Daemon\|daemons]] are shaped by and devoted to the destruction of life in all its forms. They seek the death of every mortal being by the most painful and horrible means possible, all in service to the apocalyptic entities known as the [[5. Factions/The Mazzaroth/The Mazzaroth\|The Mazzaroth]]. Through the use of their destructive powers they seek to drag all of existence down into a pit of hopelessness and despair and commit all souls to oblivion. 
 
 While those who summon [[3. Demographics/Ancestries/Apparition/Daemon\|daemons]] to the material plane usually seek to use the creature's powers for their own ends, daemons always look for ways to spread fear, doubt, and despair wherever they go. Often, daemons disguise their plots as the workings of other fiends (especially [[3. Demographics/Ancestries/Apparition/Demon\|demons]]), knowing that such confusion compounds mortals fear. 
 

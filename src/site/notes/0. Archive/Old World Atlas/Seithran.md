@@ -97,10 +97,10 @@ Family Names: Ostojić, Lucic, Mićić, Causevic, Babić, Turković, Mujic, Matk
 
 ## Local NPC Compendium
 
-``` dataview
-table Faction, Description
-where Location = ""
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

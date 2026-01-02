@@ -8,6 +8,6 @@ At level 5, every full spellcaster in Sharum Mal'Kari gains a signature staff, w
 
 - Every character can only have one signature staff 
 - Signature staves can be upgraded at no cost, as part of [[2. Rules Reference/Variant Rules/Automatic Bonus Progression/Automatic Bonus Progression\|Automatic Bonus Progression]]
-	- Signature staves still must be upgraded with the assistance of the [[_. GM Screen/Construction Zone/WIP Entities/Staffcrafters Guild\|Staffcrafters Guild]] 
+	- Signature staves still must be upgraded with the assistance of the [[Staffcrafters Guild\|Staffcrafters Guild]] 
 	- Signature staves are still subject to the standard costs and requirements for revision
 - If ever lost or irrecoverably broken, a cost will be incurred at the GM's discretion; this cost may or may not be monetary

@@ -5,7 +5,7 @@
 # Gain Renown
 #Downtime 
 
-A character can spend [[2. Rules Reference/Downtime/Downtime\|Downtime]] improving his or her [[2. Rules Reference/Subsystems/Reputation/Reputation\|Reputation]] with a particular [[5. Dramatis Personae/Factions/Factions\|Factions]]. 
+A character can spend [[2. Rules Reference/Downtime/Downtime\|Downtime]] improving his or her [[2. Rules Reference/Subsystems/Reputation/Reputation\|Reputation]] with a particular [[Factions\|Factions]]. 
 
 ## Resolution 
 

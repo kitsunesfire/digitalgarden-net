@@ -49,7 +49,7 @@ The primary guidebook to the locations, landmarks, and geographical features of 
 
 >[!recite|c-gray] Dramatis Personae
 
-The primary guidebook to the most important characters of this setting. Find information related to notable [[5. Dramatis Personae/Factions/Factions\|Factions]] here. 
+The primary guidebook to the most important characters of this setting. Find information related to notable [[Factions\|Factions]] here. 
 
 >[!recite|c-blue] Common Knowledge
 

@@ -110,10 +110,10 @@ Patronymic Names: Pavlovich, Danilovich, Zakhariovich, Yurievich, Sergeyevich, O
 
 · Anastasia Nikolayevna, mage
 
-``` dataview
-table Faction, Description
-where Location = ""
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

@@ -115,10 +115,10 @@ Family names: Rakena, Taimana, Paraone, Wirihana, Kerehoma, Munu, Wihone, Munu, 
 · Kea Aulani, chief of Makauleleka
 · Nikolao Akamu, bartender
 
-``` dataview
-table Faction, Description
-where Location = ""
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

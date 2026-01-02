@@ -117,10 +117,10 @@ Personal names: Fen, Xieren, Qigang, Ru, Shui, He, Bai, Zexian, Guanting, Wei, J
 · Shao Xiang, monk
 · Zhen Shun, merchant
 
-``` dataview
-table Faction, Description
-where Location = "Cheongai"
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

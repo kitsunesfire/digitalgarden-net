@@ -4,7 +4,7 @@
 
 # Reputation
 
-While attitudes are useful for tracking an individual's relationship to the party members, sometimes it can be important to know how whole groups of people feel about your entire party. [[2. Rules Reference/Subsystems/Reputation/Reputation\|Reputation]] is a trait given to a [[5. Dramatis Personae/Factions/Factions\|faction]] represents a generalized impression across the whole group-- individual NPCs can hold different opinions. 
+While attitudes are useful for tracking an individual's relationship to the party members, sometimes it can be important to know how whole groups of people feel about your entire party. [[2. Rules Reference/Subsystems/Reputation/Reputation\|Reputation]] is a trait given to a faction which represents a generalized impression across the whole group-- individual NPCs can hold different opinions. 
 
 There are five core [[2. Rules Reference/Subsystems/Reputation/Reputation\|Reputation]] traits:
 

@@ -110,10 +110,10 @@ After many generations of arranged marriages between [[0. Archive/Old World Atla
 · Percival Barnett: feudal lord
 · Leigha Cornwallis: subject of public gossip; rumored to be the king’s mistress and mother of his children
 
-``` dataview
-table Faction, Description
-where Location = ""
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

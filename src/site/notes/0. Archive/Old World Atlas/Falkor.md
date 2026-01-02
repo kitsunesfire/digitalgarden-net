@@ -108,10 +108,10 @@ Family Names: Antonsson, Isaksson, Bjorkman, Lindbergh, Adelsköld, Jansson, Hag
 · Maia Larusar, merchant
 · Fritz Barrason, researcher
 
-``` dataview
-table Faction, Description
-where Location = "Falkor"
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

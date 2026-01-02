@@ -111,10 +111,10 @@ After many generations of arranged marriages between Bahrami and [[0. Archive/Ol
 · Nasrin Vahdat: wealthy land owner
 · Niki Meskini: the only female governor in modern Bahram
 
-``` dataview
-table Faction, Description
-where Location = "Bahram"
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

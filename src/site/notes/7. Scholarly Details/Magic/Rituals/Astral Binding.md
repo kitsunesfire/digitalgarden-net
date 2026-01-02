@@ -14,7 +14,7 @@
 **Area of Effect**: Touch
 **Duration**: Indefinite
 
-[[7. Scholarly Details/Magic/Rituals/Astral Binding\|Astral Binding]] is a [[5. Dramatis Personae/Factions/Luminari\|Luminari]] ritual used to [[7. Scholarly Details/Magic/Other Related Terms/Bond\|bind]] a [[7. Scholarly Details/Arts & Culture/Titles/Spiritualist\|spiritualist]] to an [[7. Scholarly Details/Alchemy/Forbidden Alchemy/Spiritual Alchemy/Aeon\|aeon]], turning that [[7. Scholarly Details/Arts & Culture/Titles/Spiritualist\|Spiritualist]] into a "guardian" known as a [[7. Scholarly Details/Arts & Culture/Titles/Scion\|Scion]]. 
+[[7. Scholarly Details/Magic/Rituals/Astral Binding\|Astral Binding]] is a [[5. Factions/The Luminari/The Luminari\|The Luminari]] ritual used to [[7. Scholarly Details/Magic/Other Related Terms/Bond\|bind]] a [[7. Scholarly Details/Arts & Culture/Titles/Spiritualist\|spiritualist]] to an [[7. Scholarly Details/Alchemy/Forbidden Alchemy/Spiritual Alchemy/Aeon\|aeon]], turning that [[7. Scholarly Details/Arts & Culture/Titles/Spiritualist\|Spiritualist]] into a "guardian" known as a [[7. Scholarly Details/Arts & Culture/Titles/Scion\|Scion]]. 
 
 **Critical Success** 
 **Success** The ritual is successful.

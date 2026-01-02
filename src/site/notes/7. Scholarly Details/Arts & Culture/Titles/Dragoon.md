@@ -4,4 +4,4 @@
 
 # Dragoon
 
-A title given to [[5. Dramatis Personae/Factions/Eternian Armed Forces/Wyrmriders\|Wyrmriders]] who have completed their training.
+A title given to [[5. Factions/The Imperial Army/The Wyrmriders/The Wyrmriders\|The Wyrmriders]] who have completed their training.

@@ -17,4 +17,4 @@
 
 Though a doppelganger generally resembles a member of a common [[3. Demographics/Ancestries/Ancestries\|ancestry]], their distinctive eyes-- each a different color-- set them apart. While not everyone with heterochromia is a doppelganger, all doppelgangers do have this distinctive quality, which often makes it hard for them to hide their nature. 
 
-As they become adults, they may develop other unusual traits related to their manifestation, including rare and supernatural abilities; darkvision innate magic are the most common, but stranger abilities have been known to arise. 
+As they become adults, they may develop other unusual traits related to their manifestation, including rare and supernatural abilities; darkvision and innate magic are the most common, but stranger abilities have been known to arise. 

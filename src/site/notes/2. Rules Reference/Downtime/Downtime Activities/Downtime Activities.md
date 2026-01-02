@@ -12,7 +12,7 @@ Under normal circumstances, you can choose one [[2. Rules Reference/Downtime/Dow
 
 Sometimes, your circumstances may limit the activities you are able to choose. For instance, if you are recovering from an [[7. Scholarly Details/Medicine/Ailments & Injuries/Ailments & Injuries\|ailment or injury]], you might only be able to choose to [[2. Rules Reference/Downtime/Downtime Activities/Relax\|Relax]] for your downtime activity while you recover. Likewise, if you were unable to locate a nearby temple or shrine relevant to your [[6. Common Knowledge/Daily Life/Faith\|Faith]] during your [[2. Rules Reference/Exploration/Exploration\|Exploration]] of the area, you would not be able to choose to [[2. Rules Reference/Downtime/Downtime Activities/Perform Sacred Rites\|Perform Sacred Rites]]-- but you could go exploring to see if there were any interesting temples you missed!  
 
-If you would like to spend your downtime in a way that isn't currently reflected in the existing [[2. Rules Reference/Downtime/Downtime Activities Overview\|activities]], work with your GM to find a solution. 
+If you would like to spend your downtime in a way that isn't currently reflected in the existing [[Downtime Activities Overview\|activities]], work with your GM to find a solution. 
 
 ## Cooperation in Downtime
 

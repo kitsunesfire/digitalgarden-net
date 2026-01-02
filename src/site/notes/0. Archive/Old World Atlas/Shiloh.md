@@ -40,7 +40,7 @@
 All life in Shiloh revolves around worship. While the landscape of Sharum Mal’Kari was once dotted with [[7. Scholarly Details/Arts & Culture/Architecture/Grand Cathedral\|Grand Cathedral]], Tearfall laid waste to many of these hallowed temples. Those that withstood the barrage were targeted by [[3. Demographics/Ancestries/Wyrmkin/Dragon\|dragon]] lords who perceived the worship of the [[7. Scholarly Details/Deities/Foreign Pantheons/The Old Gods\|The Old Gods]] as a threat to their standing, and either reduced them to rubble or repurposed them into secular structures. Through all of this, Shiloh’s [[7. Scholarly Details/Arts & Culture/Architecture/Grand Cathedral\|Grand Cathedral]] is the only one that has survived, and thus is seen as the holy land for Templars of all faiths. From behind the thick, white Orichalcum walls of Shiloh, The Divine commands The Divine Order from their seat in the [[7. Scholarly Details/Arts & Culture/Architecture/Grand Cathedral\|Grand Cathedral]] while Faline Chevalier communes with the Maker herself. In tandem, they are often viewed as the two most powerful individuals in all of modern-day Sharum Mal’Kari.
 
 ## Geography
-Shiloh is a relatively small nation, nestled into the coast of the Gulf of Maladh in between [[0. Archive/Old World Atlas/Bahram\|Bahram]] and [[0. Archive/Old World Atlas/Gath\|Gath]]. They enjoy a mild Mediterranean climate through most of the year, and have very rarely experienced harsh weather or storms. Some say this is evidence of The Divine's blessing and may make for a more hospitable climate for [[3. Demographics/Ancestries/Divine/Seraph\|Seraph]] to thrive; after all, Shiloh is the closest the living can get to paradise.
+Shiloh is a relatively small nation, nestled into the coast of the Gulf of Maladh in between [[0. Archive/Old World Atlas/Bahram\|Bahram]] and [[0. Archive/Old World Atlas/Gath\|Gath]]. They enjoy a mild Mediterranean climate through most of the year, and have very rarely experienced harsh weather or storms. Some say this is evidence of The Divine's blessing and may make for a more hospitable climate for [[3. Demographics/Ancestries/Apparition/Seraph\|Seraph]] to thrive; after all, Shiloh is the closest the living can get to paradise.
 
 When one speaks of Shiloh they are almost always referring to the capital city— though there is much more to this region than the holy capital. Much of their inland territories are comprised of specialty groves, gardens and orchards which produce blessed fruits, flowers, olives, herbs, honey and wool. Nearly all that Shiloh produces are in small batches and limited runs, which typically increases the public demand and drives the prices sky-high.
 
@@ -110,10 +110,10 @@ Family Names: Beauregard, LeMahieu, Lavinge, Gaudin, Alarie, Parmentier, Pascal,
 · Roland Gallois: divine bard and key member of Chandelier
 · Sister Jocelyn: master healer, cloistered in the Grand Cathedral
 
-``` dataview
-table Faction, Description
-where Location = ""
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

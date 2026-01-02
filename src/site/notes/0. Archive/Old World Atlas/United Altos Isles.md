@@ -94,10 +94,10 @@ Names in the United Altos Isles are inspired by mix of Spanish, Portuguese and I
 
 ## Local NPC Compendium
 
-``` dataview
-table Faction, Description
-where Location = ""
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 

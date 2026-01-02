@@ -115,10 +115,10 @@ The current royal family name is Alinafe (Guardians are with us).
 
 ## Notable NPCs
 
-``` dataview
-table Faction, Description
-where Location = "Amina Dorei" 
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
  | File | Art | Description | Party1Standing | Faction | Faith |
 | ---- | --- | ----------- | -------------- | ------- | ----- |

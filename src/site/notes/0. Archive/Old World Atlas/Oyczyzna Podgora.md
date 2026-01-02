@@ -110,10 +110,10 @@ Family Names: Kostrzewa, Mroczek, Wrona, Dacko, Babula, Kotlinski, Dembowski, Tr
 · Adriana Pawalk, jeweler
 · Eliza Ruszala, jeweler
 
-``` dataview
-table Faction, Description
-where Location = ""
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

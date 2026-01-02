@@ -114,10 +114,10 @@ Tsukushi.
 · Aiko: Errai and Hiro’s first-born son
 · Sayaka; Errai and Hiro’s second-born daughter
 
-``` dataview
-table Faction, Description
-where Location = ""
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

@@ -4,4 +4,4 @@
 
 # Celestine Sage
 
-Title given to high-ranking members of the [[5. Dramatis Personae/Factions/Celestine\|Celestine]] church. Experts of [[7. Scholarly Details/Magic/Alternative Magic/Arcanimancy\|Arcanimancy]], who are typically devoting the majority of their time and research towards the completion of a Magnum Opus. 
+Title given to high-ranking members of the [[5. Factions/The Celestine/The Celestine\|The Celestine]] church. Experts of [[7. Scholarly Details/Magic/Alternative Magic/Arcanimancy\|Arcanimancy]], who are typically devoting the majority of their time and research towards the completion of a Magnum Opus. 

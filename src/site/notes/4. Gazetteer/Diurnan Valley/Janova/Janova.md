@@ -30,10 +30,10 @@
 
 ## Points of Interest
 
-- [[4. Gazetteer/Diurnan Valley/Janova/RMC\|RMC]] (Rothschild Maximilian Clinic)
+- [[RMC\|RMC]] (Rothschild Maximilian Clinic)
 - [[4. Gazetteer/Diurnan Valley/Janova/Church of Revelation\|Church of Revelation]] 
 
 
 ## Story Notes
 
-- [[5. Dramatis Personae/Key NPCs/Lothar\|Lothar]] recommended the party stop here on their way towards [[4. Gazetteer/Mystic Mire/Kaer Luthis/Kaer Luthis\|Kaer Luthis]] 
+- [[5. Factions/The Nishanti/Lothar\|Lothar]] recommended the party stop here on their way towards [[4. Gazetteer/Mystic Mire/Kaer Luthis/Kaer Luthis\|Kaer Luthis]] 

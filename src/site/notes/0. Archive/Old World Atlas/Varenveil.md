@@ -100,10 +100,10 @@ Family Names: Canton, Fragoso, Nogueira, Savaria, Lence, Ravelo, Barela, Balboa,
 
 ## Local NPC Compendium
 
-``` dataview
-table Faction, Description
-where Location = ""
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

@@ -21,6 +21,6 @@ A philandering character spends money as though maintaining a [[2. Rules Referen
 | Gained a new [[0. Archive/Character Creation/Character Traits/Contacts\|Contact]]                   | Gained a new rival [[0. Archive/Character Creation/Character Traits/Contacts\|Contact]]              |
 | Gifted an item                                       | Lose an item                                          |
 | Gifted currency                                      | Lose currency                                         |
-| Improved [[2. Rules Reference/Subsystems/Reputation/Reputation\|Reputation]] with a [[5. Dramatis Personae/Factions/Factions\|Faction]] | Harm your [[2. Rules Reference/Subsystems/Reputation/Reputation\|Reputation]] with a [[5. Dramatis Personae/Factions/Factions\|Faction]] |
+| Improved [[2. Rules Reference/Subsystems/Reputation/Reputation\|Reputation]] with a [[Factions\|Faction]] | Harm your [[2. Rules Reference/Subsystems/Reputation/Reputation\|Reputation]] with a [[Factions\|Faction]] |
 | Earned a [[2. Rules Reference/Subsystems/Reputation/Favors\|favor]] from someone              | Owe a [[2. Rules Reference/Subsystems/Reputation/Favors\|favor]] to someone                    |
 ^philander-results

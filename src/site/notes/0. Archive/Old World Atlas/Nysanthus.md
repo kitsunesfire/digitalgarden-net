@@ -100,10 +100,10 @@ Most urban Nysanthans are [[3. Demographics/Ancestries/Human\|Human]] or [[3. De
 · Vasia Stamatialli, famous fortune teller
 · Kalomira Nicolaide, famous dancer
 
-``` dataview
-table Faction, Description
-where Location = ""
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
+
+{ .block-language-dataview}
 
 ## Additional Details
 Placeholder

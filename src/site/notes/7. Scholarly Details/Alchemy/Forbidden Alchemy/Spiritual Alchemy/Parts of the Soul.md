@@ -4,7 +4,7 @@
 
 # Parts of the Soul
 
-The ancient [[5. Dramatis Personae/Factions/Luminari\|Luminari]] believed that a soul was made up of many parts. According to [[5. Dramatis Personae/Factions/Luminari\|Luminari]] creation myths, the god [[7. Scholarly Details/Deities/Local Gods/Genesis\|Genesis]] created the primordial world out of [[7. Scholarly Details/Deities/Local Gods/Tenebrae\|Tenebrae]]'s chaos utilizing their own magic. Because the world was created with magic, [[5. Dramatis Personae/Factions/Luminari\|Luminari]] believed that the world was imbued with magic and so was every living thing upon it. When humans were created, that magic took the form of the soul-- an eternal force which resided in and with every mortal being.
+The ancient [[5. Factions/The Luminari/The Luminari\|The Luminari]] believed that a soul was made up of many parts. According to [[5. Factions/The Luminari/The Luminari\|The Luminari]] creation myths, the god [[7. Scholarly Details/Deities/Local Gods/Genesis\|Genesis]] created the primordial world out of [[7. Scholarly Details/Deities/Local Gods/Tenebrae\|Tenebrae]]'s chaos utilizing their own magic. Because the world was created with magic, [[5. Factions/The Luminari/The Luminari\|The Luminari]] believed that the world was imbued with magic and so was every living thing upon it. When humans were created, that magic took the form of the soul-- an eternal force which resided in and with every mortal being.
 
 The details surrounding the concept of the soul and the parts which encompass it have varied from scholar to scholar, but most sources agree on the following components: 
 

@@ -4,4 +4,4 @@
 
 # Agent
 
-A title given to a member of the [[5. Dramatis Personae/Factions/Eternian Armed Forces/Astral Aegis\|Astral Aegis]]. 
+A title given to a member of the [[5. Factions/The Imperial Army/The Astral Aegis/The Astral Aegis\|The Astral Aegis]]. 
