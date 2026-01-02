@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/5-dramatis-personae/factions/eternian-armed-forces/national-guard/","noteIcon":""}
----
-
-# National Guard
-
-Not to be confused with highly trained, full-time soldiers (such as the members of the [[5. Dramatis Personae/Factions/Eternian Armed Forces/Imperial Army\|Imperial Army]] or the [[5. Dramatis Personae/Factions/Eternian Armed Forces/Astral Aegis\|Astral Aegis]]), members of the [[5. Dramatis Personae/Factions/Eternian Armed Forces/National Guard\|National Guard]] are volunteer forces that are only obligated to serve 40 days out of the year to their assigned post. As a result, the [[5. Dramatis Personae/Factions/Eternian Armed Forces/National Guard\|National Guard]] tend to have much stronger allegiances to their town and [[4. Gazetteer/Provinces\|province]] than to their [[7. Scholarly Details/Arts & Culture/Titles/Monarch/Emperor\|Emperor]]. 
-
-These troops are often only armed with whatever equipment they can afford themselves and given the bare minimum of combat support or training, but they are not to be underestimated. The [[5. Dramatis Personae/Factions/Eternian Armed Forces/National Guard\|National Guard]] are also said to be initiated in ancient rites that may dramatically improve their effectiveness in battle; when there were [[3. Demographics/Ancestries/Darkspawn/Darkspawn\|Darkspawn]] outbreaks across [[0. Archive/Old World Atlas/Zarthura\|Zarthura]] during the [[7. Scholarly Details/Arts & Culture/History/The Ages/Age of Annihilation\|Age of Annihilation]], it is believed that these grassroots, magically-enhanced fighters are what ultimately what made the difference, sparing the continent from the same magnitude of [[7. Scholarly Details/Medicine/Conditions/Corruption\|Corruption]] that plagued (and nearly destroyed) the rest of [[0. Archive/Sharum Mal'Kari\|Sharum Mal'Kari]].
